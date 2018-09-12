@@ -1,0 +1,548 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,RT @Fox411: Why @megynkelly is leaving @FoxNews for NBC https://t.co/4tcuwKxg73 @HowardKurtz https://t.co/N3WpDgO8KP,Tue Jan 03 20:15:21 +0000 2017,0.0,0.0,1.0,0.0
+1,Fox News,Governor calls for free tuition at New York public colleges https://t.co/3hpTbbvaEN,Tue Jan 03 20:01:02 +0000 2017,0.5106,0.248,0.752,0.0
+2,Fox News,Oops! It turns out @amazon's Alexa mistook the 6 y.o.'s conversation about cookies and a dollhouse for an order.… https://t.co/43C9oMejl9,Tue Jan 03 19:56:26 +0000 2017,0.0,0.0,1.0,0.0
+3,Fox News,Woman once accused of faking abduction defends herself to online harassers https://t.co/6KunInzOOs,Tue Jan 03 19:49:01 +0000 2017,-0.9118,0.0,0.388,0.612
+4,Fox News,RT @foxnewshealth: Mom spends holidays with teen who received son's donated heart https://t.co/KbzL11LWx1 https://t.co/xtwZGTHZfJ,Tue Jan 03 19:47:12 +0000 2017,0.3818,0.167,0.833,0.0
+5,Fox News,Injured dog stranded on train tracks protected by furry friend  https://t.co/cUKpraljQ6,Tue Jan 03 19:37:01 +0000 2017,0.5267,0.363,0.476,0.161
+6,Fox News,Hospital patient angry over long wait time fires pistol; deputies shoot him  https://t.co/Nv0VEtNpPF,Tue Jan 03 19:28:01 +0000 2017,-0.6908,0.0,0.659,0.341
+7,Fox News,"""We must never shy away from making progress for the American people, wherever we can."" - @SpeakerRyan https://t.co/5spd3xVSj3",Tue Jan 03 19:27:21 +0000 2017,0.5484,0.232,0.768,0.0
+8,Fox News,"""We will honor you because you have honored us. We take this sacred trust seriously.""  - @SpeakerRyan",Tue Jan 03 19:23:56 +0000 2017,0.8834,0.442,0.558,0.0
+9,Fox News,"""I want to say to the America people, 'We hear you. We will do right by you and we will deliver.'"" - @SpeakerRyan https://t.co/aNWZYfEq4I",Tue Jan 03 19:23:34 +0000 2017,0.0772,0.056,0.944,0.0
+10,Fox News,".@SpeakerRyan ""They've suffered quietly...but now they have let out a great roar. Now we...must listen.""",Tue Jan 03 19:22:32 +0000 2017,0.2263,0.212,0.622,0.166
+11,Fox News,"""It's no secret that millions and millions of Americans...are deeply dissatisfied with their current situation."" -… https://t.co/1iiIS8EfJh",Tue Jan 03 19:21:33 +0000 2017,-0.624,0.0,0.747,0.253
+12,Fox News,Re-elected @SpeakerRyan addresses the House. Tune in to Fox News Channel now for live coverage. https://t.co/8cp5xT5KZR,Tue Jan 03 19:18:22 +0000 2017,0.0,0.0,1.0,0.0
+13,Fox News,Breaking News: @PRyan has been re-elected House speaker. https://t.co/cFojBGzZww,Tue Jan 03 19:02:40 +0000 2017,0.0,0.0,1.0,0.0
+14,Fox News,RT @foxnewshealth: Cured meats linked to worsening asthma symptoms  https://t.co/I0T6BU1VUF https://t.co/vvxDgukrZA,Tue Jan 03 18:46:42 +0000 2017,-0.4588,0.0,0.769,0.231
+15,Fox News,Child's body found in Colorado pond during hunt for missing 6-year-old boy https://t.co/BjIvYEFqwq,Tue Jan 03 18:46:14 +0000 2017,-0.296,0.0,0.845,0.155
+16,Fox News,JUST IN: @MegynKelly leaving Fox News for new role at NBC https://t.co/Oh1UhiObnZ,Tue Jan 03 18:37:35 +0000 2017,0.0,0.0,1.0,0.0
+17,Fox News,RT @Fox411: Is an #XFactor2016 star aligning for the @realDonaldTrump inauguration?  https://t.co/EpokAsfFNG https://t.co/57TiEih4ZA,Tue Jan 03 18:07:32 +0000 2017,0.0,0.0,1.0,0.0
+18,Fox News,"TONIGHT, 10pm ET: Don't miss @SeanHannity's exclusive interview with @WikiLeaks founder Julian Assange. https://t.co/2aJknGDn9m",Tue Jan 03 17:50:51 +0000 2017,0.0191,0.097,0.81,0.092
+19,Fox News,".@Ford to scrap Mexico plant, invest in Michigan; CEO cites @realDonaldTrump policies. https://t.co/UiiwOZOw8v https://t.co/fRd0VCqD2S",Tue Jan 03 17:34:46 +0000 2017,0.0,0.0,1.0,0.0
+20,CNN,"Sen. Chuck Schumer: I wish we hadn't triggered the ""nuclear option"" https://t.co/DVrC0UuuhE https://t.co/wwMhXcXu0b",Tue Jan 03 20:15:02 +0000 2017,0.4019,0.197,0.803,0.0
+21,CNN,"#StarWars' Mark Hamill remembers his ""funny"" and ""outspoken"" friend Carrie Fisher: ""It's like we were a family""… https://t.co/Rx5tfcaeYV",Tue Jan 03 20:05:02 +0000 2017,0.6908,0.275,0.725,0.0
+22,CNN,The NAACP stages a sit-in at Jeff Sessions' office to protest his nomination as US attorney general… https://t.co/EKBxrxrYNZ,Tue Jan 03 19:57:28 +0000 2017,-0.25,0.0,0.889,0.111
+23,CNN,"RT @CNNPolitics: Paul Ryan to fellow Republicans: ""This is a once in a lifetime opportunity"" https://t.co/wrcQr13ciG https://t.co/emt5IcoEXE",Tue Jan 03 19:43:05 +0000 2017,0.4215,0.167,0.833,0.0
+24,CNN,"Bill and Hillary Clinton to attend Donald Trump's inauguration, their aides say; George W. Bush and Laura Bush too… https://t.co/BpN8MFb3jD",Tue Jan 03 19:39:39 +0000 2017,0.0,0.0,1.0,0.0
+25,CNN,Speaker Paul Ryan swears in the 115th US Congress https://t.co/kuEvREA32s https://t.co/QeUpwDskjc,Tue Jan 03 19:33:23 +0000 2017,0.0516,0.107,0.893,0.0
+26,CNN,Paul Ryan takes his oath as Speaker of the House https://t.co/UYpqI3esEb https://t.co/2fbyqLtxYe,Tue Jan 03 19:31:08 +0000 2017,0.0,0.0,1.0,0.0
+27,CNN,"Paul Ryan to Democrats: ""I promise to hear you out and let you have your say"" https://t.co/yfgzFuAgWt https://t.co/hXdrohyQed",Tue Jan 03 19:30:28 +0000 2017,0.3182,0.119,0.881,0.0
+28,CNN,"Chrysler unveils minivan for millennials, complete with custom lighting, selfie cameras, and facial recognition… https://t.co/MLcrAJJAUp",Tue Jan 03 19:28:57 +0000 2017,0.0,0.0,1.0,0.0
+29,CNN,"Speaker Paul Ryan remarks on unified government: ""You can feel the winds of change"" https://t.co/UYpqI3esEb https://t.co/qWwPFlxrBN",Tue Jan 03 19:28:10 +0000 2017,0.3818,0.148,0.852,0.0
+30,CNN,"Speaker Paul Ryan: ""We hear you. We will do right by you. And we will deliver."" https://t.co/UYpqI3esEb https://t.co/2V4ArLwcVp",Tue Jan 03 19:23:11 +0000 2017,0.0,0.0,1.0,0.0
+31,CNN,"Nancy Pelosi: We cannot allow our democracy ""to be subverted by the dark operations of a foreign regime"" https://t.co/IkWYXtGKxz",Tue Jan 03 19:21:49 +0000 2017,-0.1695,0.0,0.911,0.089
+32,CNN,"Facebook banned this image of the Roman god Neptune in Bologna, Italy for being ""explicitly sexual""… https://t.co/GwXfPGwiOB",Tue Jan 03 19:21:01 +0000 2017,-0.2263,0.104,0.746,0.149
+33,CNN,RT @CNNPolitics: Speaker Paul Ryan speaks at the beginning of the 115th Congress. Join in on #FacebookLive: https://t.co/1aPuCOwm4G https:/…,Tue Jan 03 19:20:12 +0000 2017,0.296,0.109,0.891,0.0
+34,CNN,Republican Paul Ryan is re-elected speaker of the House; Democrat Nancy Pelosi is re-elected minority leader… https://t.co/i0Mb1aTDOV,Tue Jan 03 19:19:15 +0000 2017,0.0,0.0,1.0,0.0
+35,CNN,RT @CNNPolitics: Joe Biden is on the Hill for the ceremonial swearing-in of senators. Watch the first day of Congress live: https://t.co/kr…,Tue Jan 03 19:16:49 +0000 2017,0.0,0.0,1.0,0.0
+36,CNN,This hero 2-year-old boy saved his twin brother after their dresser fell on him while they were playing… https://t.co/kOiLEeleNr,Tue Jan 03 19:14:31 +0000 2017,0.7506,0.274,0.726,0.0
+37,CNN,House Minority Leader Nancy Pelosi introduces Speaker Paul Ryan at the first meeting of the 115th Congress https://t.co/knMBrUWjBV,Tue Jan 03 19:13:35 +0000 2017,0.0,0.0,1.0,0.0
+38,CNN,RT @CNNPolitics: Paul Ryan is greeted by House members after being re-elected as speaker of the House https://t.co/wrcQr13ciG https://t.co/…,Tue Jan 03 19:09:29 +0000 2017,0.2732,0.104,0.896,0.0
+39,CNN,"Senate Republicans file a budget resolution, taking the first step to repeal Obamacare https://t.co/xPKrWeoS3Y https://t.co/rd1EQ4RMkE",Tue Jan 03 19:07:00 +0000 2017,0.0,0.0,1.0,0.0
+40,BBC News (World),Trump inauguration: Clintons and Bushes to attend ceremony https://t.co/SJrW3ZuR6v,Tue Jan 03 20:12:35 +0000 2017,0.0,0.0,1.0,0.0
+41,BBC News (World),Vatican McDonald's divides opinion https://t.co/y1zkQ6jpdI,Tue Jan 03 19:41:06 +0000 2017,0.0,0.0,1.0,0.0
+42,BBC News (World),Anchor Megyn Kelly to join NBC after 12 years with Fox News https://t.co/I2OQ0q1wbm,Tue Jan 03 19:41:06 +0000 2017,0.296,0.155,0.845,0.0
+43,BBC News (World),Two year old rescues twin brother from fallen dresser https://t.co/ijdCkCNamC,Tue Jan 03 18:53:52 +0000 2017,-0.0516,0.18,0.625,0.195
+44,BBC News (World),Hitler's diatribe https://t.co/3QJR6Diow1,Tue Jan 03 18:13:29 +0000 2017,0.0,0.0,1.0,0.0
+45,BBC News (World),Son of murdered Pakistani governor may face charges over 'offensive' video https://t.co/FjB96w0GP8,Tue Jan 03 17:50:51 +0000 2017,-0.7579,0.0,0.606,0.394
+46,BBC News (World),Gambia's electoral commission chief 'goes into hiding' https://t.co/V4KbbN6AdD,Tue Jan 03 17:39:35 +0000 2017,-0.296,0.0,0.761,0.239
+47,BBC News (World),Wife of jailed Iranian activist Arash Sadeghi freed https://t.co/L8ePXa6YDi,Tue Jan 03 17:39:35 +0000 2017,-0.128,0.209,0.543,0.248
+48,BBC News (World),"RT @BBCBreaking: Republicans in House of Representatives to drop plans to weaken ethics watchdog, sources tell US media
+
+https://t.co/Gi5NK…",Tue Jan 03 17:20:50 +0000 2017,-0.5994,0.0,0.776,0.224
+49,BBC News (World),Fireworks explode after lorry overturns in China https://t.co/YWBT1gWmSE,Tue Jan 03 16:59:25 +0000 2017,0.0,0.0,1.0,0.0
+50,BBC News (World),Istanbul attack: Inside Reina nightclub https://t.co/z3igghHqEp,Tue Jan 03 16:59:25 +0000 2017,-0.4767,0.0,0.617,0.383
+51,BBC News (World),"Owners plan to re-open #Reina nightclub in Istanbul where 39 were killed in new year attack 
+Latest:… https://t.co/gg230LRsF1",Tue Jan 03 16:42:28 +0000 2017,-0.8225,0.0,0.678,0.322
+52,BBC News (World),Deciphering Donald https://t.co/WNCNf6xpF9,Tue Jan 03 16:41:24 +0000 2017,0.0,0.0,1.0,0.0
+53,BBC News (World),Ford Motors cancels $1.6bn Mexico plant https://t.co/jQH6dsFCjg,Tue Jan 03 16:34:33 +0000 2017,-0.2263,0.0,0.759,0.241
+54,BBC News (World),"#NotAllMen trends after reports of ""mass molestation"" of women in Bangalore, India
+ https://t.co/kOk2MlAqBK https://t.co/Y6QtOdnOqn",Tue Jan 03 15:56:12 +0000 2017,-0.4404,0.0,0.818,0.182
+55,BBC News (World),RT @BBCTech: CES 2017: Lightbulb streams video to the internet https://t.co/prXn8CMYEZ,Tue Jan 03 15:47:25 +0000 2017,0.0,0.0,1.0,0.0
+56,BBC News (World),"RT @BBCNewsUS: Welcome #BackToWork everyone! 
+And your tweets are hilarious...
+https://t.co/O0goamPm5V https://t.co/tOFTKGvLHY",Tue Jan 03 15:29:08 +0000 2017,0.5093,0.23,0.77,0.0
+57,BBC News (World),RT @BBCBreaking: President-elect Trump says Republicans wrong to prioritise move to limit power of Congress ethics watchdog https://t.co/KR…,Tue Jan 03 15:15:10 +0000 2017,-0.4767,0.0,0.846,0.154
+58,BBC News (World),"RT @BBCNewsUS: Republican leaders in the House have voted to weaken the Office of Congressional Ethics
+Here's what that means: https://t.co…",Tue Jan 03 15:13:15 +0000 2017,-0.4215,0.0,0.877,0.123
+59,BBC News (World),"RT @BBC_WHYS: Three reasons why you should ignore work emails at home, according to a social futurist https://t.co/LCNySgCFQ7",Tue Jan 03 14:54:03 +0000 2017,-0.3612,0.0,0.865,0.135
+60,CBS News,George W. Bush and wife Laura will attend Donald Trump's inauguration https://t.co/zC2NBUpyda https://t.co/UIpYqa7cQQ,Tue Jan 03 20:15:01 +0000 2017,0.0,0.0,1.0,0.0
+61,CBS News,How a baby's accidental fall off a changing table ended up saving his life https://t.co/VunFOPaCVc https://t.co/glBYzwo4rE,Tue Jan 03 20:00:03 +0000 2017,-0.0772,0.0,0.909,0.091
+62,CBS News,"MORE: After bruising general election fight, Clintons to attend Donald Trump's inauguration https://t.co/Gis1SU6RiU https://t.co/ifmeHtiAwa",Tue Jan 03 19:46:44 +0000 2017,-0.3818,0.0,0.833,0.167
+63,CBS News,"Speaker Paul Ryan to constituents, Americans: ""We hear you, we will do right by you, and we will deliver.""… https://t.co/S3gtfyHgDU",Tue Jan 03 19:27:31 +0000 2017,0.0,0.0,1.0,0.0
+64,CBS News,"""Who here among us does not want to open wide the door to opportunity?"" Speaker Paul Ryan asks of 115th Congress:… https://t.co/7RtDao6sql",Tue Jan 03 19:25:58 +0000 2017,-0.0572,0.0,0.945,0.055
+65,CBS News,"""Today, as one body, we pledge allegiance to one flag -- the red, the white and the blue,"" Speaker Paul Ryan says:… https://t.co/bAIdJ8O0yO",Tue Jan 03 19:23:51 +0000 2017,0.0,0.0,1.0,0.0
+66,CBS News,"JUST IN: Former presidential candidate Hillary Clinton and former Pres. Bill Clinton to attend Trump inauguration, CBS News confirms.",Tue Jan 03 19:21:00 +0000 2017,0.0,0.0,1.0,0.0
+67,CBS News,"""We will stand our ground wherever in good conscience we must,"" Rep. Nancy Pelosi says of House Democrats:… https://t.co/ZCqapMoU8B",Tue Jan 03 19:16:44 +0000 2017,0.4404,0.139,0.861,0.0
+68,CBS News,"""We surely have distinct political identities...but above all, we are all Americans,"" Nancy Pelosi says:… https://t.co/BQKhGQ17h1",Tue Jan 03 19:10:10 +0000 2017,0.4404,0.162,0.838,0.0
+69,CBS News,WATCH LIVE: Paul Ryan is re-elected as House speaker; Ryan to speak soon https://t.co/J54RiABFFl https://t.co/5Vdf6QIrUw,Tue Jan 03 19:04:35 +0000 2017,0.0,0.0,1.0,0.0
+70,CBS News,"Singer Rebecca Ferguson wants to perform ""Strange Fruit,"" a famous song about racism, at Trump's inauguration… https://t.co/Hg3iu9yaHn",Tue Jan 03 19:00:02 +0000 2017,-0.7096,0.0,0.704,0.296
+71,CBS News,"MyPillow, company that allows you to customize your own pillow, just got downgraded by the Better Business Bureau… https://t.co/k2kzk4Y7TI",Tue Jan 03 18:45:01 +0000 2017,0.4404,0.139,0.861,0.0
+72,CBS News,"Joely Fisher on her sister, ""You all lost Princess Leia and Carrie Fisher; I lost my hero, my mentor, my mirror”… https://t.co/EDnBxWSNrb",Tue Jan 03 18:30:01 +0000 2017,0.0,0.137,0.687,0.176
+73,CBS News,Oprah says she'll miss the Obama's annual Christmas card &amp; the symbolism it had to her as an African American woman… https://t.co/mGzG6nGdRb,Tue Jan 03 18:02:45 +0000 2017,-0.1531,0.0,0.929,0.071
+74,CBS News,Oprah reflects on First Family's legacy and her recent interview with Michelle Obama  https://t.co/t1Aiewn7kV https://t.co/wqnhHsZTdw,Tue Jan 03 17:55:16 +0000 2017,0.0,0.0,1.0,0.0
+75,CBS News,MORE: House GOP withdraws effort that would have stripped ethics watchdog of its power after facing backlash… https://t.co/l1A4nkri3p,Tue Jan 03 17:41:40 +0000 2017,0.0,0.0,1.0,0.0
+76,CBS News,JUST IN: House GOP ends effort to weaken Office of Congressional Ethics https://t.co/UJZTaoxA50 https://t.co/FmdeX97TxA,Tue Jan 03 17:24:56 +0000 2017,-0.4215,0.0,0.823,0.177
+77,CBS News,Ford cancels Mexico plant and announces investment in Michigan. Its CEO says the move is unrelated to Trump's tweet… https://t.co/hArqwR0Ix5,Tue Jan 03 17:22:01 +0000 2017,-0.2263,0.0,0.909,0.091
+78,CBS News,Singer Rebecca Ferguson says she'll perform at Trump's inauguration -- there's just one condition… https://t.co/jxxoad08PH,Tue Jan 03 17:11:01 +0000 2017,0.0,0.0,1.0,0.0
+79,CBS News,"As the 115th Congress is sworn in Tuesday, GOP lawmakers target key Obama initiatives https://t.co/YgybTMTbMX https://t.co/PkZpgy9UXV",Tue Jan 03 16:51:01 +0000 2017,0.0,0.0,1.0,0.0
+80,The New York Times,Is your workout getting you nowhere? Maybe you’re a non-responder. https://t.co/uv6TSN3lLW,Tue Jan 03 20:15:10 +0000 2017,0.0,0.0,1.0,0.0
+81,The New York Times,New year. New commute. New subway. https://t.co/t9bSnJNAO5,Tue Jan 03 19:55:05 +0000 2017,0.0,0.0,1.0,0.0
+82,The New York Times,"RT @EllenBarryNYT: Tale of two teenaged whistleblowers who reached out to the U.S. government to describe a sprawling, intricate scam. http…",Tue Jan 03 19:45:02 +0000 2017,-0.4019,0.127,0.717,0.156
+83,The New York Times,"What it's like to be a hockey organist, in 360° https://t.co/BbxKuix08M #Daily360 https://t.co/YXdz2Jr6nO",Tue Jan 03 19:30:14 +0000 2017,0.3612,0.185,0.815,0.0
+84,The New York Times,Paul Ryan will continue to lead the House as it heads into an era of unified Republican government https://t.co/26OwqkgOFQ,Tue Jan 03 19:15:04 +0000 2017,0.3818,0.126,0.874,0.0
+85,The New York Times,"President Obama's current mission: Save the Affordable Care Act
+https://t.co/HhwCG79Ykk",Tue Jan 03 18:59:02 +0000 2017,0.7506,0.444,0.556,0.0
+86,The New York Times,"Obama's vision of health care: Not just covering the uninsured, but also changing the way care is delivered https://t.co/JkzyzNM474",Tue Jan 03 18:45:02 +0000 2017,0.7845,0.331,0.669,0.0
+87,The New York Times,One of Germany’s best sellers last year? An annotated version of Adolf Hitler’s “Mein Kampf.” https://t.co/APMWbeRQrs,Tue Jan 03 18:30:09 +0000 2017,0.6369,0.219,0.781,0.0
+88,The New York Times,"How ""elites"" became one of the nastiest epithets in American politics https://t.co/CBHGzgzLZt via @nytmag",Tue Jan 03 18:20:06 +0000 2017,-0.5267,0.0,0.793,0.207
+89,The New York Times,What does Trump know about who hacked the presidential election? Tuesday may be the day the world finds out. https://t.co/mw2isUmPxs,Tue Jan 03 18:09:06 +0000 2017,-0.4019,0.0,0.876,0.124
+90,The New York Times,"Donald Trump has vowed to deport millions. To do so, experts say they expect the return of home and workplace raids. https://t.co/rmJ4JP8ANX",Tue Jan 03 18:00:23 +0000 2017,0.0,0.0,1.0,0.0
+91,The New York Times,"Fox News is losing Megyn Kelly. She will move to NBC, where she will have her own daytime and weekend shows. https://t.co/hGhS9pHsw9",Tue Jan 03 17:36:02 +0000 2017,-0.3818,0.0,0.89,0.11
+92,The New York Times,Breaking News: Megyn Kelly has decided to leave Fox News to take on a new role at NBC News https://t.co/046RDVozxY,Tue Jan 03 17:34:51 +0000 2017,-0.0516,0.0,0.938,0.062
+93,The New York Times,"House Republicans reversed their plan to gut an ethics office, after intense criticism from Donald Trump and others https://t.co/uEKFLtkwaM",Tue Jan 03 17:33:03 +0000 2017,-0.3818,0.061,0.802,0.137
+94,The New York Times,Breaking News: House Republicans reversed course and withdrew a plan to gut an ethics office https://t.co/DK0vXxYQD6,Tue Jan 03 17:28:00 +0000 2017,0.0,0.0,1.0,0.0
+95,The New York Times,"RT @nytpolitics: Trump picked Robert Lighthizer, a trade lawyer who has argued in favor of protectionist policies, as his trade rep. https:…",Tue Jan 03 17:22:02 +0000 2017,0.0516,0.112,0.785,0.103
+96,The New York Times,"Pharrell Williams has been deeply involved with ""Hidden Figures,"" a film he cares about profoundly https://t.co/UpMHThHXrG",Tue Jan 03 17:15:05 +0000 2017,0.4588,0.176,0.824,0.0
+97,The New York Times,"RT @nytopinion: To stop Trump, Democrats should act like the Tea Party: organize locally and play defense https://t.co/lvV0gLHSIl https://t…",Tue Jan 03 16:59:06 +0000 2017,0.7096,0.36,0.553,0.087
+98,The New York Times,"What the House Republicans' vote to gut the ethics office means, and what happens next https://t.co/CGOEQD6TYu",Tue Jan 03 16:45:06 +0000 2017,0.0,0.0,1.0,0.0
+99,The New York Times,A handful of Republicans and liberal ethics activists wrote a letter to Trump urging him to sell his business assets https://t.co/Jf6v63O5ez,Tue Jan 03 16:25:06 +0000 2017,0.1779,0.086,0.914,0.0
+100,Fox News,'I didn't expect this': Homeowners cope with damage after deadly storms strike Southeast  https://t.co/vFui7Huv3d… https://t.co/WzYokczhZg,Tue Jan 03 20:16:02 +0000 2017,-0.5719,0.0,0.734,0.266
+101,Fox News,RT @Fox411: Why @megynkelly is leaving @FoxNews for NBC https://t.co/4tcuwKxg73 @HowardKurtz https://t.co/N3WpDgO8KP,Tue Jan 03 20:15:21 +0000 2017,0.0,0.0,1.0,0.0
+102,Fox News,Governor calls for free tuition at New York public colleges https://t.co/3hpTbbvaEN,Tue Jan 03 20:01:02 +0000 2017,0.5106,0.248,0.752,0.0
+103,Fox News,Oops! It turns out @amazon's Alexa mistook the 6 y.o.'s conversation about cookies and a dollhouse for an order.… https://t.co/43C9oMejl9,Tue Jan 03 19:56:26 +0000 2017,0.0,0.0,1.0,0.0
+104,Fox News,Woman once accused of faking abduction defends herself to online harassers https://t.co/6KunInzOOs,Tue Jan 03 19:49:01 +0000 2017,-0.9118,0.0,0.388,0.612
+105,Fox News,RT @foxnewshealth: Mom spends holidays with teen who received son's donated heart https://t.co/KbzL11LWx1 https://t.co/xtwZGTHZfJ,Tue Jan 03 19:47:12 +0000 2017,0.3818,0.167,0.833,0.0
+106,Fox News,Injured dog stranded on train tracks protected by furry friend  https://t.co/cUKpraljQ6,Tue Jan 03 19:37:01 +0000 2017,0.5267,0.363,0.476,0.161
+107,Fox News,Hospital patient angry over long wait time fires pistol; deputies shoot him  https://t.co/Nv0VEtNpPF,Tue Jan 03 19:28:01 +0000 2017,-0.6908,0.0,0.659,0.341
+108,Fox News,"""We must never shy away from making progress for the American people, wherever we can."" - @SpeakerRyan https://t.co/5spd3xVSj3",Tue Jan 03 19:27:21 +0000 2017,0.5484,0.232,0.768,0.0
+109,Fox News,"""We will honor you because you have honored us. We take this sacred trust seriously.""  - @SpeakerRyan",Tue Jan 03 19:23:56 +0000 2017,0.8834,0.442,0.558,0.0
+110,Fox News,"""I want to say to the America people, 'We hear you. We will do right by you and we will deliver.'"" - @SpeakerRyan https://t.co/aNWZYfEq4I",Tue Jan 03 19:23:34 +0000 2017,0.0772,0.056,0.944,0.0
+111,Fox News,".@SpeakerRyan ""They've suffered quietly...but now they have let out a great roar. Now we...must listen.""",Tue Jan 03 19:22:32 +0000 2017,0.2263,0.212,0.622,0.166
+112,Fox News,"""It's no secret that millions and millions of Americans...are deeply dissatisfied with their current situation."" -… https://t.co/1iiIS8EfJh",Tue Jan 03 19:21:33 +0000 2017,-0.624,0.0,0.747,0.253
+113,Fox News,Re-elected @SpeakerRyan addresses the House. Tune in to Fox News Channel now for live coverage. https://t.co/8cp5xT5KZR,Tue Jan 03 19:18:22 +0000 2017,0.0,0.0,1.0,0.0
+114,Fox News,Breaking News: @PRyan has been re-elected House speaker. https://t.co/cFojBGzZww,Tue Jan 03 19:02:40 +0000 2017,0.0,0.0,1.0,0.0
+115,Fox News,RT @foxnewshealth: Cured meats linked to worsening asthma symptoms  https://t.co/I0T6BU1VUF https://t.co/vvxDgukrZA,Tue Jan 03 18:46:42 +0000 2017,-0.4588,0.0,0.769,0.231
+116,Fox News,Child's body found in Colorado pond during hunt for missing 6-year-old boy https://t.co/BjIvYEFqwq,Tue Jan 03 18:46:14 +0000 2017,-0.296,0.0,0.845,0.155
+117,Fox News,JUST IN: @MegynKelly leaving Fox News for new role at NBC https://t.co/Oh1UhiObnZ,Tue Jan 03 18:37:35 +0000 2017,0.0,0.0,1.0,0.0
+118,Fox News,RT @Fox411: Is an #XFactor2016 star aligning for the @realDonaldTrump inauguration?  https://t.co/EpokAsfFNG https://t.co/57TiEih4ZA,Tue Jan 03 18:07:32 +0000 2017,0.0,0.0,1.0,0.0
+119,Fox News,"TONIGHT, 10pm ET: Don't miss @SeanHannity's exclusive interview with @WikiLeaks founder Julian Assange. https://t.co/2aJknGDn9m",Tue Jan 03 17:50:51 +0000 2017,0.0191,0.097,0.81,0.092
+120,CNN,"Sen. Chuck Schumer: I wish we hadn't triggered the ""nuclear option"" https://t.co/DVrC0UuuhE https://t.co/wwMhXcXu0b",Tue Jan 03 20:15:02 +0000 2017,0.4019,0.197,0.803,0.0
+121,CNN,"#StarWars' Mark Hamill remembers his ""funny"" and ""outspoken"" friend Carrie Fisher: ""It's like we were a family""… https://t.co/Rx5tfcaeYV",Tue Jan 03 20:05:02 +0000 2017,0.6908,0.275,0.725,0.0
+122,CNN,The NAACP stages a sit-in at Jeff Sessions' office to protest his nomination as US attorney general… https://t.co/EKBxrxrYNZ,Tue Jan 03 19:57:28 +0000 2017,-0.25,0.0,0.889,0.111
+123,CNN,"RT @CNNPolitics: Paul Ryan to fellow Republicans: ""This is a once in a lifetime opportunity"" https://t.co/wrcQr13ciG https://t.co/emt5IcoEXE",Tue Jan 03 19:43:05 +0000 2017,0.4215,0.167,0.833,0.0
+124,CNN,"Bill and Hillary Clinton to attend Donald Trump's inauguration, their aides say; George W. Bush and Laura Bush too… https://t.co/BpN8MFb3jD",Tue Jan 03 19:39:39 +0000 2017,0.0,0.0,1.0,0.0
+125,CNN,Speaker Paul Ryan swears in the 115th US Congress https://t.co/kuEvREA32s https://t.co/QeUpwDskjc,Tue Jan 03 19:33:23 +0000 2017,0.0516,0.107,0.893,0.0
+126,CNN,Paul Ryan takes his oath as Speaker of the House https://t.co/UYpqI3esEb https://t.co/2fbyqLtxYe,Tue Jan 03 19:31:08 +0000 2017,0.0,0.0,1.0,0.0
+127,CNN,"Paul Ryan to Democrats: ""I promise to hear you out and let you have your say"" https://t.co/yfgzFuAgWt https://t.co/hXdrohyQed",Tue Jan 03 19:30:28 +0000 2017,0.3182,0.119,0.881,0.0
+128,CNN,"Chrysler unveils minivan for millennials, complete with custom lighting, selfie cameras, and facial recognition… https://t.co/MLcrAJJAUp",Tue Jan 03 19:28:57 +0000 2017,0.0,0.0,1.0,0.0
+129,CNN,"Speaker Paul Ryan remarks on unified government: ""You can feel the winds of change"" https://t.co/UYpqI3esEb https://t.co/qWwPFlxrBN",Tue Jan 03 19:28:10 +0000 2017,0.3818,0.148,0.852,0.0
+130,CNN,"Speaker Paul Ryan: ""We hear you. We will do right by you. And we will deliver."" https://t.co/UYpqI3esEb https://t.co/2V4ArLwcVp",Tue Jan 03 19:23:11 +0000 2017,0.0,0.0,1.0,0.0
+131,CNN,"Nancy Pelosi: We cannot allow our democracy ""to be subverted by the dark operations of a foreign regime"" https://t.co/IkWYXtGKxz",Tue Jan 03 19:21:49 +0000 2017,-0.1695,0.0,0.911,0.089
+132,CNN,"Facebook banned this image of the Roman god Neptune in Bologna, Italy for being ""explicitly sexual""… https://t.co/GwXfPGwiOB",Tue Jan 03 19:21:01 +0000 2017,-0.2263,0.104,0.746,0.149
+133,CNN,RT @CNNPolitics: Speaker Paul Ryan speaks at the beginning of the 115th Congress. Join in on #FacebookLive: https://t.co/1aPuCOwm4G https:/…,Tue Jan 03 19:20:12 +0000 2017,0.296,0.109,0.891,0.0
+134,CNN,Republican Paul Ryan is re-elected speaker of the House; Democrat Nancy Pelosi is re-elected minority leader… https://t.co/i0Mb1aTDOV,Tue Jan 03 19:19:15 +0000 2017,0.0,0.0,1.0,0.0
+135,CNN,RT @CNNPolitics: Joe Biden is on the Hill for the ceremonial swearing-in of senators. Watch the first day of Congress live: https://t.co/kr…,Tue Jan 03 19:16:49 +0000 2017,0.0,0.0,1.0,0.0
+136,CNN,This hero 2-year-old boy saved his twin brother after their dresser fell on him while they were playing… https://t.co/kOiLEeleNr,Tue Jan 03 19:14:31 +0000 2017,0.7506,0.274,0.726,0.0
+137,CNN,House Minority Leader Nancy Pelosi introduces Speaker Paul Ryan at the first meeting of the 115th Congress https://t.co/knMBrUWjBV,Tue Jan 03 19:13:35 +0000 2017,0.0,0.0,1.0,0.0
+138,CNN,RT @CNNPolitics: Paul Ryan is greeted by House members after being re-elected as speaker of the House https://t.co/wrcQr13ciG https://t.co/…,Tue Jan 03 19:09:29 +0000 2017,0.2732,0.104,0.896,0.0
+139,CNN,"Senate Republicans file a budget resolution, taking the first step to repeal Obamacare https://t.co/xPKrWeoS3Y https://t.co/rd1EQ4RMkE",Tue Jan 03 19:07:00 +0000 2017,0.0,0.0,1.0,0.0
+140,BBC News (World),Trump inauguration: Clintons and Bushes to attend ceremony https://t.co/SJrW3ZuR6v,Tue Jan 03 20:12:35 +0000 2017,0.0,0.0,1.0,0.0
+141,BBC News (World),Vatican McDonald's divides opinion https://t.co/y1zkQ6jpdI,Tue Jan 03 19:41:06 +0000 2017,0.0,0.0,1.0,0.0
+142,BBC News (World),Anchor Megyn Kelly to join NBC after 12 years with Fox News https://t.co/I2OQ0q1wbm,Tue Jan 03 19:41:06 +0000 2017,0.296,0.155,0.845,0.0
+143,BBC News (World),Two year old rescues twin brother from fallen dresser https://t.co/ijdCkCNamC,Tue Jan 03 18:53:52 +0000 2017,-0.0516,0.18,0.625,0.195
+144,BBC News (World),Hitler's diatribe https://t.co/3QJR6Diow1,Tue Jan 03 18:13:29 +0000 2017,0.0,0.0,1.0,0.0
+145,BBC News (World),Son of murdered Pakistani governor may face charges over 'offensive' video https://t.co/FjB96w0GP8,Tue Jan 03 17:50:51 +0000 2017,-0.7579,0.0,0.606,0.394
+146,BBC News (World),Gambia's electoral commission chief 'goes into hiding' https://t.co/V4KbbN6AdD,Tue Jan 03 17:39:35 +0000 2017,-0.296,0.0,0.761,0.239
+147,BBC News (World),Wife of jailed Iranian activist Arash Sadeghi freed https://t.co/L8ePXa6YDi,Tue Jan 03 17:39:35 +0000 2017,-0.128,0.209,0.543,0.248
+148,BBC News (World),"RT @BBCBreaking: Republicans in House of Representatives to drop plans to weaken ethics watchdog, sources tell US media
+
+https://t.co/Gi5NK…",Tue Jan 03 17:20:50 +0000 2017,-0.5994,0.0,0.776,0.224
+149,BBC News (World),Fireworks explode after lorry overturns in China https://t.co/YWBT1gWmSE,Tue Jan 03 16:59:25 +0000 2017,0.0,0.0,1.0,0.0
+150,BBC News (World),Istanbul attack: Inside Reina nightclub https://t.co/z3igghHqEp,Tue Jan 03 16:59:25 +0000 2017,-0.4767,0.0,0.617,0.383
+151,BBC News (World),"Owners plan to re-open #Reina nightclub in Istanbul where 39 were killed in new year attack 
+Latest:… https://t.co/gg230LRsF1",Tue Jan 03 16:42:28 +0000 2017,-0.8225,0.0,0.678,0.322
+152,BBC News (World),Deciphering Donald https://t.co/WNCNf6xpF9,Tue Jan 03 16:41:24 +0000 2017,0.0,0.0,1.0,0.0
+153,BBC News (World),Ford Motors cancels $1.6bn Mexico plant https://t.co/jQH6dsFCjg,Tue Jan 03 16:34:33 +0000 2017,-0.2263,0.0,0.759,0.241
+154,BBC News (World),"#NotAllMen trends after reports of ""mass molestation"" of women in Bangalore, India
+ https://t.co/kOk2MlAqBK https://t.co/Y6QtOdnOqn",Tue Jan 03 15:56:12 +0000 2017,-0.4404,0.0,0.818,0.182
+155,BBC News (World),RT @BBCTech: CES 2017: Lightbulb streams video to the internet https://t.co/prXn8CMYEZ,Tue Jan 03 15:47:25 +0000 2017,0.0,0.0,1.0,0.0
+156,BBC News (World),"RT @BBCNewsUS: Welcome #BackToWork everyone! 
+And your tweets are hilarious...
+https://t.co/O0goamPm5V https://t.co/tOFTKGvLHY",Tue Jan 03 15:29:08 +0000 2017,0.5093,0.23,0.77,0.0
+157,BBC News (World),RT @BBCBreaking: President-elect Trump says Republicans wrong to prioritise move to limit power of Congress ethics watchdog https://t.co/KR…,Tue Jan 03 15:15:10 +0000 2017,-0.4767,0.0,0.846,0.154
+158,BBC News (World),"RT @BBCNewsUS: Republican leaders in the House have voted to weaken the Office of Congressional Ethics
+Here's what that means: https://t.co…",Tue Jan 03 15:13:15 +0000 2017,-0.4215,0.0,0.877,0.123
+159,BBC News (World),"RT @BBC_WHYS: Three reasons why you should ignore work emails at home, according to a social futurist https://t.co/LCNySgCFQ7",Tue Jan 03 14:54:03 +0000 2017,-0.3612,0.0,0.865,0.135
+160,CBS News,George W. Bush and wife Laura will attend Donald Trump's inauguration https://t.co/zC2NBUpyda https://t.co/UIpYqa7cQQ,Tue Jan 03 20:15:01 +0000 2017,0.0,0.0,1.0,0.0
+161,CBS News,How a baby's accidental fall off a changing table ended up saving his life https://t.co/VunFOPaCVc https://t.co/glBYzwo4rE,Tue Jan 03 20:00:03 +0000 2017,-0.0772,0.0,0.909,0.091
+162,CBS News,"MORE: After bruising general election fight, Clintons to attend Donald Trump's inauguration https://t.co/Gis1SU6RiU https://t.co/ifmeHtiAwa",Tue Jan 03 19:46:44 +0000 2017,-0.3818,0.0,0.833,0.167
+163,CBS News,"Speaker Paul Ryan to constituents, Americans: ""We hear you, we will do right by you, and we will deliver.""… https://t.co/S3gtfyHgDU",Tue Jan 03 19:27:31 +0000 2017,0.0,0.0,1.0,0.0
+164,CBS News,"""Who here among us does not want to open wide the door to opportunity?"" Speaker Paul Ryan asks of 115th Congress:… https://t.co/7RtDao6sql",Tue Jan 03 19:25:58 +0000 2017,-0.0572,0.0,0.945,0.055
+165,CBS News,"""Today, as one body, we pledge allegiance to one flag -- the red, the white and the blue,"" Speaker Paul Ryan says:… https://t.co/bAIdJ8O0yO",Tue Jan 03 19:23:51 +0000 2017,0.0,0.0,1.0,0.0
+166,CBS News,"JUST IN: Former presidential candidate Hillary Clinton and former Pres. Bill Clinton to attend Trump inauguration, CBS News confirms.",Tue Jan 03 19:21:00 +0000 2017,0.0,0.0,1.0,0.0
+167,CBS News,"""We will stand our ground wherever in good conscience we must,"" Rep. Nancy Pelosi says of House Democrats:… https://t.co/ZCqapMoU8B",Tue Jan 03 19:16:44 +0000 2017,0.4404,0.139,0.861,0.0
+168,CBS News,"""We surely have distinct political identities...but above all, we are all Americans,"" Nancy Pelosi says:… https://t.co/BQKhGQ17h1",Tue Jan 03 19:10:10 +0000 2017,0.4404,0.162,0.838,0.0
+169,CBS News,WATCH LIVE: Paul Ryan is re-elected as House speaker; Ryan to speak soon https://t.co/J54RiABFFl https://t.co/5Vdf6QIrUw,Tue Jan 03 19:04:35 +0000 2017,0.0,0.0,1.0,0.0
+170,CBS News,"Singer Rebecca Ferguson wants to perform ""Strange Fruit,"" a famous song about racism, at Trump's inauguration… https://t.co/Hg3iu9yaHn",Tue Jan 03 19:00:02 +0000 2017,-0.7096,0.0,0.704,0.296
+171,CBS News,"MyPillow, company that allows you to customize your own pillow, just got downgraded by the Better Business Bureau… https://t.co/k2kzk4Y7TI",Tue Jan 03 18:45:01 +0000 2017,0.4404,0.139,0.861,0.0
+172,CBS News,"Joely Fisher on her sister, ""You all lost Princess Leia and Carrie Fisher; I lost my hero, my mentor, my mirror”… https://t.co/EDnBxWSNrb",Tue Jan 03 18:30:01 +0000 2017,0.0,0.137,0.687,0.176
+173,CBS News,Oprah says she'll miss the Obama's annual Christmas card &amp; the symbolism it had to her as an African American woman… https://t.co/mGzG6nGdRb,Tue Jan 03 18:02:45 +0000 2017,-0.1531,0.0,0.929,0.071
+174,CBS News,Oprah reflects on First Family's legacy and her recent interview with Michelle Obama  https://t.co/t1Aiewn7kV https://t.co/wqnhHsZTdw,Tue Jan 03 17:55:16 +0000 2017,0.0,0.0,1.0,0.0
+175,CBS News,MORE: House GOP withdraws effort that would have stripped ethics watchdog of its power after facing backlash… https://t.co/l1A4nkri3p,Tue Jan 03 17:41:40 +0000 2017,0.0,0.0,1.0,0.0
+176,CBS News,JUST IN: House GOP ends effort to weaken Office of Congressional Ethics https://t.co/UJZTaoxA50 https://t.co/FmdeX97TxA,Tue Jan 03 17:24:56 +0000 2017,-0.4215,0.0,0.823,0.177
+177,CBS News,Ford cancels Mexico plant and announces investment in Michigan. Its CEO says the move is unrelated to Trump's tweet… https://t.co/hArqwR0Ix5,Tue Jan 03 17:22:01 +0000 2017,-0.2263,0.0,0.909,0.091
+178,CBS News,Singer Rebecca Ferguson says she'll perform at Trump's inauguration -- there's just one condition… https://t.co/jxxoad08PH,Tue Jan 03 17:11:01 +0000 2017,0.0,0.0,1.0,0.0
+179,CBS News,"As the 115th Congress is sworn in Tuesday, GOP lawmakers target key Obama initiatives https://t.co/YgybTMTbMX https://t.co/PkZpgy9UXV",Tue Jan 03 16:51:01 +0000 2017,0.0,0.0,1.0,0.0
+180,The New York Times,Is your workout getting you nowhere? Maybe you’re a non-responder. https://t.co/uv6TSN3lLW,Tue Jan 03 20:15:10 +0000 2017,0.0,0.0,1.0,0.0
+181,The New York Times,New year. New commute. New subway. https://t.co/t9bSnJNAO5,Tue Jan 03 19:55:05 +0000 2017,0.0,0.0,1.0,0.0
+182,The New York Times,"RT @EllenBarryNYT: Tale of two teenaged whistleblowers who reached out to the U.S. government to describe a sprawling, intricate scam. http…",Tue Jan 03 19:45:02 +0000 2017,-0.4019,0.127,0.717,0.156
+183,The New York Times,"What it's like to be a hockey organist, in 360° https://t.co/BbxKuix08M #Daily360 https://t.co/YXdz2Jr6nO",Tue Jan 03 19:30:14 +0000 2017,0.3612,0.185,0.815,0.0
+184,The New York Times,Paul Ryan will continue to lead the House as it heads into an era of unified Republican government https://t.co/26OwqkgOFQ,Tue Jan 03 19:15:04 +0000 2017,0.3818,0.126,0.874,0.0
+185,The New York Times,"President Obama's current mission: Save the Affordable Care Act
+https://t.co/HhwCG79Ykk",Tue Jan 03 18:59:02 +0000 2017,0.7506,0.444,0.556,0.0
+186,The New York Times,"Obama's vision of health care: Not just covering the uninsured, but also changing the way care is delivered https://t.co/JkzyzNM474",Tue Jan 03 18:45:02 +0000 2017,0.7845,0.331,0.669,0.0
+187,The New York Times,One of Germany’s best sellers last year? An annotated version of Adolf Hitler’s “Mein Kampf.” https://t.co/APMWbeRQrs,Tue Jan 03 18:30:09 +0000 2017,0.6369,0.219,0.781,0.0
+188,The New York Times,"How ""elites"" became one of the nastiest epithets in American politics https://t.co/CBHGzgzLZt via @nytmag",Tue Jan 03 18:20:06 +0000 2017,-0.5267,0.0,0.793,0.207
+189,The New York Times,What does Trump know about who hacked the presidential election? Tuesday may be the day the world finds out. https://t.co/mw2isUmPxs,Tue Jan 03 18:09:06 +0000 2017,-0.4019,0.0,0.876,0.124
+190,The New York Times,"Donald Trump has vowed to deport millions. To do so, experts say they expect the return of home and workplace raids. https://t.co/rmJ4JP8ANX",Tue Jan 03 18:00:23 +0000 2017,0.0,0.0,1.0,0.0
+191,The New York Times,"Fox News is losing Megyn Kelly. She will move to NBC, where she will have her own daytime and weekend shows. https://t.co/hGhS9pHsw9",Tue Jan 03 17:36:02 +0000 2017,-0.3818,0.0,0.89,0.11
+192,The New York Times,Breaking News: Megyn Kelly has decided to leave Fox News to take on a new role at NBC News https://t.co/046RDVozxY,Tue Jan 03 17:34:51 +0000 2017,-0.0516,0.0,0.938,0.062
+193,The New York Times,"House Republicans reversed their plan to gut an ethics office, after intense criticism from Donald Trump and others https://t.co/uEKFLtkwaM",Tue Jan 03 17:33:03 +0000 2017,-0.3818,0.061,0.802,0.137
+194,The New York Times,Breaking News: House Republicans reversed course and withdrew a plan to gut an ethics office https://t.co/DK0vXxYQD6,Tue Jan 03 17:28:00 +0000 2017,0.0,0.0,1.0,0.0
+195,The New York Times,"RT @nytpolitics: Trump picked Robert Lighthizer, a trade lawyer who has argued in favor of protectionist policies, as his trade rep. https:…",Tue Jan 03 17:22:02 +0000 2017,0.0516,0.112,0.785,0.103
+196,The New York Times,"Pharrell Williams has been deeply involved with ""Hidden Figures,"" a film he cares about profoundly https://t.co/UpMHThHXrG",Tue Jan 03 17:15:05 +0000 2017,0.4588,0.176,0.824,0.0
+197,The New York Times,"RT @nytopinion: To stop Trump, Democrats should act like the Tea Party: organize locally and play defense https://t.co/lvV0gLHSIl https://t…",Tue Jan 03 16:59:06 +0000 2017,0.7096,0.36,0.553,0.087
+198,The New York Times,"What the House Republicans' vote to gut the ethics office means, and what happens next https://t.co/CGOEQD6TYu",Tue Jan 03 16:45:06 +0000 2017,0.0,0.0,1.0,0.0
+199,The New York Times,A handful of Republicans and liberal ethics activists wrote a letter to Trump urging him to sell his business assets https://t.co/Jf6v63O5ez,Tue Jan 03 16:25:06 +0000 2017,0.1779,0.086,0.914,0.0
+200,Fox News,".@Ford to scrap Mexico plant, invest in Michigan; CEO cites @realDonaldTrump policies. https://t.co/UiiwOZOw8v https://t.co/fRd0VCqD2S",Tue Jan 03 17:34:46 +0000 2017,0.0,0.0,1.0,0.0
+201,Fox News,Was this staged? https://t.co/jdc4asNaUA,Tue Jan 03 17:29:38 +0000 2017,0.0,0.0,1.0,0.0
+202,Fox News,RT @FoxBusiness: .@Ford CEO Mark Fields: We would have made this announcement if President-elect #Trump was not elected. https://t.co/iTR51…,Tue Jan 03 17:26:44 +0000 2017,0.0,0.0,1.0,0.0
+203,Fox News,"RT @FoxBusiness: .@Ford CEO Mark Fields: We notified President-elect #Trump and VP @Mike_Pence of our decision today, they were very please…",Tue Jan 03 17:26:38 +0000 2017,0.0,0.0,1.0,0.0
+204,Fox News,RT @FoxBusiness: .@Ford CEO Mark Fields: We're looking at a more positive U.S. manufacturing business environment under President-elect @re…,Tue Jan 03 17:26:35 +0000 2017,0.5984,0.186,0.814,0.0
+205,Fox News,RT @FoxBusiness: .@Ford CEO Mark Fields: We're doing this decision based on what's right for our business. https://t.co/VMJuZFRvHg,Tue Jan 03 17:18:47 +0000 2017,0.0,0.0,1.0,0.0
+206,Fox News,"RT @FoxBusiness: .@Ford CEO Mark Fields: We're investing $700 million and creating 700 jobs in Flat Rock, Michigan. https://t.co/lKKH8H9xLk",Tue Jan 03 17:17:06 +0000 2017,0.296,0.109,0.891,0.0
+207,Fox News,RT @FoxBusiness: .@Ford CEO Mark Fields: We're investing $4.5 Billion in electrified vehicles. https://t.co/jCjo8IKsN3,Tue Jan 03 17:15:40 +0000 2017,0.0,0.0,1.0,0.0
+208,Fox News,RT @FoxBusiness: Mexico's peso weakens after @Ford says cancelling Mexican plant $F  https://t.co/5X7WJFctiM,Tue Jan 03 17:15:19 +0000 2017,-0.4767,0.0,0.728,0.272
+209,Fox News,115th Congress convenes as GOP vows to push aggressive agenda. https://t.co/UVDceReOPg,Tue Jan 03 17:14:01 +0000 2017,-0.1531,0.0,0.862,0.138
+210,Fox News,"Ford to scrap Mexico plant, invest in Michigan due to Trump policies  https://t.co/wrBVTM9jrj",Tue Jan 03 16:35:14 +0000 2017,0.0,0.0,1.0,0.0
+211,Fox News,RT @FoxBusiness: Programming Alert - @Ford CEO Mark Fields joins @TeamCavuto at 12p ET on @FoxBusiness https://t.co/3VQoraSFMK https://t.co…,Tue Jan 03 16:34:15 +0000 2017,0.296,0.121,0.879,0.0
+212,Fox News,FORD INVESTS IN AMERICA: Cancels $1.6B Mexico factory; $700M to Michigan,Tue Jan 03 16:15:40 +0000 2017,-0.2263,0.0,0.84,0.16
+213,Fox News,Judge rules requiring more parking for New Jersey mosque is unconstitutional https://t.co/S0t4llZ1a3,Tue Jan 03 16:02:02 +0000 2017,0.0,0.0,1.0,0.0
+214,Fox News,"Julian Assange: Obama admin is trying to delegitimize Trump. 
+
+Tonight 10p ET: Watch Hannity's exclusive interview… https://t.co/kjk1icQbGl",Tue Jan 03 16:01:03 +0000 2017,0.128,0.086,0.914,0.0
+215,Fox News,RT @foxnewspolitics: Trump takes swipe at House Republicans over ethics office change  https://t.co/9rEOW048rq https://t.co/FKwuXpP0T3,Tue Jan 03 15:53:32 +0000 2017,0.0,0.0,1.0,0.0
+216,Fox News,Thousands of unemployed to get $587 monthly income in Europe first https://t.co/bJOBkRspyO,Tue Jan 03 15:53:01 +0000 2017,0.0,0.0,1.0,0.0
+217,Fox News,"""Well, I think that's ridiculous.” - @tylerperry https://t.co/A37RXgUWZt",Tue Jan 03 15:52:35 +0000 2017,0.0,0.0,1.0,0.0
+218,Fox News,Philadelphia police investigate video of officer fighting teen https://t.co/qQetJTvx3e,Tue Jan 03 15:41:01 +0000 2017,-0.3612,0.0,0.762,0.238
+219,Fox News,"RT @Fox411: Bruce Springsteen questions @realDonaldTrump competence for office, says he has never been more afraid https://t.co/TQYovfg0qn…",Tue Jan 03 15:29:35 +0000 2017,0.0,0.0,1.0,0.0
+220,CNN,Watch VP Joe Biden host his final swearing-in ceremony — and take pro selfies — live on Facebook… https://t.co/iTWe7LPAbZ,Tue Jan 03 19:03:44 +0000 2017,0.0,0.0,1.0,0.0
+221,CNN,United Airlines baggage handler got trapped in cargo hold of plane and remained there during a New Year's Day flight https://t.co/btZcxVk4xy,Tue Jan 03 19:00:03 +0000 2017,-0.1531,0.116,0.744,0.14
+222,CNN,Former President George W. Bush and Laura Bush will attend the Trump inauguration https://t.co/AWudo2ZfIc https://t.co/Pw2tjqxMBB,Tue Jan 03 18:51:31 +0000 2017,0.0,0.0,1.0,0.0
+223,CNN,RT @CNNSitRoom: NAACP stages sit-in to protest Senator Sessions for Attorney General: Arrest us or withdraw your name https://t.co/zq7hfbYA…,Tue Jan 03 18:43:47 +0000 2017,-0.5267,0.0,0.794,0.206
+224,CNN,It’s opening day… on Capitol Hill. We’re watching @VP Joe Biden conduct his final swearing in ceremony of US Senate… https://t.co/2A8Tcq5cHG,Tue Jan 03 18:39:32 +0000 2017,-0.25,0.0,0.909,0.091
+225,CNN,A young woman has been caught trying to smuggle a teenage refugee hidden in her suitcase into Spanish territory… https://t.co/zrM3rJIDHv,Tue Jan 03 18:28:01 +0000 2017,-0.3818,0.0,0.867,0.133
+226,CNN,Britain's biggest supermarket chain has pledged to stop charging more for products that it markets to women… https://t.co/dSzqLfBx57,Tue Jan 03 18:21:01 +0000 2017,-0.296,0.0,0.885,0.115
+227,CNN,"Sen. Chuck Schumer: ""On January 20, we won't be in reality TV — we'll be in reality"" https://t.co/1FIKzrf8Kb https://t.co/8KvK5qmwZy",Tue Jan 03 18:15:31 +0000 2017,0.0,0.0,1.0,0.0
+228,CNN,"RT @CNNPolitics: Sen. Chuck Schumer: ""America cannot afford a Twitter presidency"" https://t.co/6OZtrfIwim https://t.co/We8yRMNkFh",Tue Jan 03 18:08:14 +0000 2017,0.0,0.0,1.0,0.0
+229,CNN,"French workers have won the ""right to disconnect"" from business emails and other electronic leashes after hours… https://t.co/CeB8GvBNeY",Tue Jan 03 18:07:45 +0000 2017,0.5719,0.179,0.821,0.0
+230,CNN,9 of the best new cruise ships launching in 2017 🚢 https://t.co/WvvjW51GCo https://t.co/JT9qK89ifH,Tue Jan 03 18:00:06 +0000 2017,0.6369,0.296,0.704,0.0
+231,CNN,Megyn Kelly to leave Fox News later this year and join NBC News https://t.co/wPSryGxwxS https://t.co/ZKdhHPlDO1,Tue Jan 03 17:50:37 +0000 2017,0.25,0.134,0.793,0.073
+232,CNN,"The US administration ""is 100% certain in the role that Russia played"" in US election, State Dept. spokesman says https://t.co/3Gb6q49onB",Tue Jan 03 17:42:00 +0000 2017,0.5423,0.2,0.8,0.0
+233,CNN,British singer Rebecca Ferguson says she's been invited to perform at Trump's inauguration - but has one condition… https://t.co/xwosCWmQAR,Tue Jan 03 17:32:53 +0000 2017,0.0,0.0,1.0,0.0
+234,CNN,BREAKING: House Republicans pull proposal that would gut independent ethics panel after Trump tweets criticism… https://t.co/wUu6WFGJYe,Tue Jan 03 17:19:26 +0000 2017,0.0,0.0,1.0,0.0
+235,CNN,"Chrysler unveils minivan for millennials, complete with custom lighting, selfie cameras, and facial recognition… https://t.co/wSO5aeebBo",Tue Jan 03 17:14:40 +0000 2017,0.0,0.0,1.0,0.0
+236,CNN,"This is why you get worked up about politics, according to science https://t.co/61RMfhsPhU",Tue Jan 03 17:07:00 +0000 2017,0.0,0.0,1.0,0.0
+237,CNN,Israeli Prime Minister Benjamin Netanyahu questioned in criminal corruption probe https://t.co/FwqP2WZ165 https://t.co/aTTsejgILi,Tue Jan 03 17:00:03 +0000 2017,-0.5859,0.0,0.676,0.324
+238,CNN,"New York governor proposes free tuition at state colleges for families earning $125,000 or less… https://t.co/IZYtk8AH5y",Tue Jan 03 16:52:01 +0000 2017,0.5106,0.18,0.82,0.0
+239,CNN,China issues its first-ever red alert for fog https://t.co/1h6Liea7aE https://t.co/RGe61s906F,Tue Jan 03 16:45:01 +0000 2017,0.296,0.196,0.804,0.0
+240,BBC News (World),RT @BBCOS: Is universal basic income a good idea? Finland are trying to find out 📻 https://t.co/eU2Misb2z0 https://t.co/M7BuNTnxid,Tue Jan 03 14:51:16 +0000 2017,0.4404,0.162,0.838,0.0
+241,BBC News (World),China: Limited victory for man in transgender dismissal case https://t.co/qs7Ej0mGZ4,Tue Jan 03 13:59:17 +0000 2017,-0.2263,0.0,0.826,0.174
+242,BBC News (World),Brexit: UK's top EU diplomat Sir Ivan Rogers resigns https://t.co/NgEQlLvcAb,Tue Jan 03 13:30:01 +0000 2017,-0.128,0.149,0.661,0.19
+243,BBC News (World),"RT @BBCBreaking: UK's top diplomat in Brussels Sir Ivan Rogers resigns, months before Brexit negotiations expected to begin https://t.co/jY…",Tue Jan 03 13:12:29 +0000 2017,-0.128,0.085,0.806,0.109
+244,BBC News (World),".@LaraLewington meets Moley, the robotic kitchen https://t.co/pHKT7QJUHx",Tue Jan 03 13:11:39 +0000 2017,0.0,0.0,1.0,0.0
+245,BBC News (World),RT @BBCBreaking: Man who died in police shooting during operation on M62 in West Yorkshire named locally as Yassar Yaqub https://t.co/UfI0Y…,Tue Jan 03 13:01:40 +0000 2017,-0.5574,0.0,0.847,0.153
+246,BBC News (World),Istanbul nightclub shooting: Kyrgyzstan investigates 'suspect' https://t.co/tef2PltBwo,Tue Jan 03 12:58:30 +0000 2017,0.0,0.0,1.0,0.0
+247,BBC News (World),Ferret smell could protect New Zealand birds https://t.co/4m4nbHrUPy,Tue Jan 03 12:49:30 +0000 2017,0.3818,0.271,0.729,0.0
+248,BBC News (World),Two-year-old saves twin brother from falling furniture https://t.co/RTvTlY3BAV,Tue Jan 03 12:36:01 +0000 2017,-0.1531,0.0,0.814,0.186
+249,BBC News (World),Forceps removed from stomach after 18 years https://t.co/H2INzsa3Wl,Tue Jan 03 12:27:01 +0000 2017,0.0,0.0,1.0,0.0
+250,BBC News (World),Hunt intensifies for man who killed 39 people in an Istanbul nightclub https://t.co/EJfq3EbBXp https://t.co/AHRBGGwsMr,Tue Jan 03 12:20:08 +0000 2017,-0.6705,0.0,0.743,0.257
+251,BBC News (World),Germany 'pollution spike' follows New Year's Eve fireworks https://t.co/1KakqNgoMB,Tue Jan 03 12:17:28 +0000 2017,0.0,0.0,1.0,0.0
+252,BBC News (World),Black marching band to play for Trump https://t.co/ysHkQlAg4x,Tue Jan 03 12:10:43 +0000 2017,0.34,0.255,0.745,0.0
+253,BBC News (World),Kim Burrell: Gospel star defends homophobic comments https://t.co/A8Sw4CgXCK,Tue Jan 03 12:10:43 +0000 2017,0.0,0.0,1.0,0.0
+254,BBC News (World),World's oldest known killer whale dies https://t.co/e36gorRK2y,Tue Jan 03 12:06:13 +0000 2017,-0.6486,0.0,0.583,0.417
+255,BBC News (World),Germany sees 'overwhelming' sales of Hitler's Mein Kampf https://t.co/YKAecfNVh8,Tue Jan 03 11:52:47 +0000 2017,0.0,0.0,1.0,0.0
+256,BBC News (World),Brazil prison escape: Fugitive posts selfies on the run https://t.co/KudAjtZQLV,Tue Jan 03 11:25:44 +0000 2017,-0.3818,0.131,0.615,0.254
+257,BBC News (World),RT @BBCBusiness: Bitcoin digital currency hits three-year high of $1000 https://t.co/E02I4Vvpr4,Tue Jan 03 11:04:58 +0000 2017,0.0,0.0,1.0,0.0
+258,BBC News (World),"Volkswagen Golf tops Swedish car sales in 2016 #BBCGoFigure
+https://t.co/NDggKAmSLp https://t.co/UZEHbg9R5f",Tue Jan 03 10:59:44 +0000 2017,0.5106,0.248,0.752,0.0
+259,BBC News (World),"Uttar Pradesh politics ""straight out of @HouseofCards""
+https://t.co/AAOZUxHf6F",Tue Jan 03 09:53:04 +0000 2017,0.2263,0.213,0.787,0.0
+260,CBS News,"Sam Hunt's musical pleadings seem to have paid off, gets engaged to girlfriend Hannah Lee Fowler… https://t.co/lUDqNFdG3S",Tue Jan 03 16:34:32 +0000 2017,0.4019,0.144,0.856,0.0
+261,CBS News,Donald Trump bashes House GOP move to weaken ethics watchdog https://t.co/tsSzFql98M https://t.co/eqJo8pU75C,Tue Jan 03 16:12:01 +0000 2017,-0.4215,0.0,0.797,0.203
+262,CBS News,"As the new Congress begins, Democrats are mounting a plan to save Obamacare https://t.co/bZ8yuPigtf https://t.co/hT91G8V4VY",Tue Jan 03 15:55:01 +0000 2017,0.4939,0.198,0.802,0.0
+263,CBS News,"Photojournalist pulls off dramatic rescue of driver trapped in fiery L.A. freeway crash, video shows… https://t.co/m9e86qzYqk",Tue Jan 03 15:37:01 +0000 2017,-0.6124,0.188,0.458,0.354
+264,CBS News,"Cincinnati Bengals' Adam ""Pacman"" Jones arrested again, facing several charges https://t.co/f2M38n5V5L https://t.co/LYPVWNrkaj",Tue Jan 03 15:24:01 +0000 2017,-0.6369,0.0,0.658,0.342
+265,CBS News,"Bruce Springsteen said he questions whether Trump “is simply competent enough to do this particular job""… https://t.co/yEEHegKZyS",Tue Jan 03 15:14:01 +0000 2017,0.3182,0.126,0.874,0.0
+266,CBS News,"Reproductions of Hitler's ""Mein Kampf"" were blocked previously, but now a ""critical edition"" is flying off shelves… https://t.co/RWSEvFrr2J",Tue Jan 03 15:00:02 +0000 2017,-0.5423,0.0,0.769,0.231
+267,CBS News,"""No words to express how much I will miss my Abadaba ... and only Momby,"" Billie Lourd said about mom, grandmother… https://t.co/QDBl5LrG2I",Tue Jan 03 14:44:01 +0000 2017,-0.4215,0.0,0.833,0.167
+268,CBS News,"Ethics advocates, 2 who are allies of Stephen Bannon, urge Trump to further distance himself from family business… https://t.co/2sjf55w5uc",Tue Jan 03 14:30:01 +0000 2017,0.0,0.0,1.0,0.0
+269,CBS News,"Congress to be sworn in Tuesday, setting off aggressive campaign by GOP to dismantle Obama's politics campaign… https://t.co/oklv7sNQKz",Tue Jan 03 14:12:01 +0000 2017,-0.1531,0.0,0.914,0.086
+270,CBS News,"""There was a sense of transitioning,"" Oprah said on interviewing Michelle Obama as FLOTUS for the final time… https://t.co/wiDORwa9jO",Tue Jan 03 14:03:15 +0000 2017,0.0,0.0,1.0,0.0
+271,CBS News,"""I've had some struggles,"" Oprah opens up about her relationship with food, talks about her new cook book… https://t.co/6xeXvPE0pO",Tue Jan 03 13:57:01 +0000 2017,0.0,0.0,1.0,0.0
+272,CBS News,"Many boomers expect to keep working until they drop, but that's just a hope -- not a realistic strategy… https://t.co/8tBHGhklt8",Tue Jan 03 13:55:01 +0000 2017,0.5106,0.18,0.748,0.072
+273,CBS News,This Hawaiian volcano is putting on quite a show for visitors as plumes of smoke and rock spew into the air… https://t.co/hrBfY2lc8Z,Tue Jan 03 13:50:52 +0000 2017,0.0,0.0,1.0,0.0
+274,CBS News,A couple in Texas is filing a lawsuit against Apple over the 2014 death of their 5-year-old daughter… https://t.co/N7TCBMXArj,Tue Jan 03 13:43:01 +0000 2017,-0.7003,0.0,0.721,0.279
+275,CBS News,U.S. Customs system outage caused long lines &amp; delays for many trying to enter the United States on Monday… https://t.co/T91G52RKTP,Tue Jan 03 13:30:01 +0000 2017,0.4215,0.128,0.872,0.0
+276,CBS News,President Obama is scheduled to huddle with congressional Democrats Wednesday to discuss how to save Obamacare… https://t.co/U4ajiA90on,Tue Jan 03 13:14:01 +0000 2017,0.4939,0.167,0.833,0.0
+277,CBS News,"Parts of the South brace for more rain after severe storms killed at least 4 people in Alabama, 1 in Florida Monday… https://t.co/8kYLEFWocW",Tue Jan 03 13:09:11 +0000 2017,-0.8107,0.0,0.721,0.279
+278,CBS News,"Trouble has knocked on the doors of 7 U.S. corporations, and presents their CEOs with challenges as 2017 unfolds… https://t.co/rDakzUMtA8",Tue Jan 03 13:01:01 +0000 2017,-0.34,0.062,0.81,0.129
+279,CBS News,United Airlines investigates how baggage handler became trapped in cargo hold for flight https://t.co/v4iQOLUHKb https://t.co/gDsJbWTutI,Tue Jan 03 12:56:23 +0000 2017,-0.1531,0.146,0.677,0.177
+280,The New York Times,The first step to stopping negative thoughts is a surprising one: Don't try to stop them https://t.co/AYmJCkIcTD,Tue Jan 03 16:09:02 +0000 2017,-0.3208,0.187,0.564,0.249
+281,The New York Times,"Nixon told an aide that they should find a way to secretly ""monkey wrench"" peace talks in Vietnam, notes show https://t.co/JrN6ZQRhy7",Tue Jan 03 15:54:05 +0000 2017,0.5423,0.156,0.844,0.0
+282,The New York Times,"Donald Trump rebuked House Republicans, saying they should focus on ""other things of far greater importance"" https://t.co/wO9IUjQWCT",Tue Jan 03 15:39:20 +0000 2017,0.6124,0.25,0.75,0.0
+283,The New York Times,"David Brooks: ""Trump is not a national leader; he is a national show."" https://t.co/bwSFlweI9j via @nytopinion",Tue Jan 03 15:37:02 +0000 2017,0.0,0.0,1.0,0.0
+284,The New York Times,Breaking News: Donald Trump rebuked House Republicans for their surprise move to gut the congressional ethics office https://t.co/huJYL0Se2Z,Tue Jan 03 15:33:50 +0000 2017,0.2732,0.11,0.89,0.0
+285,The New York Times,Is your workout getting you nowhere? Maybe you're a non-responder. https://t.co/2BUkonRX66,Tue Jan 03 15:21:05 +0000 2017,0.0,0.0,1.0,0.0
+286,The New York Times,"""I never saw anything like this in my life."" A prison riot in Brazil involving gangs left at least 56 people dead. https://t.co/KztpFMzSDD",Tue Jan 03 15:11:05 +0000 2017,-0.9233,0.0,0.575,0.425
+287,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/ThgIdAD48j https://t.co/r08HdWzLn7,Tue Jan 03 15:00:22 +0000 2017,0.0,0.0,1.0,0.0
+288,The New York Times,"South Korea's president, Park Geun-hye, is a no-show at her impeachment trial https://t.co/eUtJK7bWFk",Tue Jan 03 14:47:02 +0000 2017,0.0,0.0,1.0,0.0
+289,The New York Times,"The dreary season premiere of ""The New Celebrity Apprentice"" was sorely missing Donald Trump, @mikehalenyt writes https://t.co/4vj4wHrcWA",Tue Jan 03 14:38:03 +0000 2017,-0.5574,0.0,0.765,0.235
+290,The New York Times,"99 passengers were ready to take off for Mexico. But the pilot was passed out, apparently from drinking. https://t.co/Yg9yxlGSwh",Tue Jan 03 14:27:05 +0000 2017,0.3612,0.122,0.878,0.0
+291,The New York Times,"""Everyone was scamming around me. I thought, 'I will also become a great scammer'"" https://t.co/YpJM5YbSeN",Tue Jan 03 14:11:06 +0000 2017,0.6249,0.255,0.745,0.0
+292,The New York Times,Where is America's heartland? Pick your map. https://t.co/MChLlD595Z https://t.co/hzP1vi5EqY,Tue Jan 03 14:01:06 +0000 2017,0.0,0.0,1.0,0.0
+293,The New York Times,John Berger declared war on traditional ways of thinking about art and influenced a generation of artists https://t.co/wViecupCVR,Tue Jan 03 13:53:02 +0000 2017,-0.5994,0.0,0.804,0.196
+294,The New York Times,"""Potentially, this is worse than anything he did in Watergate"" https://t.co/rFXpfmodSV",Tue Jan 03 13:45:07 +0000 2017,-0.4767,0.0,0.763,0.237
+295,The New York Times,The transformation of American health care over the past 8 years has a momentum that could prove impossible to stop https://t.co/1UT9FreCNM,Tue Jan 03 13:34:06 +0000 2017,0.25,0.143,0.759,0.098
+296,The New York Times,Congress returns. Here are 6 things to watch. https://t.co/dpcNSVDtiC https://t.co/93d3hhBVeH,Tue Jan 03 13:21:04 +0000 2017,0.0,0.0,1.0,0.0
+297,The New York Times,"Cuomo proposes free tuition at New York State colleges for students whose households earn $125,000 or less https://t.co/wUntLsQZa5",Tue Jan 03 13:11:02 +0000 2017,0.5106,0.163,0.837,0.0
+298,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/dfE5PfLjpw https://t.co/NvyYgJQpGU,Tue Jan 03 13:00:19 +0000 2017,0.0,0.0,1.0,0.0
+299,The New York Times,"France lets workers turn off, tune out and live life https://t.co/wmn6ii02Kl https://t.co/RrhFPxSyUA",Tue Jan 03 12:50:06 +0000 2017,0.0,0.0,1.0,0.0
+300,Fox News,RT @EricShawnTV: House Ethics Cmte. storm: @realDonaldTrump tweets against #GOP weakening rules. Is he right? I anchor @HappeningNow @FoxNe…,Tue Jan 03 15:25:24 +0000 2017,-0.3182,0.0,0.881,0.119
+301,Fox News,Former Chicago top cop blames Black Lives Matter for surge in violence https://t.co/nqf8qwETCN,Tue Jan 03 15:21:22 +0000 2017,-0.7096,0.155,0.481,0.364
+302,Fox News,The Department of Children and Families says it has taken custody of the baby. https://t.co/F65LXzw7Ae,Tue Jan 03 15:18:24 +0000 2017,0.0,0.0,1.0,0.0
+303,Fox News,"Julian Assange, in an exclusive interview with @seanhannity , says Russian gov't is not source of WikiLeaks emails… https://t.co/9WxW4lxUzL",Tue Jan 03 14:38:17 +0000 2017,0.128,0.081,0.919,0.0
+304,Fox News,".@Rosie, who said she'd move if @realDonaldTrump won the election, is calling the pres-elect “mentally unstable.""… https://t.co/wmjvsuxGI9",Tue Jan 03 13:57:01 +0000 2017,0.5719,0.188,0.812,0.0
+305,Fox News,Caught on video: 2-year-old boy pushes dresser off twin brother stuck underneath https://t.co/7p7ei1AvCJ,Tue Jan 03 13:47:01 +0000 2017,-0.25,0.0,0.857,0.143
+306,Fox News,Bowdy was able to push the dresser off Brock enough for him to wriggle free. https://t.co/x4CLhqURVk,Tue Jan 03 13:33:37 +0000 2017,0.5106,0.18,0.82,0.0
+307,Fox News,"The line of severe #thunderstorms spawned several possible #tornadoes, and the threat remained early Tuesday. https://t.co/9yKcUJ1zMU",Tue Jan 03 12:43:38 +0000 2017,-0.7184,0.0,0.7,0.3
+308,Fox News,"Fox News Alert: ISIS is plotting a major chemical attack on #England, according to the British security minister. https://t.co/1D8kqzWUwO",Tue Jan 03 12:42:21 +0000 2017,0.128,0.203,0.661,0.137
+309,Fox News,Breaking: President-elect @realDonaldTrump has nominated Robert Lighthizer to serve as his U.S. Trade Representativ… https://t.co/D9yfpKJhJ9,Tue Jan 03 12:38:41 +0000 2017,0.0,0.0,1.0,0.0
+310,Fox News,BREAKING: President-elect Trump nominates Robert Lighthizer to be U.S. trade representative #TrumpTransition,Tue Jan 03 11:32:31 +0000 2017,0.0,0.0,1.0,0.0
+311,Fox News,Swarm of 250 small earthquakes strike California-Mexico border https://t.co/qdbFskOXu9,Tue Jan 03 11:21:21 +0000 2017,-0.128,0.0,0.842,0.158
+312,Fox News,"RT @foxandfriends: COMING UP!
+@TuckerCarlson
+@IngrahamAngle
+@brunelldonald
+@FrankLuntz
+@marieosmond
+@TomFitton
+@TheBobbyBowden
+@KarlRove
+@B…",Tue Jan 03 10:51:28 +0000 2017,0.0,0.0,1.0,0.0
+313,Fox News,Last chance for Obama to sneak in Garland to Supreme Court is unlikely https://t.co/6jEhic8AFZ,Tue Jan 03 10:35:19 +0000 2017,0.6808,0.318,0.682,0.0
+314,Fox News,"Report: Dems target eight Trump nominees in bid to delay process, get picks to disclose more info https://t.co/IIyRYOgjmK",Tue Jan 03 10:14:38 +0000 2017,-0.3182,0.0,0.881,0.119
+315,Fox News,Round-the-clock manhunt on for ex-Army reservist who escaped Rhode Island detention center https://t.co/nMeoSAiNSp https://t.co/p9NqHx2cwq,Tue Jan 03 09:57:34 +0000 2017,-0.3612,0.0,0.839,0.161
+316,Fox News,Judge rules requiring more parking for New Jersey mosque is unconstitutional https://t.co/YHXM1E4pfu,Tue Jan 03 09:40:42 +0000 2017,0.0,0.0,1.0,0.0
+317,Fox News,Search for 6-year-old Colorado boy missing since New Year's Eve intensifies https://t.co/zhNHs8pyfV https://t.co/Pbv80AXVWD,Tue Jan 03 09:06:44 +0000 2017,-0.296,0.0,0.845,0.155
+318,Fox News,More than 50 inmates killed in Brazil prison riot https://t.co/ZSnNx1b4nB https://t.co/51ugQpo4JI,Tue Jan 03 08:38:18 +0000 2017,-0.9081,0.0,0.412,0.588
+319,Fox News,House GOP votes to gut independent ethics office https://t.co/XZbGMLhqST,Tue Jan 03 08:15:42 +0000 2017,0.0,0.0,1.0,0.0
+320,CNN,"Facebook banned this image of the Roman god Neptune in Bologna, Italy for being ""explicitly sexual""… https://t.co/ciZKwAihiN",Tue Jan 03 16:37:33 +0000 2017,-0.2263,0.104,0.746,0.149
+321,CNN,This hero 2-year-old boy saved his twin brother after their dresser fell on him while they were playing… https://t.co/bffGpPFS0S,Tue Jan 03 16:25:26 +0000 2017,0.7506,0.274,0.726,0.0
+322,CNN,"BREAKING: Ford cancels plans to build plant in Mexico, investing $700 million in Michigan, creating 700 new US jobs… https://t.co/5zyTkQez8O",Tue Jan 03 16:17:01 +0000 2017,0.0772,0.1,0.814,0.086
+323,CNN,"House Speaker Ryan defends proposed changes to ethics panel, marking first high-profile break with Trump this year https://t.co/YOkfBO75Ck",Tue Jan 03 16:07:00 +0000 2017,0.0,0.0,1.0,0.0
+324,CNN,A young woman has been caught trying to smuggle a teenage refugee hidden in her suitcase into Spanish territory… https://t.co/J9mFE6fnrj,Tue Jan 03 16:00:04 +0000 2017,-0.3818,0.0,0.867,0.133
+325,CNN,"New video shows Trump praising Hussain Sajwani, a business partner in Dubai, at a New Year's Eve party in Palm Beac… https://t.co/EO0vFTAQ31",Tue Jan 03 15:50:46 +0000 2017,0.7351,0.256,0.744,0.0
+326,CNN,"We’re in NYC where @SenSanders is with @NYGovCuomo, announcing a proposal for free tuition for state colleges in NY… https://t.co/HNlbux2I7Y",Tue Jan 03 15:41:26 +0000 2017,0.5106,0.155,0.845,0.0
+327,CNN,Husband and wife watch live on a phone as thieves break into their home https://t.co/KJKF5dvUxG https://t.co/Lg2Ge3cfZ9,Tue Jan 03 15:40:28 +0000 2017,-0.5106,0.0,0.809,0.191
+328,CNN,"""Focus on tax reform, healthcare and so many other things"": Trump criticizes Republican move to gut ethics watchdog https://t.co/i0omQxfcUf",Tue Jan 03 15:32:00 +0000 2017,-0.34,0.0,0.882,0.118
+329,CNN,"Finland has started giving 2,000 citizens a guaranteed income, regardless of their wealth or employment status… https://t.co/mli3qqMJnX",Tue Jan 03 15:30:01 +0000 2017,0.6808,0.286,0.714,0.0
+330,CNN,"Facing growing North Korea nuke threat, Trump vows: ""It won't happen!"" https://t.co/6JrS3HWTHb https://t.co/7dC85qOUZ2",Tue Jan 03 15:10:01 +0000 2017,-0.4574,0.104,0.671,0.225
+331,CNN,Britain's biggest supermarket chain has pledged to stop charging more for products that it markets to women… https://t.co/XM0R3OI7HX,Tue Jan 03 15:10:01 +0000 2017,-0.296,0.0,0.885,0.115
+332,CNN,Britain's ambassador to the European Union has resigned just months before Brexit negotiations are due to begin… https://t.co/1JYnmfhg2F,Tue Jan 03 15:00:05 +0000 2017,-0.25,0.0,0.895,0.105
+333,CNN,"French workers have won the ""right to disconnect"" from business emails and other electronic leashes after hours… https://t.co/7PfxkJbGvr",Tue Jan 03 14:58:45 +0000 2017,0.5719,0.179,0.821,0.0
+334,CNN,9 of the best new cruise ships launching in 2017 🚢 https://t.co/0RBLh5L5Ur https://t.co/KobaSkRtK5,Tue Jan 03 14:46:05 +0000 2017,0.6369,0.296,0.704,0.0
+335,CNN,GM pushes back against claim its cars are made in Mexico following Trump's tweet threatening a heavy tax https://t.co/qAZg2k1j3b,Tue Jan 03 14:34:47 +0000 2017,-0.5267,0.0,0.833,0.167
+336,CNN,"Istanbul nightclub attack: Two foreign nationals arrested at Ataturk airport, state-run media reports https://t.co/yvdSy0GwbF",Tue Jan 03 14:29:00 +0000 2017,-0.7351,0.0,0.659,0.341
+337,CNN,Israeli Prime Minister Benjamin Netanyahu questioned in criminal corruption probe https://t.co/MYE34JNBPI https://t.co/5LrGPRxgHv,Tue Jan 03 14:20:01 +0000 2017,-0.5859,0.0,0.676,0.324
+338,CNN,Leanne Nasser begged her parents to let her go to Istanbul. She was killed in this weekend's nightclub attack.… https://t.co/sx7Dn2vg11,Tue Jan 03 14:10:01 +0000 2017,-0.6705,0.0,0.809,0.191
+339,CNN,"Rep. Seth Moulton on the GOP ethics vote: ""Is there any American out there who thinks Congress is too ethical?""… https://t.co/bXqCccIn1G",Tue Jan 03 14:00:29 +0000 2017,0.0,0.0,1.0,0.0
+340,BBC News (World),Time-lapse footage of Beijing smog https://t.co/GOMrfsuUJA,Tue Jan 03 09:35:22 +0000 2017,-0.296,0.0,0.694,0.306
+341,BBC News (World),India police probe 'mass molestation' in Bangalore https://t.co/etLb0gjXJB,Tue Jan 03 09:26:20 +0000 2017,-0.4404,0.0,0.707,0.293
+342,BBC News (World),Turkish police intensify hunt for attacker who killed 39 in nightclub; reports say his family has been detained… https://t.co/mXzKHG1yHa,Tue Jan 03 09:22:00 +0000 2017,-0.8481,0.0,0.675,0.325
+343,BBC News (World),South Korean leader Park absent as impeachment hearing begins https://t.co/WW3IO3HMm6,Tue Jan 03 09:15:09 +0000 2017,0.0,0.0,1.0,0.0
+344,BBC News (World),US Congress: Republicans vote to limit ethics body https://t.co/b9c4Deri37,Tue Jan 03 09:06:03 +0000 2017,0.0,0.0,1.0,0.0
+345,BBC News (World),"RT @marklowen: Commemoration march outside #Reina nightclub in #Istanbul. Organisers say it will reopen, people must continue to go out and…",Tue Jan 03 08:03:41 +0000 2017,0.0,0.0,1.0,0.0
+346,BBC News (World),RT @BBCScienceNews: India's double first in climate battle https://t.co/jbHuNWZv3m,Tue Jan 03 08:02:06 +0000 2017,-0.3818,0.0,0.755,0.245
+347,BBC News (World),RT @BBCBusiness: On #BBCBizLive: Dentists want to end the workplace cake culture. Is there too much or does it make a happier office? https…,Tue Jan 03 07:48:54 +0000 2017,0.5719,0.183,0.817,0.0
+348,BBC News (World),"RT @BBCNewsAsia: China Communist Party official newspaper publishes obscenity-filled puzzle.
+
+https://t.co/thwpyG3VF3 https://t.co/QnF3QYkt…",Tue Jan 03 06:33:46 +0000 2017,0.4019,0.197,0.803,0.0
+349,BBC News (World),"'Sliced' sea turtle found dead on Singapore beach
+
+https://t.co/81XEp9wbV5 https://t.co/yvEEFP16KL",Tue Jan 03 06:30:01 +0000 2017,-0.6486,0.0,0.677,0.323
+350,BBC News (World),"RT @BBCNewsAsia: Dead and endangered sea turtle found ""sliced into half"" on Singapore beach.
+
+https://t.co/xoNOj7nr7N https://t.co/Ih8Qy1UV…",Tue Jan 03 05:46:51 +0000 2017,-0.6486,0.0,0.777,0.223
+351,BBC News (World),"RT @BBCNewsAsia: The family drama gripping Indian politics
+
+https://t.co/A5PnRE0tOh https://t.co/JMCHNd2es4",Tue Jan 03 04:46:04 +0000 2017,0.0,0.0,1.0,0.0
+352,BBC News (World),Donald Trump dismisses North Korean claims of developing missiles capable of striking America.… https://t.co/q1KKU4XoLo,Tue Jan 03 04:02:43 +0000 2017,0.3818,0.167,0.833,0.0
+353,BBC News (World),"RT @BBCNewsAsia: Former Hong Kong leader Donald Tsang goes on trial for corruption.
+
+https://t.co/OObsCKSXGs https://t.co/IUq3yMirBu",Tue Jan 03 04:00:34 +0000 2017,0.0,0.0,1.0,0.0
+354,BBC News (World),Chile wildfires destroy scores of homes in Valparaiso https://t.co/LDaLg0S0oQ,Tue Jan 03 03:41:57 +0000 2017,-0.5423,0.0,0.696,0.304
+355,BBC News (World),David Warner achieves rare Test feat with rapid century https://t.co/qu5WGxkG1h,Tue Jan 03 03:41:55 +0000 2017,0.0,0.0,1.0,0.0
+356,BBC News (World),Former HK leader Donald Tsang on trial for corruption https://t.co/m7vmHMbE8K,Tue Jan 03 03:26:15 +0000 2017,0.0,0.0,1.0,0.0
+357,BBC News (World),"RT @BBCNewsAsia: Myanmar detains several police officers over 'Rohingya abuse' video.
+
+https://t.co/gcZm6JoDvp https://t.co/KvP718NUMv",Tue Jan 03 01:43:23 +0000 2017,-0.6369,0.0,0.741,0.259
+358,BBC News (World),"RT @BBCNewsAsia: Thailand's army chief pledges that military will not stage coup after next election.
+
+https://t.co/zlgdNfKUkH https://t.co…",Tue Jan 03 01:41:01 +0000 2017,0.0,0.0,1.0,0.0
+359,BBC News (World),Best-selling car in Sweden not a Volvo https://t.co/iJldv0fYio,Tue Jan 03 01:20:12 +0000 2017,0.0,0.0,1.0,0.0
+360,CBS News,"With just a few weeks to go, Mr. Trump is going to take office in a historically weak position, according to poll… https://t.co/LxOCPXc8PG",Tue Jan 03 12:46:01 +0000 2017,-0.4404,0.0,0.873,0.127
+361,CBS News,Parents share video of their 2-year-old's stunning save of twin brother who had gotten trapped beneath a dresser… https://t.co/LpGyOOTSp5,Tue Jan 03 12:35:13 +0000 2017,0.5574,0.315,0.551,0.134
+362,CBS News,House GOP votes to gut independent ethics committee -- created to investigate allegations of misconduct by lawmaker… https://t.co/JUmkHgTm5J,Tue Jan 03 12:29:01 +0000 2017,0.25,0.105,0.895,0.0
+363,CBS News,"Mr. Trump has chosen Robert Lighthizer as U.S. Trade Representative, his transition team announced Tuesday… https://t.co/ECZMTGhceJ",Tue Jan 03 12:15:01 +0000 2017,0.0,0.0,1.0,0.0
+364,CBS News,Myanmar vows action against cops seen beating Muslim Rohingya minorities after police abuse video spreads… https://t.co/BT4YaXPJmg,Tue Jan 03 12:00:02 +0000 2017,-0.802,0.0,0.66,0.34
+365,CBS News,"Doubt cast that Russian government tried to hack Vermont utility, Washington Post says https://t.co/R5g1PbwY6o https://t.co/ad7iH1NRY9",Tue Jan 03 11:45:01 +0000 2017,-0.3612,0.0,0.848,0.152
+366,CBS News,"RT @CBSThisMorning: AHEAD: @Oprah returns to Studio 57 to discuss her interview with @MichelleObama &amp; her new cookbook.
+
+Watch &amp; tweet with…",Tue Jan 03 11:36:06 +0000 2017,0.0,0.0,1.0,0.0
+367,CBS News,Istanbul terror suspect seen wandering city streets with camera in selfie mode before nightclub attack on New Year'… https://t.co/dyTh6rMSbw,Tue Jan 03 11:29:01 +0000 2017,-0.8271,0.0,0.648,0.352
+368,CBS News,"At least 4 killed in Alabama, 1 in Florida after severe storms sweep through Southeast -- and the threat continues… https://t.co/0LgSo27AQ2",Tue Jan 03 11:11:51 +0000 2017,-0.8885,0.0,0.604,0.396
+369,CBS News,"Marching band at historically black college accepts invite to perform at inauguration, sparking controversy… https://t.co/oRBseMVt0k",Tue Jan 03 10:00:01 +0000 2017,0.4404,0.231,0.769,0.0
+370,CBS News,Police capture 25-year-old man wanted for questioning in woman's chopping death https://t.co/JSFTmWRiI9 https://t.co/zZOzL3XRXP,Tue Jan 03 08:00:01 +0000 2017,-0.6486,0.0,0.675,0.325
+371,CBS News,"In emotional post, Eva Amurri Martino describes night son's night nurse dropped him, cracked his skull… https://t.co/lTkHhvNGhc",Tue Jan 03 07:00:01 +0000 2017,0.1531,0.091,0.909,0.0
+372,CBS News,House GOP votes to eviscerate independent ethics office https://t.co/2cvQDVoYCN https://t.co/s3WlLvVNwW,Tue Jan 03 06:28:01 +0000 2017,0.0,0.0,1.0,0.0
+373,CBS News,How technology might make its mark in 2017 https://t.co/7TULeYFFda https://t.co/FcVcL3mOwK,Tue Jan 03 06:00:02 +0000 2017,0.0,0.0,1.0,0.0
+374,CBS News,Murder charge after Alabama man thrown from balcony to his death on Christmas Eve https://t.co/k01DTHcRNi https://t.co/HOcpHzN4lA,Tue Jan 03 05:00:01 +0000 2017,-0.8625,0.0,0.619,0.381
+375,CBS News,"Four people dead after powerful storms in Alabama, Houston County sheriff says https://t.co/7m6gg0mAb4 https://t.co/dF92gcnFu5",Tue Jan 03 04:37:01 +0000 2017,-0.3612,0.147,0.628,0.225
+376,CBS News,"For first year students at this medical school, cooking is now part of the curriculum https://t.co/tMsKknzPR1 https://t.co/3aAym7AXsf",Tue Jan 03 04:30:01 +0000 2017,0.0,0.0,1.0,0.0
+377,CBS News,"Well-known attorney charged in fatal shooting of wife owed her $350,000 at the time of her death, reports say… https://t.co/fEf2zb1gAl",Tue Jan 03 04:15:01 +0000 2017,-0.8481,0.0,0.649,0.351
+378,CBS News,"Pharmacist blamed for meningitis outbreak that killed dozens, sickened hundreds heads for trial… https://t.co/xdbzWympKc",Tue Jan 03 04:00:01 +0000 2017,-0.9022,0.0,0.498,0.502
+379,CBS News,D.C. hotel guest falls 10 floors to his death in boiler shaft https://t.co/LSvWxeb6dU https://t.co/GsZzczGzCt,Tue Jan 03 03:45:02 +0000 2017,-0.5994,0.0,0.769,0.231
+380,The New York Times,The Turkish authorities are still searching for the gunman who killed at least 39 in the Istanbul nightclub attack https://t.co/BCaq3dcsLc,Tue Jan 03 12:41:02 +0000 2017,-0.8225,0.0,0.703,0.297
+381,The New York Times,Donald Trump took to Twitter after Kim Jong-un said that North Korea might soon test an intercontinental missile https://t.co/1Le4133tS3,Tue Jan 03 12:30:01 +0000 2017,0.0,0.0,1.0,0.0
+382,The New York Times,The House is expected to vote today on a surprise proposal by Republicans to kill the Office of Congressional Ethics https://t.co/77SnEjuT8J,Tue Jan 03 12:20:05 +0000 2017,-0.5574,0.085,0.726,0.19
+383,The New York Times,"A McDonald's opened just outside Vatican City last week, despite complaints from residents and religious leaders… https://t.co/yqxD5JZ7fE",Tue Jan 03 12:10:07 +0000 2017,0.3089,0.131,0.869,0.0
+384,The New York Times,"""At Apple, there are a few people in the company that decide what needs to be done, and everyone else is executing"" https://t.co/1XI5iPwcr8",Tue Jan 03 12:00:15 +0000 2017,0.0,0.0,1.0,0.0
+385,The New York Times,"Trump praised a business partner from Dubai at a New Year's Eve party, raising new conflict-of-interest questions https://t.co/PdkhEmwFKU",Tue Jan 03 11:50:03 +0000 2017,0.7096,0.296,0.704,0.0
+386,The New York Times,"The dreary season premiere of ""The New Celebrity Apprentice"" was sorely missing Donald Trump, @mikehalenyt writes https://t.co/z9bSxDyvKX",Tue Jan 03 11:40:01 +0000 2017,-0.5574,0.0,0.765,0.235
+387,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/FT8HnZO94L https://t.co/ogb1BmxGMv,Tue Jan 03 11:30:18 +0000 2017,0.0,0.0,1.0,0.0
+388,The New York Times,"Many Republicans say they support Donald Trump's proposal for a wall, but they are likely to balk at the price tag https://t.co/vQ4MeqPMla",Tue Jan 03 11:17:03 +0000 2017,0.2144,0.085,0.915,0.0
+389,The New York Times,"""I never saw anything like this in my life."" A prison riot in Brazil involving gangs left at least 56 people dead. https://t.co/mMiVXoHuXb",Tue Jan 03 11:01:03 +0000 2017,-0.9233,0.0,0.575,0.425
+390,The New York Times,The Snapchat presidency of Donald Trump https://t.co/LMUTBrlxhQ via @nytopinion https://t.co/exAEDo7cvP,Tue Jan 03 10:53:03 +0000 2017,0.0,0.0,1.0,0.0
+391,The New York Times,A time-lapse video shows toxic smog descending on buildings in Beijing https://t.co/cvL8J7wLhf https://t.co/HuDIeMeC5a,Tue Jan 03 10:40:04 +0000 2017,-0.296,0.0,0.833,0.167
+392,The New York Times,What does Trump know about who hacked the election? Tuesday may be the day the world finds out — or not. https://t.co/AYNl3p24up,Tue Jan 03 10:28:06 +0000 2017,-0.4019,0.0,0.881,0.119
+393,The New York Times,"Some dinosaur eggs took 6 months or more to hatch, scientists reported https://t.co/0uc7fX3s6j",Tue Jan 03 10:18:04 +0000 2017,0.0,0.0,1.0,0.0
+394,The New York Times,"After learning he had Type 2 diabetes, he spurned medication and explored his body’s ability to heal itself https://t.co/vTBfYnlPlz",Tue Jan 03 10:00:12 +0000 2017,0.3182,0.119,0.881,0.0
+395,The New York Times,Players who thrived during baseball’s so-called steroids era might be enshrined in Cooperstown after all https://t.co/kgMQ4uszVc,Tue Jan 03 09:48:05 +0000 2017,0.0,0.0,1.0,0.0
+396,The New York Times,House Republicans voted to curtail the power of an independent ethics office. The move was made without notice. https://t.co/DrnINryrx4,Tue Jan 03 09:37:02 +0000 2017,0.0,0.0,1.0,0.0
+397,The New York Times,"4 tips for your post-holiday clutter purge
+https://t.co/tmISpLETY8",Tue Jan 03 09:23:02 +0000 2017,0.0,0.0,1.0,0.0
+398,The New York Times,"He ended 2016 with a journey to an opera, a house party, 2 concerts, a masquerade ball and a gay bar https://t.co/9TaGfIi9Ai",Tue Jan 03 09:11:05 +0000 2017,0.4019,0.144,0.856,0.0
+399,The New York Times,"""It won't happen,"" Trump tweeted after Kim Jong-un said that North Korea might soon test an intercontinental missil… https://t.co/VG3BN7cJ03",Tue Jan 03 08:59:06 +0000 2017,0.0,0.0,1.0,0.0
+400,Fox News,"Hill Democrats outline counterattack for ObamaCare repeal, prep for president's visit https://t.co/kYSwhbVtNX via @MikeEmanuelFox",Tue Jan 03 07:50:34 +0000 2017,0.0,0.0,1.0,0.0
+401,Fox News,US Customs and Border Protection outage frustrates travelers https://t.co/9HBg8QaOQ3,Tue Jan 03 07:30:20 +0000 2017,-0.4404,0.0,0.734,0.266
+402,Fox News,String of severe storms sweep across Southern states leaving at least 5 dead https://t.co/9yKcUJ1zMU https://t.co/GI1nwCYD14,Tue Jan 03 07:14:46 +0000 2017,-0.7845,0.0,0.635,0.365
+403,Fox News,"Dude ranch owner asked chef to make 'black people food' for tourists, lawsuit claims https://t.co/EUYsT1kBp9 https://t.co/RPYfLAr8gd",Tue Jan 03 07:05:01 +0000 2017,-0.2263,0.0,0.888,0.112
+404,Fox News,4 children die in Texas pesticide gas poisoning; others injured https://t.co/m2Tk6fyFdj,Tue Jan 03 06:45:01 +0000 2017,-0.886,0.0,0.402,0.598
+405,Fox News,Suspected carjackers killed after crashing into synagogue during police chase https://t.co/YCuR1WLGLl,Tue Jan 03 06:15:01 +0000 2017,-0.7506,0.0,0.584,0.416
+406,Fox News,Twins delivered minutes apart have different birth years https://t.co/5Jmm5LB2nk via @foxnewshealth https://t.co/Loc7hgSBC5,Tue Jan 03 05:55:01 +0000 2017,0.0,0.0,1.0,0.0
+407,Fox News,Titanic doomed by ice -- and fire? https://t.co/aftNYuWlBw,Tue Jan 03 05:25:01 +0000 2017,-0.765,0.0,0.476,0.524
+408,Fox News,Couple found dead on Florida highway with young sons unharmed in vehicle https://t.co/jrlwagGceF,Tue Jan 03 05:00:01 +0000 2017,-0.6486,0.0,0.736,0.264
+409,Fox News,Republican Congress promises to move quickly toward goals https://t.co/AR2SPw2hb9 https://t.co/yc10XyC2Mu,Tue Jan 03 04:34:02 +0000 2017,0.3818,0.224,0.776,0.0
+410,Fox News,Mark Zuckerberg reveals he's no longer an atheist https://t.co/dbuaHTy90Y https://t.co/6wy8CzH8Ci,Tue Jan 03 04:11:01 +0000 2017,-0.296,0.0,0.804,0.196
+411,Fox News,Last chance for Obama to sneak in Garland to the High Court is unlikely https://t.co/6jEhic8AFZ,Tue Jan 03 04:03:04 +0000 2017,0.25,0.125,0.875,0.0
+412,Fox News,Authorities search for Army reservist who escaped detention center https://t.co/01cbNAi5MP https://t.co/9cnIYK4p6Y,Tue Jan 03 03:49:02 +0000 2017,-0.3612,0.0,0.8,0.2
+413,Fox News,"Eagles eject beat reporter from press box, threaten other writers https://t.co/yjXgFZICKR https://t.co/qhuYgTz672",Tue Jan 03 03:06:02 +0000 2017,-0.3818,0.0,0.809,0.191
+414,Fox News,"US Customs and Border Protection outage frustrates travelers, sparks long lines https://t.co/vGSWTjrHqa",Tue Jan 03 02:39:01 +0000 2017,-0.4404,0.0,0.791,0.209
+415,Fox News,MUST SEE: Tune in to #Hannity Tuesday at 10p ET for @seanhannity's exclusive interview with @WikiLeaks founder Juli… https://t.co/T3UrVQU3Ia,Tue Jan 03 02:15:16 +0000 2017,0.128,0.077,0.923,0.0
+416,Fox News,Round-the-clock federal manhunt underway for escaped inmate https://t.co/oDTYBTCuzA https://t.co/Qdfb3BpIKP,Tue Jan 03 02:12:01 +0000 2017,0.0,0.0,1.0,0.0
+417,Fox News,Former Georgia Gov. Perdue top Trump candidate for Agriculture post https://t.co/u81y1DNc6c via @foxnewspolitics,Tue Jan 03 01:49:00 +0000 2017,0.2023,0.13,0.87,0.0
+418,Fox News,4 children die in Texas pesticide gas poisoning; others injured https://t.co/GDeUuiPidj,Tue Jan 03 01:12:01 +0000 2017,-0.886,0.0,0.402,0.598
+419,Fox News,Twins delivered minutes apart have different birth years https://t.co/w0hgyyFFxZ via @foxnewshealth https://t.co/LdoAKDVHBG,Tue Jan 03 00:52:01 +0000 2017,0.0,0.0,1.0,0.0
+420,CNN,This hero 2-year-old boy saved his twin brother after their dresser fell on him while they were playing… https://t.co/allEk8icR6,Tue Jan 03 13:52:25 +0000 2017,0.7506,0.274,0.726,0.0
+421,CNN,President-elect Trump tweets threat to General Motors: Make the Chevy Cruze in the United States or face a heavy ta… https://t.co/m5DrmE7mKk,Tue Jan 03 13:42:01 +0000 2017,-0.1531,0.116,0.744,0.14
+422,CNN,These are some of the luxury cars that will hit the roads in 2017 https://t.co/1BCBMpdIiM via @CNNStyle https://t.co/YN08LENFBf,Tue Jan 03 13:35:02 +0000 2017,0.0,0.0,1.0,0.0
+423,CNN,"Alfonso Wong, the creator of ""Old Master Q,"" one of Asia's best-known comic strips, has died at the age of 93… https://t.co/BXRNpM1EIi",Tue Jan 03 13:26:01 +0000 2017,-0.5574,0.0,0.854,0.146
+424,CNN,"US officials say newly identified ""digital fingerprints"" indicate Moscow was behind election hacking… https://t.co/hJC6Iwe2yS",Tue Jan 03 13:14:00 +0000 2017,0.0,0.0,1.0,0.0
+425,CNN,"Joe Scarborough: ""I am sick and tired of people misrepresenting me and making snide assumptions""… https://t.co/KSFLKEJU0g",Tue Jan 03 13:07:02 +0000 2017,-0.7351,0.0,0.693,0.307
+426,CNN,A young woman has been caught trying to smuggle a teenage refugee hidden in her suitcase into Spanish territory… https://t.co/HAd1tr3nFv,Tue Jan 03 12:54:50 +0000 2017,-0.3818,0.0,0.867,0.133
+427,CNN,House Republicans vote in favor of proposal that would gut Congress' outside ethics watchdog https://t.co/i0omQxfcUf https://t.co/N9RS2gG0pj,Tue Jan 03 12:42:25 +0000 2017,0.4019,0.153,0.847,0.0
+428,CNN,Arnold Schwarzenegger's 'Celebrity Apprentice' makes its debut https://t.co/wDXVir6ESG https://t.co/duUCeYmKrX,Tue Jan 03 12:34:27 +0000 2017,0.0,0.0,1.0,0.0
+429,CNN,4 people killed when a tree fell on a home as a tornado swept through a rural Alabama community on Monday evening https://t.co/6aGTuz5CrQ,Tue Jan 03 12:21:00 +0000 2017,-0.6705,0.0,0.791,0.209
+430,CNN,China has slapped millions of dollars worth of fines on alleged offenders for violating anti-pollution rules… https://t.co/Bu2hzSm2T6,Tue Jan 03 12:14:00 +0000 2017,-0.6249,0.087,0.639,0.274
+431,CNN,"GOP senator says he will ""wait and see"" what Donald Trump knows about the Russian hacking in the United States… https://t.co/xVxJ13AB14",Tue Jan 03 12:04:01 +0000 2017,0.4215,0.123,0.877,0.0
+432,CNN,Donald Trump's rescheduled press conference will take place on January 11 https://t.co/e3gYPDji6v https://t.co/QOZdT3RBBf,Tue Jan 03 11:56:04 +0000 2017,0.0,0.0,1.0,0.0
+433,CNN,Does a vegan diet affect your ability to heal? https://t.co/mRzfCG0Bao https://t.co/I7DVfGk7ea,Tue Jan 03 11:49:01 +0000 2017,0.3182,0.204,0.796,0.0
+434,CNN,Two-year-old boy frees his twin brother from underneath a fallen dresser https://t.co/L47sePUwKk,Tue Jan 03 11:45:29 +0000 2017,-0.0772,0.161,0.657,0.182
+435,CNN,"Manhattan could get by with 78% fewer cabs, a new study suggests. (If you don't mind shared rides and longer trips)… https://t.co/ae1FfMoCHJ",Tue Jan 03 11:41:00 +0000 2017,-0.2584,0.0,0.908,0.092
+436,CNN,"New video shows Trump praising Hussain Sajwani, a business partner in Dubai, at a New Year's Eve party in Palm Beac… https://t.co/dEIdTI4Lgf",Tue Jan 03 11:38:50 +0000 2017,0.7351,0.256,0.744,0.0
+437,CNN,"Boxed into a corner? President-elect Donald Trump's limited options on North Korea
+https://t.co/GIBrlKftVv https://t.co/Cx86kW0e3R",Tue Jan 03 11:26:00 +0000 2017,-0.2263,0.0,0.863,0.137
+438,CNN,Samsung unveils its first smartphones since the launch of the ill-fated Galaxy Note 7 https://t.co/D2HdeMOztQ https://t.co/CGl4ZPXv4w,Tue Jan 03 11:19:00 +0000 2017,0.0,0.0,1.0,0.0
+439,CNN,"Four children have died in Amarillo, Texas after a mix of applied pesticide and water resulted in toxic gas… https://t.co/Juyg2u5nUn",Tue Jan 03 11:11:33 +0000 2017,-0.5574,0.0,0.833,0.167
+440,BBC News (World),Jumbo orders https://t.co/VUrPjBimUe,Tue Jan 03 00:55:29 +0000 2017,0.0,0.0,1.0,0.0
+441,BBC News (World),50 years of gadgets https://t.co/XA1zydjHki,Tue Jan 03 00:48:43 +0000 2017,0.0,0.0,1.0,0.0
+442,BBC News (World),A pneumonia-detecting coat https://t.co/K51AUND7kv,Tue Jan 03 00:42:00 +0000 2017,0.0,0.0,1.0,0.0
+443,BBC News (World),House of Cards https://t.co/iKgG7KDrHl,Tue Jan 03 00:39:42 +0000 2017,0.0,0.0,1.0,0.0
+444,BBC News (World),Brazil: Search for fugitives after deadly jail riot in Amazonas https://t.co/W3LeAt2LST,Tue Jan 03 00:05:59 +0000 2017,-0.5574,0.0,0.735,0.265
+445,BBC News (World),Life on the world's steepest street https://t.co/cfmfbRIpVN,Mon Jan 02 23:27:52 +0000 2017,0.0,0.0,1.0,0.0
+446,BBC News (World),Turkey nightclub attack: 'I thought I would die' https://t.co/rOfnpexNvz,Mon Jan 02 22:20:07 +0000 2017,-0.7906,0.0,0.462,0.538
+447,BBC News (World),Turkey nightclub attack: Manhunt for gunman intensifies https://t.co/3SYL7yKMKm,Mon Jan 02 22:15:44 +0000 2017,-0.4767,0.0,0.693,0.307
+448,BBC News (World),Syrian rebels threaten to boycott talks https://t.co/Kdii2Yk70v,Mon Jan 02 22:08:58 +0000 2017,-0.6908,0.0,0.374,0.626
+449,BBC News (World),Olympic skiing champion Jean Vuarnet dies aged 83 https://t.co/26slc1m9gi,Mon Jan 02 21:46:23 +0000 2017,0.5994,0.328,0.672,0.0
+450,BBC News (World),Iceland: First baby of 2017 born to the first baby of 1980 https://t.co/JaPnu623gt,Mon Jan 02 20:56:57 +0000 2017,0.0,0.0,1.0,0.0
+451,BBC News (World),Iranians march on jail to demand Arash Sadeghi's release https://t.co/MrLylqZi6X,Mon Jan 02 20:54:39 +0000 2017,-0.128,0.0,0.857,0.143
+452,BBC News (World),Spain Ceuta: Migrants found hidden in car and suitcase https://t.co/DOcPQCVTUc,Mon Jan 02 18:48:50 +0000 2017,0.0,0.0,1.0,0.0
+453,BBC News (World),Hilarion Capucci: Arms-smuggling archbishop dies aged 94 https://t.co/xHR0ewvjPU,Mon Jan 02 18:17:20 +0000 2017,0.0,0.0,1.0,0.0
+454,BBC News (World),Argentina: Uproar as new year message omits disputed Falklands https://t.co/cGcYaQ4Vpc,Mon Jan 02 17:47:48 +0000 2017,-0.34,0.0,0.789,0.211
+455,BBC News (World),Myanmar police officers detained over Rohingya beatings video https://t.co/s9gTomoSm9,Mon Jan 02 17:41:02 +0000 2017,-0.4019,0.0,0.748,0.252
+456,BBC News (World),RT @BBC_WHYS: How are people in #Istanbul responding to the new year attack? https://t.co/Qj0YtnNjRC https://t.co/TstyNs1YvR,Mon Jan 02 17:21:56 +0000 2017,-0.4767,0.0,0.819,0.181
+457,BBC News (World),Israeli police question PM Netanyahu in corruption probe https://t.co/GEU7XjDNbm,Mon Jan 02 17:13:57 +0000 2017,0.0,0.0,1.0,0.0
+458,BBC News (World),RT @BBCNewsbeat: Rebecca Ferguson asked to sing at Donald Trump's inauguration ceremony &amp; will accept if she can sing Strange Fruit https:/…,Mon Jan 02 17:11:46 +0000 2017,0.2023,0.107,0.82,0.074
+459,BBC News (World),Tunisian charged over Poland stabbing that sparked riot https://t.co/uSu1FcUXpD,Mon Jan 02 16:35:57 +0000 2017,-0.6597,0.0,0.565,0.435
+460,CBS News,"If you had a real tree for Christmas this year, keep these goats in mind when you take it down:… https://t.co/oDACLRAl3O",Tue Jan 03 03:30:12 +0000 2017,0.0,0.0,1.0,0.0
+461,CBS News,"4 kids die from gas poisoning believed to have been caused by pesticide sprayed under home, officials say… https://t.co/5XqnvAFBUz",Tue Jan 03 03:15:01 +0000 2017,-0.8271,0.0,0.675,0.325
+462,CBS News,"“The opioid epidemic knows no boundaries."" 10-month-old baby revived twice after ingesting fentanyl… https://t.co/Asy37qrAHL",Tue Jan 03 03:00:01 +0000 2017,-0.296,0.0,0.855,0.145
+463,CBS News,Long lines and confusion after U.S. Customs system outage at some airports https://t.co/FxSXQqUGga https://t.co/lGXLhkLPQ7,Tue Jan 03 02:56:01 +0000 2017,-0.296,0.0,0.855,0.145
+464,CBS News,"In Dec., Portland city council became 1st to increase taxes on businesses with big pay gaps between CEOs &amp; employee… https://t.co/01W3f6F2vU",Tue Jan 03 02:45:03 +0000 2017,0.2263,0.101,0.837,0.062
+465,CBS News,7 reasons why President Obama and Vice President Joe Biden are #FriendshipGoals... https://t.co/LeWRrHRXt4,Tue Jan 03 02:30:40 +0000 2017,0.0,0.0,1.0,0.0
+466,CBS News,Investigators reveal new details on parents found dead near car with 3 kids alive inside https://t.co/ijgAGYAHxz https://t.co/goN1iedXMU,Tue Jan 03 02:15:01 +0000 2017,-0.4019,0.124,0.67,0.206
+467,CBS News,A collision between two Seattle firetrucks responding to a call sent eight firefighters to the hospital… https://t.co/rKIUyGB9Ej,Tue Jan 03 02:00:02 +0000 2017,-0.3612,0.0,0.848,0.152
+468,CBS News,RT @MajorCBS: NEWS: @realDonaldTrump to name Robert Lighthizer as U.S. Trade Representative.,Tue Jan 03 01:46:49 +0000 2017,0.0,0.0,1.0,0.0
+469,CBS News,Kitty litter is helping Wyoming through its drilling slump https://t.co/0wsnmNTYXb https://t.co/P8XAAxbEbY,Tue Jan 03 01:45:01 +0000 2017,0.296,0.18,0.82,0.0
+470,CBS News,"Billie Lourd breaks silence on deaths of Carrie Fisher and Debbie Reynolds, shares sweet Instagram post… https://t.co/dBAuZmAqr6",Tue Jan 03 01:30:01 +0000 2017,0.6369,0.257,0.743,0.0
+471,CBS News,Charleston church shooter Dylann Roof ruled competent to represent himself during sentencing https://t.co/8u7uU68ijo https://t.co/B5NzwvhM12,Tue Jan 03 01:15:01 +0000 2017,0.1779,0.145,0.755,0.101
+472,CBS News,Josh Groban's apologizes for joke about Mariah Carey's disastrous New Year’s performance https://t.co/vzHwkE2X5q https://t.co/G5iYfcdRBm,Tue Jan 03 01:00:02 +0000 2017,-0.0516,0.24,0.561,0.199
+473,CBS News,Billy Joel has been waiting 40 years to ring in the New Year with this song in Miami https://t.co/EiGFvOPhUZ https://t.co/7L9mXZCxfy,Tue Jan 03 00:45:01 +0000 2017,0.0,0.0,1.0,0.0
+474,CBS News,"WATCH NOW: Car chase, dramatic standoff ends in California https://t.co/B9ggmSEwkB https://t.co/VDuYcyCaGV",Tue Jan 03 00:27:28 +0000 2017,0.0,0.0,1.0,0.0
+475,CBS News,Uber driver credited for helping save 16-year-old girl from child sex trafficking https://t.co/gZsSWX03uG https://t.co/aAx4qpoKiP,Tue Jan 03 00:15:01 +0000 2017,0.8008,0.426,0.574,0.0
+476,CBS News,"“I never saw anything like that in my life..."" 56 inmates killed, several victims beheaded, in Brazil prison riot… https://t.co/NRd5hw4WKE",Tue Jan 03 00:00:02 +0000 2017,-0.9044,0.0,0.567,0.433
+477,CBS News,"They may be identical twins, but they weren't born on the same day — or in the same year: https://t.co/0VX3IiHQ7V https://t.co/AGp6l49box",Mon Jan 02 23:40:11 +0000 2017,0.0,0.0,1.0,0.0
+478,CBS News,"Syrian boy with no arms thrives in U.S., says his dream is to be reunited with family https://t.co/sDiBDRXaSm https://t.co/QEWcRtxRMq",Mon Jan 02 23:24:01 +0000 2017,-0.0516,0.094,0.802,0.104
+479,CBS News,Police searching for 6-year-old boy missing since New Year's Eve https://t.co/ZxQBgx9TLF https://t.co/xfPErnWmZV,Mon Jan 02 23:05:01 +0000 2017,-0.296,0.0,0.833,0.167
+480,The New York Times,Not one movie rooted in real life was among 2016's top 10 box office performers https://t.co/geAKatRYaR https://t.co/Q5oJyxaEqN,Tue Jan 03 08:34:06 +0000 2017,0.2023,0.101,0.899,0.0
+481,The New York Times,"In 2017, Hollywood has become ""Hollyweed"" https://t.co/80FQNzSwL4",Tue Jan 03 08:21:05 +0000 2017,0.0,0.0,1.0,0.0
+482,The New York Times,"""I had to lift several bodies from on top of me before I could get out,"" said one woman at the nightclub in Istanbul https://t.co/7W72HHOH1A",Tue Jan 03 08:12:59 +0000 2017,0.2023,0.073,0.927,0.0
+483,The New York Times,Video Puts New Focus on Donald Trump’s Ties to Dubai Partner https://t.co/hoRtqCsvwh,Tue Jan 03 07:56:23 +0000 2017,0.0,0.0,1.0,0.0
+484,The New York Times,"RT @nytopinion: Ditch the resolutions, @jenniferweiner says. Try revolution instead. https://t.co/E8bsYq2Scz https://t.co/GpdXfmg9ph",Tue Jan 03 07:48:06 +0000 2017,0.0,0.0,1.0,0.0
+485,The New York Times,Hall of Fame Voters Soften Stance on Stars of Steroids Era https://t.co/8LH2xSVFY3,Tue Jan 03 07:31:45 +0000 2017,0.4404,0.209,0.791,0.0
+486,The New York Times,Customs Outage Frustrates Fliers at Airports Across U.S. https://t.co/E438Ee98DF,Tue Jan 03 07:24:57 +0000 2017,-0.4404,0.0,0.734,0.266
+487,The New York Times,"Sorghum, egg yolks and other food-trend predictions for 2017. What would you add? https://t.co/DGxZ1K6Hkk",Tue Jan 03 07:24:06 +0000 2017,0.0,0.0,1.0,0.0
+488,The New York Times,"Critic’s Notebook: With Schwarzenegger as Host, ‘Celebrity Apprentice’ Lacks Old Bite https://t.co/k15U0kbkE3",Tue Jan 03 07:06:48 +0000 2017,0.0,0.0,1.0,0.0
+489,The New York Times,How to form healthy habits in your 20s https://t.co/9xxQnXNH0x,Tue Jan 03 06:52:40 +0000 2017,0.4019,0.252,0.748,0.0
+490,The New York Times,"Storms Kill 4, Damage Buildings Across Southern States https://t.co/6QIHcaGAB4",Tue Jan 03 06:35:17 +0000 2017,-0.836,0.0,0.47,0.53
+491,The New York Times,Republicans stonewalled President Obama. Now the ball is in their court. https://t.co/JY9FiFhcAa,Tue Jan 03 06:17:58 +0000 2017,0.0,0.0,1.0,0.0
+492,The New York Times,No. 1 on our list of how to be a better person in 2017: Live like Bill Cunningham https://t.co/vAKZMQurQ8,Tue Jan 03 06:01:06 +0000 2017,0.4939,0.25,0.648,0.102
+493,The New York Times,Not one movie rooted in real life was among 2016's top 10 box office performers https://t.co/KsmABRoPzh https://t.co/VliqA8XYjA,Tue Jan 03 05:43:30 +0000 2017,0.2023,0.101,0.899,0.0
+494,The New York Times,"In 2017, Hollywood has become ""Hollyweed"" https://t.co/NBMvPvbbrY",Tue Jan 03 05:25:26 +0000 2017,0.0,0.0,1.0,0.0
+495,The New York Times,"Against all odds, Mexico City is now a luxury getaway. A writer who knew it as a child takes in its new pace. https://t.co/8Rk9uJIHdY",Tue Jan 03 05:07:57 +0000 2017,0.0,0.0,1.0,0.0
+496,The New York Times,There's little evidence cryotherapy does anything but chill you https://t.co/yY3vM0gXwF,Tue Jan 03 04:50:59 +0000 2017,0.0,0.0,1.0,0.0
+497,The New York Times,"Sinosphere: Transgender Man Was Unfairly Fired, but Bias Not Proved, Chinese Court Says https://t.co/AX9fcRrseq",Tue Jan 03 04:33:52 +0000 2017,-0.4404,0.0,0.755,0.245
+498,The New York Times,"Cardinal Calls It a ‘Disgrace,’ but a McDonald’s Opens Near the Vatican https://t.co/lSm59eTNX3",Tue Jan 03 04:20:18 +0000 2017,0.0,0.0,1.0,0.0
+499,The New York Times,"RT @DavidWaldstein: After Selig gains entry, former pariahs Barry Bonds and Roger Clemens surge in Hall of Fame voting. https://t.co/qgAOP4…",Tue Jan 03 04:18:06 +0000 2017,0.6486,0.227,0.773,0.0

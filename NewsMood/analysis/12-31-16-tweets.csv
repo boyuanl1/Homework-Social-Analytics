@@ -1,0 +1,540 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,"Before you hit your local vintner, it's important to know what you're getting when it comes to high-end bubbles.  https://t.co/KWEsxHnC7W",Sat Dec 31 20:01:00 +0000 2016,0.2023,0.087,0.913,0.0
+1,Fox News,.@martinamcbride wishes all of you a Happy New Year! #FoxNews2017 https://t.co/tawRwRZ6AQ,Sat Dec 31 19:58:23 +0000 2016,0.68,0.411,0.589,0.0
+2,Fox News,RT @GregGutfeldShow: Make us part of your NYE celebration! We'll be looking back at “The Year of Trump” on a special #Gutfeld Show today at…,Sat Dec 31 19:48:53 +0000 2016,0.4574,0.115,0.885,0.0
+3,Fox News,First of 2 Florida bald eaglets hatches. WATCH: https://t.co/jYE7CUF06A https://t.co/XZKsIcYVAG,Sat Dec 31 19:46:47 +0000 2016,0.0,0.0,1.0,0.0
+4,Fox News,.@meghanmccain is excited to see what politics has in store for next year! What are you looking forward to?… https://t.co/mYl9ucS8sx,Sat Dec 31 19:45:07 +0000 2016,0.4003,0.124,0.876,0.0
+5,Fox News,"A look at the new year in Kuala Lumpur, Malaysia! #FoxNews2017 https://t.co/s8sFYfgqGZ",Sat Dec 31 19:34:43 +0000 2016,0.0,0.0,1.0,0.0
+6,Fox News,.@GregGutfeld can’t wait for the NEW year! Are you ready? #FoxNews2017 https://t.co/ChsqJVMxDT,Sat Dec 31 19:27:54 +0000 2016,0.4199,0.202,0.798,0.0
+7,Fox News,"'The Year of Trump': Tonight at 5p ET, @GregGutfeldShow takes a look back at the debates, tweets and memorable mome… https://t.co/btSknitAig",Sat Dec 31 19:26:21 +0000 2016,0.0,0.0,1.0,0.0
+8,Fox News,It's a nautical mystery... https://t.co/XEigNyRpHL,Sat Dec 31 19:13:32 +0000 2016,0.0,0.0,1.0,0.0
+9,Fox News,"""The only thing deplorable was @HillaryClinton's basket of grossly generalistic comments."" - @ToddStarnes https://t.co/nOlQdajpjV",Sat Dec 31 19:09:13 +0000 2016,-0.2263,0.0,0.863,0.137
+10,Fox News,Here’s a New Year’s resolution to try out. https://t.co/KzNK3p5P9R,Sat Dec 31 19:05:06 +0000 2016,0.0,0.0,1.0,0.0
+11,Fox News,.@RondaRousey's UFC comeback didn't even last a minute. https://t.co/kyrJQx8S0T,Sat Dec 31 19:00:02 +0000 2016,0.0,0.0,1.0,0.0
+12,Fox News,@RondaRousey's UFC comeback didn't even last a minute. https://t.co/kyrJQx8S0T,Sat Dec 31 18:59:44 +0000 2016,0.0,0.0,1.0,0.0
+13,Fox News,Read their letter to @POTUS: https://t.co/VrzUiN4IT7,Sat Dec 31 18:48:02 +0000 2016,0.0,0.0,1.0,0.0
+14,Fox News,.@TheSlyStallone will attend President-elect @realDonaldTrump's New Years' Eve party. https://t.co/VT5FvIMun8,Sat Dec 31 18:45:58 +0000 2016,0.4019,0.231,0.769,0.0
+15,Fox News,HS football team places orange roses at the feet of cheerleader battling leukemia. More feel-good stories of 2016:… https://t.co/zlV0HhEgEO,Sat Dec 31 18:33:17 +0000 2016,-0.0516,0.09,0.81,0.1
+16,Fox News,RT @BryanLlenas: Live from Times Square on @foxnews - the countdown to the ball drop! Here's a view from my Snapchat @Spectacles https://t.…,Sat Dec 31 18:29:32 +0000 2016,-0.3382,0.0,0.893,0.107
+17,Fox News,“It has been the privilege of my life to serve as your president…Have a happy and blessed 2017.” - @POTUS  https://t.co/wkDxhYWt0C,Sat Dec 31 18:28:54 +0000 2016,0.8779,0.387,0.613,0.0
+18,Fox News,Can you guess @JennaLeeUSA’s New Year’s resolution? It looks interesting! #FoxNews2017 https://t.co/wVnudKRjx4,Sat Dec 31 18:25:59 +0000 2016,0.4574,0.214,0.786,0.0
+19,Fox News,RT @GriffJenkins: Get Ready... #FoxNews2017 @wildhorseTN @FoxNews #nashville https://t.co/zWOPxHh86A,Sat Dec 31 18:24:25 +0000 2016,0.0,0.0,1.0,0.0
+20,CNN,"China will ban ivory trade by end of 2017, a move that could save African elephants from extinction:… https://t.co/JTpouBChF3",Sat Dec 31 19:30:01 +0000 2016,-0.1027,0.14,0.702,0.158
+21,CNN,Vermont utility finds alleged Russian malware on computer https://t.co/e3cZaFev79 https://t.co/vq2QkSymRZ,Sat Dec 31 19:12:33 +0000 2016,0.0,0.0,1.0,0.0
+22,CNN,What New Year's Eve celebrations look like around the world https://t.co/kpruPNanau,Sat Dec 31 19:00:02 +0000 2016,0.3612,0.2,0.8,0.0
+23,CNN,"The US military is warning against the danger of troops over-consuming energy drinks, saying it could be harmful… https://t.co/Tv6CVMMFwD",Sat Dec 31 18:30:01 +0000 2016,-0.5719,0.088,0.669,0.243
+24,CNN,"As the clock strikes midnight around the globe, major cities are ringing in the new year with fireworks and celebra… https://t.co/xiqJG7ggEZ",Sat Dec 31 18:14:49 +0000 2016,-0.3612,0.0,0.889,0.111
+25,CNN,https://t.co/qqljMsmH6L,Sat Dec 31 18:14:07 +0000 2016,0.0,0.0,1.0,0.0
+26,CNN,"RT @CNNConnect: “No more politics, let’s get back to the joy.” Music legend @QuincyDJones shares his #NewYearsResolution w/ @BeckyCNN. http…",Sat Dec 31 18:04:01 +0000 2016,0.296,0.104,0.896,0.0
+27,CNN,Donald Trump will say goodbye to 2016 alongside 800 paying guests at his Mar-a-Lago estate Saturday… https://t.co/6B2tBG2ICG,Sat Dec 31 17:53:30 +0000 2016,0.0,0.0,1.0,0.0
+28,CNN,"A woman discovered a baby boy, umbilical cord still attached, left in a box by a trash bin on the streets of Brazil… https://t.co/CP84Sg0wsb",Sat Dec 31 17:30:24 +0000 2016,0.0,0.0,1.0,0.0
+29,CNN,Chief White House photographer @petesouza has selected his staff's best photos of President Barack Obama from 2016… https://t.co/hpWrz8ZiHn,Sat Dec 31 16:30:41 +0000 2016,0.6369,0.198,0.802,0.0
+30,CNN,Trump wishes Happy New Year to 'my many enemies' https://t.co/xNn6IZUxY6 https://t.co/hXxdG9WSVq,Sat Dec 31 16:00:04 +0000 2016,0.2732,0.321,0.485,0.194
+31,CNN,"Whether it was a feud, a high-profile divorce or a jewelry heist, 2016 was full of jaw-dropping celebrity moments… https://t.co/WTLfqofTgD",Sat Dec 31 15:30:01 +0000 2016,-0.34,0.0,0.87,0.13
+32,CNN,"Carrie Fisher is famous not only from #StarWars, but also for her humor. Here are some of her most memorable moment… https://t.co/MxlucivyhR",Sat Dec 31 15:01:53 +0000 2016,0.3919,0.112,0.888,0.0
+33,CNN,"2016 was busy for the US Border Patrol, with total nationwide arrests up 23% from 2015, according to a DHS report… https://t.co/EjbDvZ14fc",Sat Dec 31 14:30:01 +0000 2016,-0.4404,0.0,0.873,0.127
+34,CNN,"2016 was rough on the music industry. Legends David Bowie, Prince, Leonard Cohen and George Michael all passed away… https://t.co/Kgx3AQ3wFN",Sat Dec 31 14:02:10 +0000 2016,0.0,0.0,1.0,0.0
+35,CNN,Ronda Rousey suffers lightning-fast defeat https://t.co/7Gj9UpxqSS https://t.co/Ryz4CGQVo7,Sat Dec 31 13:30:01 +0000 2016,-0.7269,0.0,0.45,0.55
+36,CNN,"A former Versace employee who is suing the company alleges that it uses a secret ""code"" for black customers… https://t.co/gOtjyTSeHd",Sat Dec 31 13:01:01 +0000 2016,-0.2732,0.0,0.89,0.11
+37,CNN,George Michael's partner Fadi Fawaz says the pop star died alone https://t.co/yci61TgnSf https://t.co/Gaxh1if68Y,Sat Dec 31 12:31:01 +0000 2016,-0.6808,0.0,0.663,0.337
+38,CNN,1.3 million people RSVP'd for a 15th birthday party that was supposed to be much smaller https://t.co/yW45Lhy9TP https://t.co/N5WvHYzW3t,Sat Dec 31 12:01:39 +0000 2016,0.4019,0.144,0.856,0.0
+39,CNN,21 people rescued from California theme park ride after trapped more than 100 feet in the air for 7 hours:… https://t.co/be6PNclLOb,Sat Dec 31 11:15:01 +0000 2016,-0.1531,0.116,0.744,0.14
+40,BBC News (World),The man behind Kinder Surprise has died at the age of 83 https://t.co/br5QQIWj1T,Sat Dec 31 19:09:24 +0000 2016,0.1779,0.28,0.529,0.19
+41,BBC News (World),Bangladesh MP Manjurul Islam shot dead at home https://t.co/In25n4TjWV,Sat Dec 31 18:58:46 +0000 2016,-0.6486,0.0,0.65,0.35
+42,BBC News (World),"China jails 16 over black market kidney trading
+https://t.co/CzmkqaXMB3 https://t.co/TLyYmPvjrG",Sat Dec 31 18:58:42 +0000 2016,0.0,0.0,1.0,0.0
+43,BBC News (World),China court jails 16 for black market kidney trading https://t.co/wA7PfVJLlz,Sat Dec 31 18:56:34 +0000 2016,0.0,0.0,1.0,0.0
+44,BBC News (World),"What's the most important historic event during your lifetime?
+
+https://t.co/Q8mpKcon3f https://t.co/O3RuAijWpY",Sat Dec 31 18:20:31 +0000 2016,0.2716,0.173,0.827,0.0
+45,BBC News (World),"RT @BBCBreaking: .@UN Security Council endorses #Syria ceasefire and plans for peace talks between both sides of the conflict
+
+https://t.co…",Sat Dec 31 18:15:00 +0000 2016,0.7184,0.312,0.602,0.086
+46,BBC News (World),It's the birth millions were waiting for. ♥ 🦅 https://t.co/DzRlVuLgmU,Sat Dec 31 17:34:02 +0000 2016,0.0,0.0,1.0,0.0
+47,BBC News (World),"The stories that made 2016
+#YearOnTwitter
+
+https://t.co/LvoKIumCN0",Sat Dec 31 17:04:11 +0000 2016,0.0,0.0,1.0,0.0
+48,BBC News (World),Venezuela releases opposition figure Manuel Rosales https://t.co/lbVh6hAXfl,Sat Dec 31 16:23:37 +0000 2016,0.0,0.0,1.0,0.0
+49,BBC News (World),"Hong Kong celebrates the start of 2017 in style 🎆
+
+https://t.co/EbaJscqehu https://t.co/b0CvK89ESS",Sat Dec 31 16:07:56 +0000 2016,0.5719,0.252,0.748,0.0
+50,BBC News (World),S Koreans protest against President Park on New Year's Eve https://t.co/q4aAsxvdHw,Sat Dec 31 16:05:30 +0000 2016,-0.25,0.0,0.818,0.182
+51,BBC News (World),EgyptAir crash: Bodies of crew members returned to families https://t.co/yc0Jkr5Ke5,Sat Dec 31 16:05:28 +0000 2016,-0.4019,0.0,0.769,0.231
+52,BBC News (World),French workers get 'right to disconnect' from emails out of hours https://t.co/xiXHR8jYpk,Sat Dec 31 15:56:29 +0000 2016,0.0,0.0,1.0,0.0
+53,BBC News (World),Eagle chick hatches on Florida webcam https://t.co/AjTDJZ6qLF,Sat Dec 31 15:18:13 +0000 2016,0.0,0.0,1.0,0.0
+54,BBC News (World),Indian party chief reinstates sacked son Akhilesh Yadav https://t.co/fNwMv0BdNU,Sat Dec 31 15:02:26 +0000 2016,0.4019,0.252,0.748,0.0
+55,BBC News (World),'Russia hacking code' found on Vermont utility computer https://t.co/kTttPC2JqZ,Sat Dec 31 14:35:29 +0000 2016,0.0,0.0,1.0,0.0
+56,BBC News (World),"2017 goes off with a bang in Sydney. Happy new year, Australia! 🎆 https://t.co/2Hx3yzfVdW",Sat Dec 31 13:22:26 +0000 2016,0.6114,0.25,0.75,0.0
+57,BBC News (World),India mine collapse: Bodies of 13 recovered in Jharkhand https://t.co/0OZT2Am5SM,Sat Dec 31 12:42:53 +0000 2016,-0.4939,0.0,0.738,0.262
+58,BBC News (World),New Zealand fireworks welcome 2017 https://t.co/NlGSn6WNfO,Sat Dec 31 11:44:23 +0000 2016,0.4588,0.375,0.625,0.0
+59,BBC News (World),New Year celebrations: NZ's Auckland first world city to welcome in 2017 https://t.co/eb3Wj8rcM5,Sat Dec 31 11:10:49 +0000 2016,0.4588,0.2,0.8,0.0
+60,CBS News,Google reveals most searched celebrities of 2016 https://t.co/KVd26OfBXa https://t.co/EaUUnQHOto,Sat Dec 31 20:00:41 +0000 2016,0.0,0.0,1.0,0.0
+61,CBS News,"See how performing is ""self-therapy"" for this Grammy-nominated artist https://t.co/5WMEnLF4IG https://t.co/xKTubMjeWM",Sat Dec 31 19:15:01 +0000 2016,0.0,0.0,1.0,0.0
+62,CBS News,"This Juneau, Alaska avalanche was caught on camera https://t.co/6K4oxyvYmx https://t.co/V1ZWAPKjMH",Sat Dec 31 18:50:03 +0000 2016,0.0,0.0,1.0,0.0
+63,CBS News,Police in Brazil believe that Greece’s ambassador to the country was killed by his wife’s lover… https://t.co/2phGhXaD4x,Sat Dec 31 18:30:01 +0000 2016,-0.6705,0.0,0.78,0.22
+64,CBS News,President-elect Donald Trump wished his “many enemies” a happy new year on Twitter https://t.co/akjmLqRu66 https://t.co/tzih1aXKev,Sat Dec 31 18:05:01 +0000 2016,0.5719,0.222,0.778,0.0
+65,CBS News,After 79 years the Carnegie Delicatessen will slice its last ridiculously oversized sandwich https://t.co/Ex2lv7FkDu https://t.co/kie066DCP6,Sat Dec 31 17:40:01 +0000 2016,-0.25,0.083,0.774,0.143
+66,CBS News,Here are the tech trends you should be watching in 2017 https://t.co/6VPZRhobzm https://t.co/wvGjgolRrR,Sat Dec 31 17:15:01 +0000 2016,0.0,0.0,1.0,0.0
+67,CBS News,"This state trooper was shot dead while responding to a report, police say https://t.co/k3heq4iOUg https://t.co/RnpaZKFSqm",Sat Dec 31 16:50:01 +0000 2016,-0.6486,0.0,0.751,0.249
+68,CBS News,The period between Christmas and New Year’s Day is an ideal time to plot your course on tackling college debt… https://t.co/NiSPsvARUR,Sat Dec 31 16:25:01 +0000 2016,0.5267,0.145,0.855,0.0
+69,CBS News,Massive sand trucks have been added to NYC's New Year's Eve security plans https://t.co/Rkx6xQgbEW https://t.co/oM8ofnCj5n,Sat Dec 31 16:00:02 +0000 2016,0.34,0.146,0.854,0.0
+70,CBS News,"This zoo euthanized a 25-year-old lion named Zenda, believed to be the oldest lion in the U.S.… https://t.co/MWxsdDeUrw",Sat Dec 31 15:50:02 +0000 2016,0.0,0.0,1.0,0.0
+71,CBS News,"Two people are dead and two injured after a shooting outside a theater, police say https://t.co/A1TkgS2MJp https://t.co/vXXqXwdcxo",Sat Dec 31 15:35:29 +0000 2016,-0.7906,0.0,0.65,0.35
+72,CBS News,"This NYPD officer was on a cell phone when a prisoner escaped, sources say https://t.co/dz1gbvlNoN https://t.co/Gj1IQbSN26",Sat Dec 31 15:20:01 +0000 2016,-0.5423,0.0,0.788,0.212
+73,CBS News,"This farm ride trapped 21 people 100 feet in the air, officials say https://t.co/xBIs9AcrmS https://t.co/mvyR5NN1s2",Sat Dec 31 15:00:02 +0000 2016,-0.5267,0.0,0.805,0.195
+74,CBS News,Ronda Rousey’s UFC comeback didn’t even last a minute https://t.co/EaPyI3fJE2 https://t.co/cORxCLcZtr,Sat Dec 31 14:35:01 +0000 2016,0.0,0.0,1.0,0.0
+75,CBS News,A state electric utility confirmed it had found a malware code the U.S. government says is used by Russian hackers… https://t.co/aVFQ45XGER,Sat Dec 31 14:12:55 +0000 2016,0.0,0.0,1.0,0.0
+76,CBS News,"Debbie Reynolds and Carrie Fisher to be buried together, Todd Fisher says https://t.co/H0lPMpdwsu https://t.co/8v2HvZjn38",Sat Dec 31 13:00:01 +0000 2016,0.0,0.0,1.0,0.0
+77,CBS News,WATCH: Putin's response to U.S. actions against Russia leads today's Eye Opener - your world in 90 seconds:… https://t.co/hSe2wrzOHU,Sat Dec 31 12:45:01 +0000 2016,0.0,0.0,1.0,0.0
+78,CBS News,See if your local Sears or Kmart is closing in 2017 https://t.co/JOfwjiKNIH https://t.co/ZJEaxBkFmV,Sat Dec 31 12:30:01 +0000 2016,0.0,0.0,1.0,0.0
+79,CBS News,Stephen Colbert describes his pre-show ritual in interview with @FaceTheNation https://t.co/S9zmvMDhnT https://t.co/HTxJYm9EQH,Sat Dec 31 12:00:02 +0000 2016,0.0,0.0,1.0,0.0
+80,The New York Times,"As Trump praises Putin, many Americans, accustomed to be suspicious of Russia, are confused and uneasy https://t.co/rX4Fz6fH2c",Sat Dec 31 19:50:02 +0000 2016,-0.4588,0.143,0.546,0.311
+81,The New York Times,Be a part of the fiery festivals of 2016 from around the world https://t.co/06SS7cVdQe #Daily360 https://t.co/u301CMGg9D,Sat Dec 31 19:40:04 +0000 2016,0.0258,0.14,0.726,0.134
+82,The New York Times,"Cyril Tyson, fighter of poverty and father of famed physicist Neil deGrasse Tyson, has died at 89 https://t.co/i4hwb9pE73",Sat Dec 31 19:30:13 +0000 2016,-0.743,0.068,0.638,0.294
+83,The New York Times,"Destroyed by the Islamic State, Syria's cultural sites will get a second life at the Louvre  https://t.co/yEpwMBK5vU",Sat Dec 31 19:20:08 +0000 2016,-0.4939,0.0,0.824,0.176
+84,The New York Times,"The son of a famous pastor, Bart Campolo is now an atheist — using the skills he learned in the world he left behind https://t.co/Ho53vkFnJQ",Sat Dec 31 19:10:04 +0000 2016,0.0,0.0,1.0,0.0
+85,The New York Times,The typical American diet includes far too much added sugar. Can you stay under a healthy limit? https://t.co/cFgf3imuar via @nytopinion,Sat Dec 31 19:00:03 +0000 2016,0.4019,0.13,0.87,0.0
+86,The New York Times,"Sam Siatta, a Marine veteran, was blackout drunk when he forced his way into a house he apparently thought was his https://t.co/R5W4anv83u",Sat Dec 31 18:45:05 +0000 2016,-0.6597,0.0,0.769,0.231
+87,The New York Times,"Natalie Cole's extreme highs and lows: Every time she hit it big, something knocked her down https://t.co/RxmMZnrw50 https://t.co/oXpH99semX",Sat Dec 31 18:30:13 +0000 2016,-0.2023,0.0,0.904,0.096
+88,The New York Times,"With 3 weeks left in office, Obama is using all his powers to cement his legacy and make undoing it harder for Trump https://t.co/YPEzs09tMq",Sat Dec 31 18:15:05 +0000 2016,0.0,0.0,1.0,0.0
+89,The New York Times,"Trump will build 2 resorts in Indonesia, forging relationships with powerful political figures there https://t.co/G9EejWdXqf",Sat Dec 31 17:56:03 +0000 2016,0.4215,0.177,0.823,0.0
+90,The New York Times,"The campaign ad that moved people the most in 2016: Bernie Sanders’s ""America""  https://t.co/dC32LKkRGo via @nytopinion",Sat Dec 31 17:46:02 +0000 2016,0.0,0.0,1.0,0.0
+91,The New York Times,"In the Czech Republic, questions swirl about Russian influence in the presidential palace https://t.co/mUrKH7HfJA",Sat Dec 31 17:36:06 +0000 2016,0.0,0.0,1.0,0.0
+92,The New York Times,Our top 10 comments of the week https://t.co/266OF0I92a https://t.co/QEMV2zXDlP,Sat Dec 31 17:26:05 +0000 2016,0.2023,0.184,0.816,0.0
+93,The New York Times,The rooms they left behind: A look at the spaces of 10 notable people we lost in 2016 https://t.co/RcjS8SECCQ https://t.co/KTo7EguvfB,Sat Dec 31 17:16:11 +0000 2016,-0.3182,0.0,0.887,0.113
+94,The New York Times,"If China shuts down their ivory market, will this save the elephants? This is what experts have to say. https://t.co/AHXwiPr0BL",Sat Dec 31 17:06:05 +0000 2016,0.5789,0.165,0.835,0.0
+95,The New York Times,Check your Netflix queue and make sure you don’t miss out on any of these movies before Jan. 1 https://t.co/s7H8Sjhu8h,Sat Dec 31 17:01:03 +0000 2016,0.1779,0.11,0.813,0.077
+96,The New York Times,The killing of the Greek ambassaor to Brazil was shocking even for the crime-weary city of Rio de Janeiro https://t.co/og0mRYJCzR,Sat Dec 31 16:46:07 +0000 2016,-0.7964,0.0,0.717,0.283
+97,The New York Times,"Hillary Clinton's loss was a loss for feminism, too https://t.co/I3evCNumY7 via @nytopinion",Sat Dec 31 16:31:02 +0000 2016,-0.5574,0.0,0.662,0.338
+98,The New York Times,Choose a month this year to quit sugar. Go cold turkey. https://t.co/clg68XTX84 via @nytopinion,Sat Dec 31 16:16:05 +0000 2016,0.0,0.0,1.0,0.0
+99,The New York Times,The Connecticut Supreme Court reinstated a Kennedy cousin's murder conviction in the 1975 killing of a teen https://t.co/FRqKjMd1fr,Sat Dec 31 16:01:01 +0000 2016,-0.7579,0.14,0.506,0.354
+100,Fox News,"Before you hit your local vintner, it's important to know what you're getting when it comes to high-end bubbles.  https://t.co/KWEsxHnC7W",Sat Dec 31 20:01:00 +0000 2016,0.2023,0.087,0.913,0.0
+101,Fox News,.@martinamcbride wishes all of you a Happy New Year! #FoxNews2017 https://t.co/tawRwRZ6AQ,Sat Dec 31 19:58:23 +0000 2016,0.68,0.411,0.589,0.0
+102,Fox News,RT @GregGutfeldShow: Make us part of your NYE celebration! We'll be looking back at “The Year of Trump” on a special #Gutfeld Show today at…,Sat Dec 31 19:48:53 +0000 2016,0.4574,0.115,0.885,0.0
+103,Fox News,First of 2 Florida bald eaglets hatches. WATCH: https://t.co/jYE7CUF06A https://t.co/XZKsIcYVAG,Sat Dec 31 19:46:47 +0000 2016,0.0,0.0,1.0,0.0
+104,Fox News,.@meghanmccain is excited to see what politics has in store for next year! What are you looking forward to?… https://t.co/mYl9ucS8sx,Sat Dec 31 19:45:07 +0000 2016,0.4003,0.124,0.876,0.0
+105,Fox News,"A look at the new year in Kuala Lumpur, Malaysia! #FoxNews2017 https://t.co/s8sFYfgqGZ",Sat Dec 31 19:34:43 +0000 2016,0.0,0.0,1.0,0.0
+106,Fox News,.@GregGutfeld can’t wait for the NEW year! Are you ready? #FoxNews2017 https://t.co/ChsqJVMxDT,Sat Dec 31 19:27:54 +0000 2016,0.4199,0.202,0.798,0.0
+107,Fox News,"'The Year of Trump': Tonight at 5p ET, @GregGutfeldShow takes a look back at the debates, tweets and memorable mome… https://t.co/btSknitAig",Sat Dec 31 19:26:21 +0000 2016,0.0,0.0,1.0,0.0
+108,Fox News,It's a nautical mystery... https://t.co/XEigNyRpHL,Sat Dec 31 19:13:32 +0000 2016,0.0,0.0,1.0,0.0
+109,Fox News,"""The only thing deplorable was @HillaryClinton's basket of grossly generalistic comments."" - @ToddStarnes https://t.co/nOlQdajpjV",Sat Dec 31 19:09:13 +0000 2016,-0.2263,0.0,0.863,0.137
+110,Fox News,Here’s a New Year’s resolution to try out. https://t.co/KzNK3p5P9R,Sat Dec 31 19:05:06 +0000 2016,0.0,0.0,1.0,0.0
+111,Fox News,.@RondaRousey's UFC comeback didn't even last a minute. https://t.co/kyrJQx8S0T,Sat Dec 31 19:00:02 +0000 2016,0.0,0.0,1.0,0.0
+112,Fox News,@RondaRousey's UFC comeback didn't even last a minute. https://t.co/kyrJQx8S0T,Sat Dec 31 18:59:44 +0000 2016,0.0,0.0,1.0,0.0
+113,Fox News,Read their letter to @POTUS: https://t.co/VrzUiN4IT7,Sat Dec 31 18:48:02 +0000 2016,0.0,0.0,1.0,0.0
+114,Fox News,.@TheSlyStallone will attend President-elect @realDonaldTrump's New Years' Eve party. https://t.co/VT5FvIMun8,Sat Dec 31 18:45:58 +0000 2016,0.4019,0.231,0.769,0.0
+115,Fox News,HS football team places orange roses at the feet of cheerleader battling leukemia. More feel-good stories of 2016:… https://t.co/zlV0HhEgEO,Sat Dec 31 18:33:17 +0000 2016,-0.0516,0.09,0.81,0.1
+116,Fox News,RT @BryanLlenas: Live from Times Square on @foxnews - the countdown to the ball drop! Here's a view from my Snapchat @Spectacles https://t.…,Sat Dec 31 18:29:32 +0000 2016,-0.3382,0.0,0.893,0.107
+117,Fox News,“It has been the privilege of my life to serve as your president…Have a happy and blessed 2017.” - @POTUS  https://t.co/wkDxhYWt0C,Sat Dec 31 18:28:54 +0000 2016,0.8779,0.387,0.613,0.0
+118,Fox News,Can you guess @JennaLeeUSA’s New Year’s resolution? It looks interesting! #FoxNews2017 https://t.co/wVnudKRjx4,Sat Dec 31 18:25:59 +0000 2016,0.4574,0.214,0.786,0.0
+119,Fox News,RT @GriffJenkins: Get Ready... #FoxNews2017 @wildhorseTN @FoxNews #nashville https://t.co/zWOPxHh86A,Sat Dec 31 18:24:25 +0000 2016,0.0,0.0,1.0,0.0
+120,CNN,"China will ban ivory trade by end of 2017, a move that could save African elephants from extinction:… https://t.co/JTpouBChF3",Sat Dec 31 19:30:01 +0000 2016,-0.1027,0.14,0.702,0.158
+121,CNN,Vermont utility finds alleged Russian malware on computer https://t.co/e3cZaFev79 https://t.co/vq2QkSymRZ,Sat Dec 31 19:12:33 +0000 2016,0.0,0.0,1.0,0.0
+122,CNN,What New Year's Eve celebrations look like around the world https://t.co/kpruPNanau,Sat Dec 31 19:00:02 +0000 2016,0.3612,0.2,0.8,0.0
+123,CNN,"The US military is warning against the danger of troops over-consuming energy drinks, saying it could be harmful… https://t.co/Tv6CVMMFwD",Sat Dec 31 18:30:01 +0000 2016,-0.5719,0.088,0.669,0.243
+124,CNN,"As the clock strikes midnight around the globe, major cities are ringing in the new year with fireworks and celebra… https://t.co/xiqJG7ggEZ",Sat Dec 31 18:14:49 +0000 2016,-0.3612,0.0,0.889,0.111
+125,CNN,https://t.co/qqljMsmH6L,Sat Dec 31 18:14:07 +0000 2016,0.0,0.0,1.0,0.0
+126,CNN,"RT @CNNConnect: “No more politics, let’s get back to the joy.” Music legend @QuincyDJones shares his #NewYearsResolution w/ @BeckyCNN. http…",Sat Dec 31 18:04:01 +0000 2016,0.296,0.104,0.896,0.0
+127,CNN,Donald Trump will say goodbye to 2016 alongside 800 paying guests at his Mar-a-Lago estate Saturday… https://t.co/6B2tBG2ICG,Sat Dec 31 17:53:30 +0000 2016,0.0,0.0,1.0,0.0
+128,CNN,"A woman discovered a baby boy, umbilical cord still attached, left in a box by a trash bin on the streets of Brazil… https://t.co/CP84Sg0wsb",Sat Dec 31 17:30:24 +0000 2016,0.0,0.0,1.0,0.0
+129,CNN,Chief White House photographer @petesouza has selected his staff's best photos of President Barack Obama from 2016… https://t.co/hpWrz8ZiHn,Sat Dec 31 16:30:41 +0000 2016,0.6369,0.198,0.802,0.0
+130,CNN,Trump wishes Happy New Year to 'my many enemies' https://t.co/xNn6IZUxY6 https://t.co/hXxdG9WSVq,Sat Dec 31 16:00:04 +0000 2016,0.2732,0.321,0.485,0.194
+131,CNN,"Whether it was a feud, a high-profile divorce or a jewelry heist, 2016 was full of jaw-dropping celebrity moments… https://t.co/WTLfqofTgD",Sat Dec 31 15:30:01 +0000 2016,-0.34,0.0,0.87,0.13
+132,CNN,"Carrie Fisher is famous not only from #StarWars, but also for her humor. Here are some of her most memorable moment… https://t.co/MxlucivyhR",Sat Dec 31 15:01:53 +0000 2016,0.3919,0.112,0.888,0.0
+133,CNN,"2016 was busy for the US Border Patrol, with total nationwide arrests up 23% from 2015, according to a DHS report… https://t.co/EjbDvZ14fc",Sat Dec 31 14:30:01 +0000 2016,-0.4404,0.0,0.873,0.127
+134,CNN,"2016 was rough on the music industry. Legends David Bowie, Prince, Leonard Cohen and George Michael all passed away… https://t.co/Kgx3AQ3wFN",Sat Dec 31 14:02:10 +0000 2016,0.0,0.0,1.0,0.0
+135,CNN,Ronda Rousey suffers lightning-fast defeat https://t.co/7Gj9UpxqSS https://t.co/Ryz4CGQVo7,Sat Dec 31 13:30:01 +0000 2016,-0.7269,0.0,0.45,0.55
+136,CNN,"A former Versace employee who is suing the company alleges that it uses a secret ""code"" for black customers… https://t.co/gOtjyTSeHd",Sat Dec 31 13:01:01 +0000 2016,-0.2732,0.0,0.89,0.11
+137,CNN,George Michael's partner Fadi Fawaz says the pop star died alone https://t.co/yci61TgnSf https://t.co/Gaxh1if68Y,Sat Dec 31 12:31:01 +0000 2016,-0.6808,0.0,0.663,0.337
+138,CNN,1.3 million people RSVP'd for a 15th birthday party that was supposed to be much smaller https://t.co/yW45Lhy9TP https://t.co/N5WvHYzW3t,Sat Dec 31 12:01:39 +0000 2016,0.4019,0.144,0.856,0.0
+139,CNN,21 people rescued from California theme park ride after trapped more than 100 feet in the air for 7 hours:… https://t.co/be6PNclLOb,Sat Dec 31 11:15:01 +0000 2016,-0.1531,0.116,0.744,0.14
+140,BBC News (World),The man behind Kinder Surprise has died at the age of 83 https://t.co/br5QQIWj1T,Sat Dec 31 19:09:24 +0000 2016,0.1779,0.28,0.529,0.19
+141,BBC News (World),Bangladesh MP Manjurul Islam shot dead at home https://t.co/In25n4TjWV,Sat Dec 31 18:58:46 +0000 2016,-0.6486,0.0,0.65,0.35
+142,BBC News (World),"China jails 16 over black market kidney trading
+https://t.co/CzmkqaXMB3 https://t.co/TLyYmPvjrG",Sat Dec 31 18:58:42 +0000 2016,0.0,0.0,1.0,0.0
+143,BBC News (World),China court jails 16 for black market kidney trading https://t.co/wA7PfVJLlz,Sat Dec 31 18:56:34 +0000 2016,0.0,0.0,1.0,0.0
+144,BBC News (World),"What's the most important historic event during your lifetime?
+
+https://t.co/Q8mpKcon3f https://t.co/O3RuAijWpY",Sat Dec 31 18:20:31 +0000 2016,0.2716,0.173,0.827,0.0
+145,BBC News (World),"RT @BBCBreaking: .@UN Security Council endorses #Syria ceasefire and plans for peace talks between both sides of the conflict
+
+https://t.co…",Sat Dec 31 18:15:00 +0000 2016,0.7184,0.312,0.602,0.086
+146,BBC News (World),It's the birth millions were waiting for. ♥ 🦅 https://t.co/DzRlVuLgmU,Sat Dec 31 17:34:02 +0000 2016,0.0,0.0,1.0,0.0
+147,BBC News (World),"The stories that made 2016
+#YearOnTwitter
+
+https://t.co/LvoKIumCN0",Sat Dec 31 17:04:11 +0000 2016,0.0,0.0,1.0,0.0
+148,BBC News (World),Venezuela releases opposition figure Manuel Rosales https://t.co/lbVh6hAXfl,Sat Dec 31 16:23:37 +0000 2016,0.0,0.0,1.0,0.0
+149,BBC News (World),"Hong Kong celebrates the start of 2017 in style 🎆
+
+https://t.co/EbaJscqehu https://t.co/b0CvK89ESS",Sat Dec 31 16:07:56 +0000 2016,0.5719,0.252,0.748,0.0
+150,BBC News (World),S Koreans protest against President Park on New Year's Eve https://t.co/q4aAsxvdHw,Sat Dec 31 16:05:30 +0000 2016,-0.25,0.0,0.818,0.182
+151,BBC News (World),EgyptAir crash: Bodies of crew members returned to families https://t.co/yc0Jkr5Ke5,Sat Dec 31 16:05:28 +0000 2016,-0.4019,0.0,0.769,0.231
+152,BBC News (World),French workers get 'right to disconnect' from emails out of hours https://t.co/xiXHR8jYpk,Sat Dec 31 15:56:29 +0000 2016,0.0,0.0,1.0,0.0
+153,BBC News (World),Eagle chick hatches on Florida webcam https://t.co/AjTDJZ6qLF,Sat Dec 31 15:18:13 +0000 2016,0.0,0.0,1.0,0.0
+154,BBC News (World),Indian party chief reinstates sacked son Akhilesh Yadav https://t.co/fNwMv0BdNU,Sat Dec 31 15:02:26 +0000 2016,0.4019,0.252,0.748,0.0
+155,BBC News (World),'Russia hacking code' found on Vermont utility computer https://t.co/kTttPC2JqZ,Sat Dec 31 14:35:29 +0000 2016,0.0,0.0,1.0,0.0
+156,BBC News (World),"2017 goes off with a bang in Sydney. Happy new year, Australia! 🎆 https://t.co/2Hx3yzfVdW",Sat Dec 31 13:22:26 +0000 2016,0.6114,0.25,0.75,0.0
+157,BBC News (World),India mine collapse: Bodies of 13 recovered in Jharkhand https://t.co/0OZT2Am5SM,Sat Dec 31 12:42:53 +0000 2016,-0.4939,0.0,0.738,0.262
+158,BBC News (World),New Zealand fireworks welcome 2017 https://t.co/NlGSn6WNfO,Sat Dec 31 11:44:23 +0000 2016,0.4588,0.375,0.625,0.0
+159,BBC News (World),New Year celebrations: NZ's Auckland first world city to welcome in 2017 https://t.co/eb3Wj8rcM5,Sat Dec 31 11:10:49 +0000 2016,0.4588,0.2,0.8,0.0
+160,CBS News,Google reveals most searched celebrities of 2016 https://t.co/KVd26OfBXa https://t.co/EaUUnQHOto,Sat Dec 31 20:00:41 +0000 2016,0.0,0.0,1.0,0.0
+161,CBS News,"See how performing is ""self-therapy"" for this Grammy-nominated artist https://t.co/5WMEnLF4IG https://t.co/xKTubMjeWM",Sat Dec 31 19:15:01 +0000 2016,0.0,0.0,1.0,0.0
+162,CBS News,"This Juneau, Alaska avalanche was caught on camera https://t.co/6K4oxyvYmx https://t.co/V1ZWAPKjMH",Sat Dec 31 18:50:03 +0000 2016,0.0,0.0,1.0,0.0
+163,CBS News,Police in Brazil believe that Greece’s ambassador to the country was killed by his wife’s lover… https://t.co/2phGhXaD4x,Sat Dec 31 18:30:01 +0000 2016,-0.6705,0.0,0.78,0.22
+164,CBS News,President-elect Donald Trump wished his “many enemies” a happy new year on Twitter https://t.co/akjmLqRu66 https://t.co/tzih1aXKev,Sat Dec 31 18:05:01 +0000 2016,0.5719,0.222,0.778,0.0
+165,CBS News,After 79 years the Carnegie Delicatessen will slice its last ridiculously oversized sandwich https://t.co/Ex2lv7FkDu https://t.co/kie066DCP6,Sat Dec 31 17:40:01 +0000 2016,-0.25,0.083,0.774,0.143
+166,CBS News,Here are the tech trends you should be watching in 2017 https://t.co/6VPZRhobzm https://t.co/wvGjgolRrR,Sat Dec 31 17:15:01 +0000 2016,0.0,0.0,1.0,0.0
+167,CBS News,"This state trooper was shot dead while responding to a report, police say https://t.co/k3heq4iOUg https://t.co/RnpaZKFSqm",Sat Dec 31 16:50:01 +0000 2016,-0.6486,0.0,0.751,0.249
+168,CBS News,The period between Christmas and New Year’s Day is an ideal time to plot your course on tackling college debt… https://t.co/NiSPsvARUR,Sat Dec 31 16:25:01 +0000 2016,0.5267,0.145,0.855,0.0
+169,CBS News,Massive sand trucks have been added to NYC's New Year's Eve security plans https://t.co/Rkx6xQgbEW https://t.co/oM8ofnCj5n,Sat Dec 31 16:00:02 +0000 2016,0.34,0.146,0.854,0.0
+170,CBS News,"This zoo euthanized a 25-year-old lion named Zenda, believed to be the oldest lion in the U.S.… https://t.co/MWxsdDeUrw",Sat Dec 31 15:50:02 +0000 2016,0.0,0.0,1.0,0.0
+171,CBS News,"Two people are dead and two injured after a shooting outside a theater, police say https://t.co/A1TkgS2MJp https://t.co/vXXqXwdcxo",Sat Dec 31 15:35:29 +0000 2016,-0.7906,0.0,0.65,0.35
+172,CBS News,"This NYPD officer was on a cell phone when a prisoner escaped, sources say https://t.co/dz1gbvlNoN https://t.co/Gj1IQbSN26",Sat Dec 31 15:20:01 +0000 2016,-0.5423,0.0,0.788,0.212
+173,CBS News,"This farm ride trapped 21 people 100 feet in the air, officials say https://t.co/xBIs9AcrmS https://t.co/mvyR5NN1s2",Sat Dec 31 15:00:02 +0000 2016,-0.5267,0.0,0.805,0.195
+174,CBS News,Ronda Rousey’s UFC comeback didn’t even last a minute https://t.co/EaPyI3fJE2 https://t.co/cORxCLcZtr,Sat Dec 31 14:35:01 +0000 2016,0.0,0.0,1.0,0.0
+175,CBS News,A state electric utility confirmed it had found a malware code the U.S. government says is used by Russian hackers… https://t.co/aVFQ45XGER,Sat Dec 31 14:12:55 +0000 2016,0.0,0.0,1.0,0.0
+176,CBS News,"Debbie Reynolds and Carrie Fisher to be buried together, Todd Fisher says https://t.co/H0lPMpdwsu https://t.co/8v2HvZjn38",Sat Dec 31 13:00:01 +0000 2016,0.0,0.0,1.0,0.0
+177,CBS News,WATCH: Putin's response to U.S. actions against Russia leads today's Eye Opener - your world in 90 seconds:… https://t.co/hSe2wrzOHU,Sat Dec 31 12:45:01 +0000 2016,0.0,0.0,1.0,0.0
+178,CBS News,See if your local Sears or Kmart is closing in 2017 https://t.co/JOfwjiKNIH https://t.co/ZJEaxBkFmV,Sat Dec 31 12:30:01 +0000 2016,0.0,0.0,1.0,0.0
+179,CBS News,Stephen Colbert describes his pre-show ritual in interview with @FaceTheNation https://t.co/S9zmvMDhnT https://t.co/HTxJYm9EQH,Sat Dec 31 12:00:02 +0000 2016,0.0,0.0,1.0,0.0
+180,The New York Times,"As Trump praises Putin, many Americans, accustomed to be suspicious of Russia, are confused and uneasy https://t.co/rX4Fz6fH2c",Sat Dec 31 19:50:02 +0000 2016,-0.4588,0.143,0.546,0.311
+181,The New York Times,Be a part of the fiery festivals of 2016 from around the world https://t.co/06SS7cVdQe #Daily360 https://t.co/u301CMGg9D,Sat Dec 31 19:40:04 +0000 2016,0.0258,0.14,0.726,0.134
+182,The New York Times,"Cyril Tyson, fighter of poverty and father of famed physicist Neil deGrasse Tyson, has died at 89 https://t.co/i4hwb9pE73",Sat Dec 31 19:30:13 +0000 2016,-0.743,0.068,0.638,0.294
+183,The New York Times,"Destroyed by the Islamic State, Syria's cultural sites will get a second life at the Louvre  https://t.co/yEpwMBK5vU",Sat Dec 31 19:20:08 +0000 2016,-0.4939,0.0,0.824,0.176
+184,The New York Times,"The son of a famous pastor, Bart Campolo is now an atheist — using the skills he learned in the world he left behind https://t.co/Ho53vkFnJQ",Sat Dec 31 19:10:04 +0000 2016,0.0,0.0,1.0,0.0
+185,The New York Times,The typical American diet includes far too much added sugar. Can you stay under a healthy limit? https://t.co/cFgf3imuar via @nytopinion,Sat Dec 31 19:00:03 +0000 2016,0.4019,0.13,0.87,0.0
+186,The New York Times,"Sam Siatta, a Marine veteran, was blackout drunk when he forced his way into a house he apparently thought was his https://t.co/R5W4anv83u",Sat Dec 31 18:45:05 +0000 2016,-0.6597,0.0,0.769,0.231
+187,The New York Times,"Natalie Cole's extreme highs and lows: Every time she hit it big, something knocked her down https://t.co/RxmMZnrw50 https://t.co/oXpH99semX",Sat Dec 31 18:30:13 +0000 2016,-0.2023,0.0,0.904,0.096
+188,The New York Times,"With 3 weeks left in office, Obama is using all his powers to cement his legacy and make undoing it harder for Trump https://t.co/YPEzs09tMq",Sat Dec 31 18:15:05 +0000 2016,0.0,0.0,1.0,0.0
+189,The New York Times,"Trump will build 2 resorts in Indonesia, forging relationships with powerful political figures there https://t.co/G9EejWdXqf",Sat Dec 31 17:56:03 +0000 2016,0.4215,0.177,0.823,0.0
+190,The New York Times,"The campaign ad that moved people the most in 2016: Bernie Sanders’s ""America""  https://t.co/dC32LKkRGo via @nytopinion",Sat Dec 31 17:46:02 +0000 2016,0.0,0.0,1.0,0.0
+191,The New York Times,"In the Czech Republic, questions swirl about Russian influence in the presidential palace https://t.co/mUrKH7HfJA",Sat Dec 31 17:36:06 +0000 2016,0.0,0.0,1.0,0.0
+192,The New York Times,Our top 10 comments of the week https://t.co/266OF0I92a https://t.co/QEMV2zXDlP,Sat Dec 31 17:26:05 +0000 2016,0.2023,0.184,0.816,0.0
+193,The New York Times,The rooms they left behind: A look at the spaces of 10 notable people we lost in 2016 https://t.co/RcjS8SECCQ https://t.co/KTo7EguvfB,Sat Dec 31 17:16:11 +0000 2016,-0.3182,0.0,0.887,0.113
+194,The New York Times,"If China shuts down their ivory market, will this save the elephants? This is what experts have to say. https://t.co/AHXwiPr0BL",Sat Dec 31 17:06:05 +0000 2016,0.5789,0.165,0.835,0.0
+195,The New York Times,Check your Netflix queue and make sure you don’t miss out on any of these movies before Jan. 1 https://t.co/s7H8Sjhu8h,Sat Dec 31 17:01:03 +0000 2016,0.1779,0.11,0.813,0.077
+196,The New York Times,The killing of the Greek ambassaor to Brazil was shocking even for the crime-weary city of Rio de Janeiro https://t.co/og0mRYJCzR,Sat Dec 31 16:46:07 +0000 2016,-0.7964,0.0,0.717,0.283
+197,The New York Times,"Hillary Clinton's loss was a loss for feminism, too https://t.co/I3evCNumY7 via @nytopinion",Sat Dec 31 16:31:02 +0000 2016,-0.5574,0.0,0.662,0.338
+198,The New York Times,Choose a month this year to quit sugar. Go cold turkey. https://t.co/clg68XTX84 via @nytopinion,Sat Dec 31 16:16:05 +0000 2016,0.0,0.0,1.0,0.0
+199,The New York Times,The Connecticut Supreme Court reinstated a Kennedy cousin's murder conviction in the 1975 killing of a teen https://t.co/FRqKjMd1fr,Sat Dec 31 16:01:01 +0000 2016,-0.7579,0.14,0.506,0.354
+200,Fox News,How are you celebrating the New Year? Tweet your pics using #FoxNews2017. https://t.co/4LrEZPgTjQ,Sat Dec 31 17:53:47 +0000 2016,0.5719,0.236,0.764,0.0
+201,Fox News,.@DustinLynch wishes all of you a Happy New Year! #FoxNews2017 https://t.co/ePee9AJwKF,Sat Dec 31 17:53:41 +0000 2016,0.68,0.411,0.589,0.0
+202,Fox News,#HongKong rings in 2017 with a dazzling fireworks display! #FoxNews2017 https://t.co/yE1h5C2N89,Sat Dec 31 17:46:00 +0000 2016,0.0,0.0,1.0,0.0
+203,Fox News,.@BillHemmer &amp; @marthamaccallum want to say thank you to all of the viewers and Happy New Year! #FoxNews2017 https://t.co/u0gv54E1gw,Sat Dec 31 17:24:12 +0000 2016,0.7777,0.328,0.672,0.0
+204,Fox News,"President-elect @realDonaldTrump shared a New Year's Eve message for the American people, including his ""enemies.""… https://t.co/S2oFjWfhdO",Sat Dec 31 17:14:39 +0000 2016,0.34,0.146,0.854,0.0
+205,Fox News,'BRING IT ON': Obama to visit Democrats ahead of health law fight https://t.co/XheNbIIDbL https://t.co/OciEWDy5Ji,Sat Dec 31 17:12:21 +0000 2016,-0.3818,0.0,0.833,0.167
+206,Fox News,"Ring in the new year with Fox News!  The party starts tonight, 8p ET. @kimguilfoyle @ericbolling @jessebwatters… https://t.co/GVdDGNzrWs",Sat Dec 31 16:59:11 +0000 2016,0.4574,0.15,0.85,0.0
+207,Fox News,"Wow, check out @tomshillue’s message for the new year and celebrate with Fox News tonight starting at 8p ET!… https://t.co/6ySfBEoVeB",Sat Dec 31 16:50:11 +0000 2016,0.8313,0.302,0.698,0.0
+208,Fox News,"It's 2017 in Sydney, Australia! Celebrate the new year with Fox News Channel tonight, starting at 8p ET.… https://t.co/wlqbEnY2Gy",Sat Dec 31 16:35:07 +0000 2016,0.6114,0.182,0.818,0.0
+209,Fox News,"RT @FoxNewsInsider: LOOK: Trump Wishes Happy New Year to All; 'Including My Enemies'
+https://t.co/u0hsha5VPE",Sat Dec 31 16:28:12 +0000 2016,0.2732,0.272,0.564,0.164
+210,Fox News,.@TeamUSA's gold medal-winning Olympic gymnasts wish all of you a Happy New Year! #FoxNews2017 #TheFinalFive https://t.co/uCQTDtYkTf,Sat Dec 31 16:01:19 +0000 2016,0.7712,0.34,0.66,0.0
+211,Fox News,Officials are concerned that President-elect @realDonaldTrump's immigration plans may affect those immigrants. https://t.co/VrzUiNmjKF,Sat Dec 31 15:59:27 +0000 2016,0.0,0.0,1.0,0.0
+212,Fox News,"Weeks before the shooting, the 32-year-old suspect posted anti-police comments on his Facebook page, per reports. https://t.co/93PzAc4ssH",Sat Dec 31 15:56:11 +0000 2016,-0.296,0.0,0.879,0.121
+213,Fox News,The first eaglet has hatched! (via @SWFLEagleCAM) https://t.co/YYjyiuQTaq,Sat Dec 31 15:55:51 +0000 2016,0.0,0.0,1.0,0.0
+214,Fox News,"“I don't think they will have much impact at all,” said former United Nations @AmbJohnBolton. https://t.co/mLZVuMkhZZ",Sat Dec 31 15:54:59 +0000 2016,0.4215,0.157,0.843,0.0
+215,Fox News,"A burned body, the police believe is the diplomat's, was found inside his torched car in Rio. https://t.co/wcRvPjBaYM",Sat Dec 31 15:53:45 +0000 2016,0.0,0.0,1.0,0.0
+216,Fox News,"""This attack shows how rampant Russian hacking is. It's systemic, relentless, predatory,"" Rep. Peter Welch said. https://t.co/jrsNivzz6l",Sat Dec 31 15:51:24 +0000 2016,-0.4404,0.062,0.777,0.161
+217,Fox News,"'RELENTLESS, PREDATORY': Malware code tied to Russian hackers found on US electric company laptop https://t.co/jrsNivRauV",Sat Dec 31 15:29:00 +0000 2016,0.0,0.0,1.0,0.0
+218,Fox News,"Happy New Year Sydney, #Australia! #FoxNews2017 https://t.co/YXWo4EOSaa",Sat Dec 31 15:12:29 +0000 2016,0.6114,0.4,0.6,0.0
+219,Fox News,How do you feel about the number 17? @TheJuanWilliams says it’s lucky! #FoxNews2017 https://t.co/UqlmpC5clQ,Sat Dec 31 15:08:56 +0000 2016,0.5255,0.268,0.732,0.0
+220,CNN,"Armed with just water and a few snacks, this mom trekked 26 freezing miles to find help for her family… https://t.co/kvESxlTf1w",Sat Dec 31 11:01:33 +0000 2016,0.3182,0.122,0.814,0.063
+221,CNN,"George Michael's career spanned four decades, in which he sold over 100 million albums worldwide… https://t.co/QLUdsoUjWj",Sat Dec 31 10:46:07 +0000 2016,0.0,0.0,1.0,0.0
+222,CNN,"From nuclear tests in North Korea to a bloodbath in Aleppo, these were some of the most shocking moments from 2016.… https://t.co/FMbxO8UUo0",Sat Dec 31 10:31:20 +0000 2016,-0.4576,0.0,0.87,0.13
+223,CNN,"Syria's ceasefire violated more than 30 times in its first 24 hours, opposition groups say: https://t.co/gYqQLM12YX https://t.co/BcVnx2jcv5",Sat Dec 31 10:15:01 +0000 2016,-0.5267,0.0,0.825,0.175
+224,CNN,UFC's once-great hope Ronda Rousey suffers lightning-fast defeat: https://t.co/Nr6Rx9hlOb https://t.co/0HexvVPYwJ,Sat Dec 31 10:01:01 +0000 2016,-0.4939,0.181,0.438,0.381
+225,CNN,"Putin congratulates Trump, not Obama, in New Year greetings statement: https://t.co/KFTFGogvJG https://t.co/ysKTPqIvP0",Sat Dec 31 09:40:01 +0000 2016,0.4215,0.203,0.797,0.0
+226,CNN,"Two people killed, two more wounded in a shooting after a concert in Connecticut by rapper Meek Mill, police say: https://t.co/5vvyZiwHP5",Sat Dec 31 09:30:33 +0000 2016,-0.6705,0.0,0.8,0.2
+227,CNN,Pregnant server gets $900 tip from pregnant customer at Arizona restaurant https://t.co/Qlnub2iFdy https://t.co/GbRO7CLNi1,Sat Dec 31 09:01:17 +0000 2016,0.0,0.0,1.0,0.0
+228,CNN,The legends of music we lost in 2016 https://t.co/tWoIfScuOB https://t.co/FsY7QdEDow,Sat Dec 31 08:31:01 +0000 2016,-0.3182,0.0,0.796,0.204
+229,CNN,Sri Lankan church service booklet prints the lyrics to Tupac Shakur's 'Hail Mary' instead of the Hail Mary prayer… https://t.co/JPXjsGj901,Sat Dec 31 08:01:00 +0000 2016,0.1531,0.126,0.874,0.0
+230,CNN,"China will ban ivory trade by end of 2017, a move that could save African elephants from extinction:… https://t.co/Gcrxr1pacy",Sat Dec 31 07:41:54 +0000 2016,-0.1027,0.14,0.702,0.158
+231,CNN,"Suicide attack on busy commercial street in Baghdad leaves at least 19 people dead, scores wounded, authorities say: https://t.co/f5Wazr8xBd",Sat Dec 31 07:29:30 +0000 2016,-0.9169,0.0,0.573,0.427
+232,CNN,George Michael came out during an interview with CNN in 1998; he spoke about how his sexuality influenced his songs… https://t.co/8WSZ9limeL,Sat Dec 31 07:01:36 +0000 2016,0.0,0.0,1.0,0.0
+233,CNN,"Vera Rubin, a pioneering astrophysicist who proved the existence of dark matter, died on Christmas at age 88… https://t.co/QnA5mO1d1Z",Sat Dec 31 06:31:00 +0000 2016,-0.5423,0.053,0.773,0.174
+234,CNN,"More than 50,000 people were evacuated from a German city on Christmas after a 1.8 ton WWII bomb was found there… https://t.co/byMyAb3PQs",Sat Dec 31 06:01:01 +0000 2016,-0.4939,0.0,0.856,0.144
+235,CNN,"This boss is taking employees on a Caribbean cruise -- all 800 of them, that is https://t.co/bcWWh7HbxK https://t.co/VR1b2LzniW",Sat Dec 31 05:31:01 +0000 2016,0.0,0.0,1.0,0.0
+236,CNN,"The giants of music, film, sport, literature, comedy, art and politics we lost in 2016 https://t.co/ys7oobkcS9 https://t.co/1ZRD6IRdDi",Sat Dec 31 05:01:01 +0000 2016,0.0516,0.126,0.758,0.116
+237,CNN,17 things we're looking forward to in 2017 https://t.co/o7WkKmO3HS https://t.co/R6mo8YYT6L,Sat Dec 31 04:31:01 +0000 2016,0.0,0.0,1.0,0.0
+238,CNN,"The US military is warning against the danger of troops over-consuming energy drinks, saying it could be harmful… https://t.co/xJhwyv1yII",Sat Dec 31 04:01:01 +0000 2016,-0.5719,0.088,0.669,0.243
+239,CNN,"Georgia coroner offers free rides to New Year's Eve partiers: ""It's my job to keep people out of body bags""… https://t.co/G3lhWSuOJD",Sat Dec 31 03:46:01 +0000 2016,0.6124,0.208,0.792,0.0
+240,BBC News (World),"Stuck on a ride, 148ft in the air https://t.co/xKqUkFADSo",Sat Dec 31 10:50:35 +0000 2016,-0.25,0.0,0.778,0.222
+241,BBC News (World),Spain Catalonia: Separatist leader vows 2017 referendum in teeth of Madrid https://t.co/DQQDp39yrs,Sat Dec 31 10:41:43 +0000 2016,0.0,0.0,1.0,0.0
+242,BBC News (World),US theme park visitors rescued from ride in southern California https://t.co/XePyRBtZU6,Sat Dec 31 08:44:35 +0000 2016,0.4215,0.219,0.781,0.0
+243,BBC News (World),Deadly explosions hit Baghdad market https://t.co/rnc926PWOK,Sat Dec 31 06:49:50 +0000 2016,0.0,0.0,1.0,0.0
+244,BBC News (World),Syria conflict: UN to vote on Syria ceasefire deal https://t.co/nZotDiSUfJ,Sat Dec 31 04:54:40 +0000 2016,-0.3182,0.0,0.796,0.204
+245,BBC News (World),Merkel: Islamist terror is 'greatest threat' to Germany https://t.co/mJrKHKiYBZ,Sat Dec 31 01:25:35 +0000 2016,-0.3818,0.247,0.353,0.4
+246,BBC News (World),Kennedy cousin's murder conviction reinstated https://t.co/9FwlBSaFwh,Sat Dec 31 01:16:32 +0000 2016,-0.6908,0.0,0.515,0.485
+247,BBC News (World),"We're awesome, eh? https://t.co/9UdpWmM6sH",Sat Dec 31 00:49:38 +0000 2016,0.6249,0.577,0.423,0.0
+248,BBC News (World),Drone photography: on top of the world https://t.co/o0U2VYw5t0,Sat Dec 31 00:40:38 +0000 2016,0.2023,0.205,0.795,0.0
+249,BBC News (World),Inside the bathroom bus of Athens https://t.co/zWVHImtRgZ,Sat Dec 31 00:31:36 +0000 2016,0.0,0.0,1.0,0.0
+250,BBC News (World),Smooth operators https://t.co/8xwRVBAVsm,Sat Dec 31 00:24:56 +0000 2016,0.0,0.0,1.0,0.0
+251,BBC News (World),Russian riddle https://t.co/rjd6UZKifO,Sat Dec 31 00:22:41 +0000 2016,0.0,0.0,1.0,0.0
+252,BBC News (World),Guilt by association https://t.co/Boi1OKk88h,Sat Dec 31 00:18:05 +0000 2016,-0.2732,0.0,0.588,0.412
+253,BBC News (World),New path for Syria https://t.co/7snfo0w8RE,Sat Dec 31 00:13:37 +0000 2016,0.0,0.0,1.0,0.0
+254,BBC News (World),UN chief Ban Ki-moon bids fond farewell https://t.co/FjxZnXwwLM,Fri Dec 30 23:01:20 +0000 2016,-0.1779,0.232,0.48,0.288
+255,BBC News (World),The ordinary Africans hitting the headlines in 2016 https://t.co/rU4StssDed,Fri Dec 30 22:54:32 +0000 2016,0.0,0.0,1.0,0.0
+256,BBC News (World),Brazil policeman 'killed Greek envoy' https://t.co/WKTJIZlywx,Fri Dec 30 22:43:21 +0000 2016,-0.6705,0.0,0.526,0.474
+257,BBC News (World),"RT @BBCBreaking: Greek ambassador was killed by Brazil police officer, who was having an affair with envoy's wife, investigator says https:…",Fri Dec 30 22:39:25 +0000 2016,-0.6705,0.0,0.816,0.184
+258,BBC News (World),"RT @BBCBreaking: British tennis champion Andy Murray and athlete Mo Farah are knighted in New Year Honours list
+https://t.co/9ZDmmzhNT8 htt…",Fri Dec 30 22:32:26 +0000 2016,0.7964,0.283,0.717,0.0
+259,BBC News (World),Kinder Surprise inventor dies https://t.co/Iu1jQwhTdR,Fri Dec 30 22:16:17 +0000 2016,0.6486,0.639,0.361,0.0
+260,CBS News,Experts say there are several common pitfalls that keep people from achieving their New Year’s resolutions… https://t.co/kz1Bzy68VY,Sat Dec 31 11:30:01 +0000 2016,0.0,0.0,1.0,0.0
+261,CBS News,"The minimum wage is going up in 20 states and Washington, D.C. https://t.co/LLEIXWeHZW https://t.co/FE8QEenUUx",Sat Dec 31 11:00:02 +0000 2016,0.0,0.0,1.0,0.0
+262,CBS News,"Is your profession on this “endangered jobs"" list? https://t.co/VSOLFqeldd https://t.co/2i0jGWRgXp",Sat Dec 31 10:30:01 +0000 2016,0.0,0.0,1.0,0.0
+263,CBS News,Johns Hopkins begins payouts to women secretly filmed by gynecologist https://t.co/jAGD1tfkqZ https://t.co/grLUYweo5E,Sat Dec 31 10:00:02 +0000 2016,0.0,0.0,1.0,0.0
+264,CBS News,Couple together 17 years to marry on Rose Parade float https://t.co/UkxW6wBUkC https://t.co/BuIeGyLDeD,Sat Dec 31 09:00:01 +0000 2016,0.0,0.0,1.0,0.0
+265,CBS News,Hunger around the U.S. is on the rise as families cope with rising housing costs and stagnant wages… https://t.co/81IeQvffxd,Sat Dec 31 08:30:01 +0000 2016,-0.25,0.0,0.9,0.1
+266,CBS News,"Lindsay Lohan is ""trying so hard"" to get a ""Mean Girls"" sequel made https://t.co/BLTHGU3PTP https://t.co/skXptzRv4j",Sat Dec 31 08:00:01 +0000 2016,-0.2183,0.0,0.874,0.126
+267,CBS News,The nation's first offshore wind farm is up and running off the coast of Rhode Island https://t.co/zV2ONaV5nq https://t.co/OHpeFBuuDj,Sat Dec 31 07:30:01 +0000 2016,0.0,0.0,1.0,0.0
+268,CBS News,"Cop catches teen smoking pot outside movie theater, gives him 2 options https://t.co/bLWZ0Jc4CR https://t.co/XANKgF87b4",Sat Dec 31 07:01:00 +0000 2016,0.0,0.0,1.0,0.0
+269,CBS News,These are the top 10 richest billionaires in the world in 2016 https://t.co/aDZkcv3IpT https://t.co/qm0rXjeTHR,Sat Dec 31 06:00:01 +0000 2016,0.6369,0.302,0.698,0.0
+270,CBS News,"Amid population declines, conservationists sound alarm bells for the cheetah: https://t.co/hWF3zfJNga https://t.co/QRqQ54gY2Y",Sat Dec 31 05:30:01 +0000 2016,-0.34,0.0,0.821,0.179
+271,CBS News,"Man accused of fatally stabbing 5-year-old stepdaughter, setting body aflame https://t.co/cK7PIS7FnQ https://t.co/Z8oAfyOF6o",Sat Dec 31 05:00:01 +0000 2016,-0.7506,0.0,0.61,0.39
+272,CBS News,Mormon Tabernacle Choir singer says she resigned from group over decision to perform at inauguration… https://t.co/ZOhdSIXGGn,Sat Dec 31 04:30:03 +0000 2016,-0.25,0.0,0.882,0.118
+273,CBS News,"Mexican man charged in 13-year-old girl's rape had 10 deportations, reports say https://t.co/z4s5WHjh4P https://t.co/QdPd31R6To",Sat Dec 31 04:00:02 +0000 2016,-0.7579,0.0,0.649,0.351
+274,CBS News,"Lawmaker wants porn declared a public health hazard, says “pornography epidemic” needs to be addressed… https://t.co/GiwoFapLvQ",Sat Dec 31 03:30:01 +0000 2016,0.0,0.0,1.0,0.0
+275,CBS News,"For a little extra dazzle this New Year's Eve, you may want to look up. This comet will zoom by Earth Saturday… https://t.co/On1dLoAs7k",Sat Dec 31 03:00:02 +0000 2016,0.0772,0.058,0.942,0.0
+276,CBS News,Police in Brazil believe Greece’s ambassador to the country was killed by his wife’s lover https://t.co/g5lEQ1Xp3q https://t.co/nLA8J5jKRA,Sat Dec 31 02:30:01 +0000 2016,-0.1779,0.163,0.644,0.193
+277,CBS News,Court reinstates Kennedy cousin Michael Skakel’s murder conviction in 1975 murder of Martha Moxley… https://t.co/HJKpZuwE1H,Sat Dec 31 02:04:01 +0000 2016,-0.886,0.0,0.58,0.42
+278,CBS News,Children can be heard screaming “just stop daddy” on 911 call made from lawmaker's home https://t.co/H65RUjzm0n https://t.co/W5a1RfaGvd,Sat Dec 31 01:33:55 +0000 2016,-0.5859,0.0,0.758,0.242
+279,CBS News,Three rookie cops reportedly fired for joking about target practice in black neighborhood https://t.co/7Yu5s7AGWf https://t.co/YHkkF7yT2T,Sat Dec 31 00:55:02 +0000 2016,-0.4019,0.103,0.703,0.195
+280,The New York Times,Donald Trump now has the option of thanking Putin and of trying to start a new chapter in U.S.-Russia relations https://t.co/BuRiy7KklW,Sat Dec 31 15:46:03 +0000 2016,0.0,0.0,1.0,0.0
+281,The New York Times,"“People in Texas will buy trucks even if they’re not going to haul anything heavier than raindrops"" https://t.co/UxIR78LN08",Sat Dec 31 15:31:04 +0000 2016,0.0,0.0,1.0,0.0
+282,The New York Times,"Spinraza, a “life-changing” drug for spinal muscular atrophy, will cost $750,000 for the first year of treatment https://t.co/nA5AzOZ5xM",Sat Dec 31 15:16:05 +0000 2016,0.0,0.0,1.0,0.0
+283,The New York Times,We have been covering every murder in 2016 in a Bronx precinct. Here’s what we learned about the cycle of violence. https://t.co/XtXebkXbvE,Sat Dec 31 15:02:30 +0000 2016,-0.8689,0.0,0.683,0.317
+284,The New York Times,Many immigrants and their partners say they're feeling an urgency to put a ring on it before Trump becomes president https://t.co/gJ6pNcVdFK,Sat Dec 31 14:46:02 +0000 2016,0.128,0.073,0.927,0.0
+285,The New York Times,RT @NYTStyles The many shades of nude makeup: https://t.co/Hyv72AKbAg https://t.co/GWR6S8GXOX,Sat Dec 31 14:31:17 +0000 2016,0.0,0.0,1.0,0.0
+286,The New York Times,RT @NYTNational: Reporter's notebook: Forcing a district attorney’s hand https://t.co/B7pu6rPZFQ,Sat Dec 31 14:13:34 +0000 2016,0.4939,0.286,0.714,0.0
+287,The New York Times,"For New Yorkers who have long hoped for a Second Avenue subway, the wait is almost over https://t.co/hcf2mvp4NQ",Sat Dec 31 13:53:53 +0000 2016,0.3818,0.14,0.86,0.0
+288,The New York Times,RT @nytimesphoto: NYT photographer @joshhaner on new ways to visualize climate change https://t.co/qvmDlJDd1h https://t.co/GsHCa1JNY0,Sat Dec 31 13:36:47 +0000 2016,0.0,0.0,1.0,0.0
+289,The New York Times,RT @nytimesarts: Kamasi Washington began 2016 hobbled with a broken ankle. He's ending it onstage in Brooklyn https://t.co/zIvrlUQCZz https…,Sat Dec 31 13:18:36 +0000 2016,-0.4767,0.0,0.846,0.154
+290,The New York Times,RT @nytimesbooks: 9 new books recommended by editors at The New York Times https://t.co/rO3Cx7PBkE https://t.co/hFMegeyp4o,Sat Dec 31 13:00:45 +0000 2016,0.2023,0.122,0.878,0.0
+291,The New York Times,French toast with oat crumble topping for breakfast this holiday weekend https://t.co/W30sT8KKsq,Sat Dec 31 12:42:20 +0000 2016,0.481,0.221,0.779,0.0
+292,The New York Times,"2016 was a year so unexpected, so tumultuous, that the fight has just begun over which narrative might explain it.… https://t.co/JMde8W3ZQH",Sat Dec 31 12:25:04 +0000 2016,-0.3818,0.0,0.88,0.12
+293,The New York Times,Your marriage status may be a good predictor of whether you survive a stroke https://t.co/EaaOZmjGYd,Sat Dec 31 12:01:04 +0000 2016,0.4404,0.195,0.805,0.0
+294,The New York Times,"Donald Trump ""has no idea how much he is being manipulated into helping Iran and ISIS""  https://t.co/swqx5mQgRB via @nytopinion",Sat Dec 31 11:42:53 +0000 2016,-0.3818,0.096,0.696,0.209
+295,The New York Times,The Bolton Strid appears beautiful and deceptively harmless. But people call it the deadliest stream in the world.… https://t.co/D6Q0Bsu4wu,Sat Dec 31 11:24:28 +0000 2016,0.7096,0.258,0.742,0.0
+296,The New York Times,Night Out: A Night of (Mostly) Not Drinking With a ‘Drynuary’ Expert https://t.co/zpzpEhFDkt,Sat Dec 31 11:06:08 +0000 2016,0.0,0.0,1.0,0.0
+297,The New York Times,One of our popular stories on Twitter this year: The man who got her dad's donated heart walked her down the aisle… https://t.co/cnZirlQGR2,Sat Dec 31 11:00:41 +0000 2016,0.4215,0.113,0.887,0.0
+298,The New York Times,7 tips for making it through the winter https://t.co/MKgApZFHJt https://t.co/Im1ha0VSIO,Sat Dec 31 10:44:25 +0000 2016,0.0,0.0,1.0,0.0
+299,The New York Times,RT @nytimesarts: Run-DMC wants its brand back https://t.co/48JovzQNyN https://t.co/5Neexu9ChX,Sat Dec 31 10:26:28 +0000 2016,0.0,0.0,1.0,0.0
+300,Fox News,Tell us what you think of the @49ers' decision to honor @Kaepernick7 with this prestigious award. https://t.co/oENzqPxBwF,Sat Dec 31 14:44:38 +0000 2016,0.7717,0.309,0.691,0.0
+301,Fox News,How was your 2016? https://t.co/mlLZO7CV7s,Sat Dec 31 14:43:00 +0000 2016,0.0,0.0,1.0,0.0
+302,Fox News,".@kilmeade, @stevedoocy and @ainsleyearhardt wish all of you a Happy New Year! Can you guess their resolutions?… https://t.co/uHCbzFrEsH",Sat Dec 31 14:28:57 +0000 2016,0.7712,0.309,0.691,0.0
+303,Fox News,COMEBACK CUT SHORT: Referee calls fight 48 seconds into Ronda Rousey's UFC return https://t.co/kyrJQx8S0T https://t.co/MlZ6DMRoTO,Sat Dec 31 13:32:45 +0000 2016,-0.6633,0.0,0.705,0.295
+304,Fox News,South Koreans demand leader's removal in New Year's Eve protest https://t.co/9UkwoH5zyP,Sat Dec 31 11:01:48 +0000 2016,-0.3612,0.0,0.72,0.28
+305,Fox News,"2 dead, 2 injured in Connecticut shooting after rapper's concert https://t.co/sl6yqkGHB2 https://t.co/fj12BFwYy6",Sat Dec 31 10:17:01 +0000 2016,-0.7906,0.0,0.533,0.467
+306,Fox News,Baghdad bomb blasts kill at least 28 https://t.co/oVlXQhu7sa,Sat Dec 31 09:43:30 +0000 2016,-0.836,0.0,0.432,0.568
+307,Fox News,"Philadelphia zoo euthanizes 25-year-old lion, believed to be oldest held in US https://t.co/4PFBzXNwOR https://t.co/QjwkZM56E7",Sat Dec 31 09:15:54 +0000 2016,0.0,0.0,1.0,0.0
+308,Fox News,Raging blaze burns a dozen storefronts in New York; 3 firefighters injured https://t.co/hDdaKN6ret,Sat Dec 31 08:35:04 +0000 2016,-0.7269,0.0,0.596,0.404
+309,Fox News,"Mexican man accused of rape had 19 deportations, removals https://t.co/pQiuooEsVR https://t.co/0pidceTU8B",Sat Dec 31 07:52:48 +0000 2016,-0.7845,0.0,0.566,0.434
+310,Fox News,"Top political scandals, gaffes and controversies of 2016 https://t.co/mNeGyLZbtk https://t.co/UZliCafTsN",Sat Dec 31 07:30:01 +0000 2016,-0.34,0.138,0.615,0.246
+311,Fox News,Hawaiian cafe backs down over ban on Trump voters https://t.co/pvhprrS5vY https://t.co/FqBscckIVG,Sat Dec 31 07:00:01 +0000 2016,-0.5859,0.0,0.652,0.348
+312,Fox News,North Carolina gov.-elect sues over law stripping his powers  https://t.co/CKtglHlh1y https://t.co/bAEv6Ei1Io,Sat Dec 31 06:35:01 +0000 2016,0.0,0.0,1.0,0.0
+313,Fox News,Connecticut's top court reinstates Kennedy cousin murder conviction https://t.co/k23t4HKrHX,Sat Dec 31 06:00:00 +0000 2016,-0.5994,0.133,0.519,0.348
+314,Fox News,Aleppo's orphans replay their trauma with war games in the rubble https://t.co/iWafky6Ejv https://t.co/EKT49KJgct,Sat Dec 31 05:30:01 +0000 2016,-0.7717,0.0,0.621,0.379
+315,Fox News,Manhunt underway for suspect in shooting death of Pennsylvania state trooper https://t.co/93PzAc4ssH,Sat Dec 31 05:04:28 +0000 2016,-0.7269,0.0,0.621,0.379
+316,Fox News,"Trump praises Putin over response to US sanctions, calls him 'very smart' https://t.co/H5hGuu0g6M https://t.co/fqKmLG1gmg",Sat Dec 31 05:00:02 +0000 2016,0.7501,0.348,0.652,0.0
+317,Fox News,No US carrier at sea leaves gap in Middle East https://t.co/G4Mo5kgPke https://t.co/OgWnJMyrsQ,Sat Dec 31 04:35:01 +0000 2016,-0.296,0.0,0.833,0.167
+318,Fox News,"#Giuliani: Obama's Russia Sanctions 'Too Little, Too Late' and 'Almost Silly'
+https://t.co/ZsSstvY669",Sat Dec 31 04:05:01 +0000 2016,-0.0498,0.0,0.902,0.098
+319,Fox News,"Mom thanks @mikeroweworks for message to her son, a soldier who has ALS. Read Rowe's heartfelt reply.… https://t.co/IHDVMnCwxB",Sat Dec 31 04:00:01 +0000 2016,0.7506,0.299,0.701,0.0
+320,CNN,"No, 2016 wasn't the worst year for celebrity deaths -- and we'll prove it https://t.co/J0XWtoDLy2 https://t.co/9JBG5PYbiw",Sat Dec 31 03:31:01 +0000 2016,0.2718,0.169,0.718,0.113
+321,CNN,"A woman discovered a baby boy, umbilical cord still attached, left in a box by a trash bin on the streets of Brazil… https://t.co/46fNEfwz5H",Sat Dec 31 03:01:23 +0000 2016,0.0,0.0,1.0,0.0
+322,CNN,"The northeast will ring in the New Year with delays, snow and cold https://t.co/cbGCvw3ycT https://t.co/wrc7KqxU2r",Sat Dec 31 02:53:01 +0000 2016,0.0,0.0,1.0,0.0
+323,CNN,Chief White House photographer @petesouza has selected his staff's best photos of President Barack Obama from 2016… https://t.co/7i3IMWQy5C,Sat Dec 31 02:41:40 +0000 2016,0.6369,0.198,0.802,0.0
+324,CNN,European capitals ramp up security for New Year's Eve https://t.co/YUIs08ddcG https://t.co/tysMl7BcHa,Sat Dec 31 02:31:01 +0000 2016,0.34,0.194,0.806,0.0
+325,CNN,Here's what we know about the two Russian compounds being closed; the Soviet Union purchased them decades ago… https://t.co/XMwqWnykeI,Sat Dec 31 02:21:01 +0000 2016,0.0,0.0,1.0,0.0
+326,CNN,Kellyanne Conway's husband on short list for top US lawyer job https://t.co/WQZQRXF50O https://t.co/2m1qQaDq88,Sat Dec 31 02:09:01 +0000 2016,0.2023,0.13,0.87,0.0
+327,CNN,This pilot took to the sky to write a New Year's message https://t.co/olGGR4qTuY https://t.co/PDf1mzDaJ9,Sat Dec 31 02:09:00 +0000 2016,0.0,0.0,1.0,0.0
+328,CNN,"Whether it was a feud, a high-profile divorce or a jewelry heist, 2016 was full of jaw-dropping celebrity moments… https://t.co/jbwwXE4GyW",Sat Dec 31 01:58:29 +0000 2016,-0.34,0.0,0.87,0.13
+329,CNN,Think the Mannequin Challenge is tough? Try doing it in space. https://t.co/q2MGYzTdhk,Sat Dec 31 01:51:36 +0000 2016,-0.0516,0.102,0.781,0.117
+330,CNN,"""The protocol of the day was to lie"": NYC issues first US ""intersex"" birth certificate https://t.co/Sa2nAYpw41 https://t.co/M5LoLknF2j",Sat Dec 31 01:46:01 +0000 2016,0.0,0.0,1.0,0.0
+331,CNN,"Pan Pan, the world's oldest male panda, has died. He helped father about 25% of the world's captive panda populatio… https://t.co/KMwB4agzbj",Sat Dec 31 01:42:25 +0000 2016,-0.5574,0.0,0.847,0.153
+332,CNN,We laughed. We cried. We felt a little uncomfortable. Here’s to 10 years of crazy fun with @andersoncooper &amp;… https://t.co/7d1uRtnwRh,Sat Dec 31 01:29:35 +0000 2016,-0.0018,0.228,0.507,0.265
+333,CNN,Rep. Trent Franks walks back his comments suggesting Russia hackers were only doing what US media should have done… https://t.co/8M4ptJVX4G,Sat Dec 31 01:18:01 +0000 2016,0.0,0.0,1.0,0.0
+334,CNN,"2016 was busy for the US Border Patrol, with total nationwide arrests up 23% from 2015, according to a DHS report… https://t.co/nDdhqabx3D",Sat Dec 31 01:11:01 +0000 2016,-0.4404,0.0,0.873,0.127
+335,CNN,"A member of the Mormon Tabernacle Choir has quit the group, saying she could never sing for Trump… https://t.co/rIbdDHgOas",Sat Dec 31 00:42:01 +0000 2016,0.0,0.0,1.0,0.0
+336,CNN,"What's their angle? Breaking down the Putin, Trump and Obama spy games https://t.co/387USJA0Jf https://t.co/iFI8L6i0FJ",Sat Dec 31 00:37:01 +0000 2016,0.0,0.0,1.0,0.0
+337,CNN,That time Barack Obama almost left politics https://t.co/exxC7vlMG6 https://t.co/zuNsm8xDt5,Sat Dec 31 00:32:01 +0000 2016,0.0,0.0,1.0,0.0
+338,CNN,Ronda Rousey returns to the Octagon. But for how long? https://t.co/5iuOkruUrg https://t.co/PTQSY3XN9D,Sat Dec 31 00:26:01 +0000 2016,0.0,0.0,1.0,0.0
+339,CNN,Babies born. Peace treaties signed. 16 numbers that perfectly captured 2016 https://t.co/b5SoAxyILP https://t.co/1Jx5lcdT6r,Sat Dec 31 00:22:01 +0000 2016,0.8271,0.412,0.588,0.0
+340,BBC News (World),"#SaveArash plead Iranians for imprisoned hunger striker
+https://t.co/dKVVpm0hlM https://t.co/4xhXsqT6SA",Fri Dec 30 21:54:59 +0000 2016,-0.6124,0.0,0.583,0.417
+341,BBC News (World),It's been a momentous year for news. Here's a look back at some of the biggest @BBCBreaking stories:… https://t.co/nnmQMtt4MX,Fri Dec 30 21:32:52 +0000 2016,0.0,0.0,1.0,0.0
+342,BBC News (World),"So long, Barack https://t.co/9DQUcbzPXz",Fri Dec 30 21:04:23 +0000 2016,0.0,0.0,1.0,0.0
+343,BBC News (World),Russia-US row: Trump praises Putin amid hacking expulsions https://t.co/UEeIIj0ngt,Fri Dec 30 20:50:56 +0000 2016,0.5267,0.298,0.702,0.0
+344,BBC News (World),RT @BBCBreaking: US President-elect Donald Trump praises 'smart' Vladimir Putin amid row over hacking and diplomat expulsions https://t.co/…,Fri Dec 30 19:56:09 +0000 2016,0.5267,0.167,0.833,0.0
+345,BBC News (World),"RT @BBC_WHYS: 'My students give me hope to continue life in #Syria': a teacher on life in the Syrian capital, Damascus. https://t.co/qOxlzh…",Fri Dec 30 19:16:43 +0000 2016,0.4404,0.127,0.873,0.0
+346,BBC News (World),"It's been five years since Kim Jong-un became the leader of North Korea
+https://t.co/cngW59Suvj https://t.co/uownQdNbYb",Fri Dec 30 19:12:54 +0000 2016,0.0,0.0,1.0,0.0
+347,BBC News (World),RT @bbcweather: A great #ski season so far in Canada &amp; the USA. Ben R has the latest https://t.co/KQFiTyst0j Alina https://t.co/CnFiEvSOrp,Fri Dec 30 18:36:23 +0000 2016,0.6249,0.186,0.814,0.0
+348,BBC News (World),"The Sahaj Alternative Learning Centre is the first school of its kind in India
+https://t.co/ulitiA2fWS",Fri Dec 30 18:11:09 +0000 2016,0.5267,0.195,0.805,0.0
+349,BBC News (World),Happy ending for dogs found on railway tracks in Ukraine https://t.co/VBzVUAJXZD,Fri Dec 30 17:30:22 +0000 2016,0.5719,0.27,0.73,0.0
+350,BBC News (World),World's oldest male panda Pan Pan dies in China aged 31 https://t.co/qp3J2iw5Xi,Fri Dec 30 17:16:54 +0000 2016,0.0,0.0,1.0,0.0
+351,BBC News (World),Israel's Netanyahu denies wrongdoing ahead of investigation https://t.co/iTvx1LUFtk,Fri Dec 30 16:58:42 +0000 2016,-0.4215,0.0,0.714,0.286
+352,BBC News (World),Greek envoy to Brazil Amiridis 'found dead' as wife is held https://t.co/7zcWSiKReu,Fri Dec 30 16:16:07 +0000 2016,-0.6486,0.0,0.719,0.281
+353,BBC News (World),China announces ban on ivory trade by end of 2017 https://t.co/TpKPonJQV9,Fri Dec 30 16:11:39 +0000 2016,-0.5574,0.0,0.735,0.265
+354,BBC News (World),India opens first school for transgender pupils https://t.co/RQTq5eIzMz,Fri Dec 30 15:53:30 +0000 2016,0.0,0.0,1.0,0.0
+355,BBC News (World),Berlin truck attack: Poland buries slain driver Lukasz Urban https://t.co/DuDCatdce3,Fri Dec 30 15:49:00 +0000 2016,-0.4767,0.0,0.744,0.256
+356,BBC News (World),All aboard Morocco's high-speed train https://t.co/1HCoS3JQx8,Fri Dec 30 15:46:46 +0000 2016,0.0258,0.18,0.82,0.0
+357,BBC News (World),"They left us in 2016 but their memories and legacies live on
+
+https://t.co/GwA7L4bcVX https://t.co/WmUWlxClcn",Fri Dec 30 15:39:12 +0000 2016,0.0,0.0,1.0,0.0
+358,BBC News (World),Rohingya Myanmar: Nobel winners urge action over 'ethnic cleansing' https://t.co/BkFmVxQMCK,Fri Dec 30 15:26:31 +0000 2016,0.4767,0.256,0.744,0.0
+359,BBC News (World),"Debbie Reynolds and Carrie Fisher: Joint service planned, reports in US say https://t.co/RuXWVTfvNR",Fri Dec 30 15:01:47 +0000 2016,0.0,0.0,1.0,0.0
+360,CBS News,Woman who conspired to have her husband killed more than 3 decades ago receives prison sentence… https://t.co/Bs8PftJAtf,Sat Dec 31 00:15:30 +0000 2016,-0.8316,0.0,0.642,0.358
+361,CBS News,"Trump applauds Putin on Twitter, calls his decision not to retaliate over U.S. sanctions “very smart”… https://t.co/dqF3g88Iuu",Sat Dec 31 00:00:35 +0000 2016,0.34,0.13,0.87,0.0
+362,CBS News,Here's what each state was Googling in 2016 https://t.co/MqznmSxsxi https://t.co/fcRbDX7EpP,Fri Dec 30 23:29:44 +0000 2016,0.0,0.0,1.0,0.0
+363,CBS News,Investigators try to determine how woman fell to her death from chairlift at Colorado ski resort… https://t.co/1n4kfbhINb,Fri Dec 30 23:08:01 +0000 2016,-0.5994,0.0,0.804,0.196
+364,CBS News,China vows shutdown of ivory trade by end of 2017 https://t.co/IcnT7yYp5M https://t.co/w1RccVbIPn,Fri Dec 30 22:14:01 +0000 2016,0.0,0.0,1.0,0.0
+365,CBS News,"HBO moves up release of Carrie Fisher and Debbie Reynolds doc ""Bright Lights"" https://t.co/sL5CdH3PIh https://t.co/1gSStJz0aV",Fri Dec 30 22:00:02 +0000 2016,0.4404,0.172,0.828,0.0
+366,CBS News,"As interest rates rise, it's time think about how to make the most from your cash in the coming year… https://t.co/NHy8OPGIfe",Fri Dec 30 22:00:02 +0000 2016,0.4588,0.13,0.87,0.0
+367,CBS News,"""Star Wars: Episode VIII"" tops 2017's most anticipated movies https://t.co/tT37XYAEnw https://t.co/Ixmvvaed5d",Fri Dec 30 21:45:01 +0000 2016,-0.0772,0.208,0.566,0.226
+368,CBS News,"Good news, parents! Netflix has an on-demand New Year's Eve countdown for the kiddos https://t.co/IQ6srMUHQy https://t.co/QXzuuDIVeg",Fri Dec 30 21:30:01 +0000 2016,0.4926,0.175,0.825,0.0
+369,CBS News,"Sprint's 5,000 jobs, even if new, are a blip for U.S. economy https://t.co/Opd6D4X6Wz https://t.co/QbtcvTRxuu",Fri Dec 30 21:14:01 +0000 2016,0.0,0.0,1.0,0.0
+370,CBS News,Hubble closes out 2016 with a glorious megamaser https://t.co/vwgKaES5Q3 https://t.co/KsGAwPekXE,Fri Dec 30 21:01:01 +0000 2016,0.6369,0.344,0.656,0.0
+371,CBS News,"Honda Odyssey minivans recalled for faulty seat latch. Carmaker says more than 600,000 vehicles need to be fixed… https://t.co/j6HqCrgVDc",Fri Dec 30 20:45:01 +0000 2016,-0.3182,0.0,0.887,0.113
+372,CBS News,"A Happy New Year, indeed, for millions of the lowest-paid U.S workers as 19 states raise minimum wages come Jan. 1… https://t.co/3HnObc4yiN",Fri Dec 30 20:30:01 +0000 2016,0.5719,0.156,0.844,0.0
+373,CBS News,President-elect Trump has vowed to name China a currency manipulator on his first day in the White House… https://t.co/ov7VlWSF2B,Fri Dec 30 20:15:01 +0000 2016,0.0,0.0,1.0,0.0
+374,CBS News,Here's all the ways climate change was felt on Earth in 2016 https://t.co/pW8lXtrqWI https://t.co/i1drTkeYMi,Fri Dec 30 20:06:07 +0000 2016,0.0,0.0,1.0,0.0
+375,CBS News,"Comet 45P will streak across the sky on New Year's Eve, but you'll need help to see it https://t.co/Xe3HIyWrrn https://t.co/709rGe0dMu",Fri Dec 30 20:01:01 +0000 2016,0.5499,0.157,0.843,0.0
+376,CBS News,"Maine columnist, staunch defender of gun rights, shot to death, police say https://t.co/ojFhAXjYUm https://t.co/EeK2CC1Pwe",Fri Dec 30 19:45:01 +0000 2016,-0.7096,0.075,0.588,0.337
+377,CBS News,2 luxury retreats where Russian diplomats have gone for decades were shut down by the Obama administration… https://t.co/ktJesfJX99,Fri Dec 30 19:30:01 +0000 2016,0.0,0.0,1.0,0.0
+378,CBS News,U.S. Postal Service paid for 7 new birds to send to an Alabama woman after she received dead ones in the mail… https://t.co/HMia38GFgz,Fri Dec 30 19:15:01 +0000 2016,-0.6486,0.0,0.83,0.17
+379,CBS News,A California man is suspected of strangling ex-girlfriend in front of their toddler https://t.co/aZxeB9lUgZ https://t.co/fxTCeHEWss,Fri Dec 30 19:00:02 +0000 2016,-0.2263,0.0,0.872,0.128
+380,The New York Times,"Debbie Reynolds's death has provoked an outpouring of tributes. ""I'd hoped that my grieving was done for 2016."" https://t.co/pEetfMTZUl",Sat Dec 31 10:08:55 +0000 2016,-0.7717,0.097,0.558,0.346
+381,The New York Times,A group of resourceful snowboarders in powder-poor Rhode Island are the envy of their peers around the world… https://t.co/mGfZzDiLv5,Sat Dec 31 09:51:35 +0000 2016,-0.2732,0.0,0.89,0.11
+382,The New York Times,"RT @tmagazine: When you’re behind one of the most praised new restaurants in New York City, what comes next? https://t.co/5fvLOD1wZ2 https:…",Sat Dec 31 09:33:05 +0000 2016,0.5413,0.149,0.851,0.0
+383,The New York Times,The Ethicist: Your sister is against vaccinating her son. Can you help him get vaccinated? https://t.co/9YVimGhZQu,Sat Dec 31 09:15:53 +0000 2016,0.4019,0.153,0.847,0.0
+384,The New York Times,Korean Official Charged With Illegally Swaying Samsung Merger Vote https://t.co/4cUG48KrZM,Sat Dec 31 08:57:52 +0000 2016,-0.2023,0.0,0.833,0.167
+385,The New York Times,"Why ""repeal and delay"" for Obamacare would be very disruptive https://t.co/iIVAsMB2mD",Sat Dec 31 08:48:31 +0000 2016,-0.5984,0.0,0.648,0.352
+386,The New York Times,The Year in Pictures https://t.co/HEzmD9ivuP https://t.co/hz4rstmLwc,Sat Dec 31 08:31:05 +0000 2016,0.0,0.0,1.0,0.0
+387,The New York Times,RT @NYTSports: Both coaches in tomorrow's Ohio State-Clemson college football semifinal see the value of multisport participation https://t…,Sat Dec 31 08:08:14 +0000 2016,0.34,0.124,0.876,0.0
+388,The New York Times,Stuck at your desk? Standing up and walking around for 5 minutes every hour could change a lot. https://t.co/ZEQjWJ6euj,Sat Dec 31 07:50:39 +0000 2016,-0.25,0.0,0.889,0.111
+389,The New York Times,Security surrounding the inauguration of Donald Trump is proving to be the most challenging in recent history https://t.co/OMzIVFit03,Sat Dec 31 07:32:32 +0000 2016,0.5095,0.212,0.788,0.0
+390,The New York Times,Baghdad Blasts Kill at Least 19 https://t.co/vAcUCSiCHA,Sat Dec 31 07:32:32 +0000 2016,-0.6908,0.0,0.561,0.439
+391,The New York Times,How does Times Square preps for its New Year’s Eve celebration? Take a look behind the scenes.… https://t.co/jX4Lw22vU4,Sat Dec 31 07:14:28 +0000 2016,0.0,0.0,1.0,0.0
+392,The New York Times,"""I turned down 15 to 20 first meetings"": As Silicon Valley struggles with diversity, women get their pick of boards… https://t.co/LQiQjzimYw",Sat Dec 31 06:55:30 +0000 2016,-0.3612,0.0,0.889,0.111
+393,The New York Times,Professional wrestling is coming to China https://t.co/dtlkVuZY6x https://t.co/97A1b6KEZD,Sat Dec 31 06:36:54 +0000 2016,0.0,0.0,1.0,0.0
+394,The New York Times,Ronda Rousey’s U.F.C. Return Ends in 48 Seconds of Punches by Amanda Nunes https://t.co/3oVnZ5wBNx,Sat Dec 31 06:18:19 +0000 2016,0.0,0.0,1.0,0.0
+395,The New York Times,Carrie Fisher's writing about her struggles with depression and addiction was refreshingly honest https://t.co/x3Ov3f6UAy via @nytopinion,Sat Dec 31 06:01:50 +0000 2016,-0.4404,0.147,0.578,0.276
+396,The New York Times,"Ride along with Glinda the Good Witch as she makes a grand entrance from above the stage of “Wicked""  https://t.co/n9SZQI5XrD #Daily360",Sat Dec 31 05:45:53 +0000 2016,0.5267,0.232,0.669,0.098
+397,The New York Times,Online petitions are all over the place. But do they actually work? https://t.co/yfLGgP8lRN,Sat Dec 31 05:27:43 +0000 2016,0.0,0.0,1.0,0.0
+398,The New York Times,"Fentanyl, an anesthetic commonly used for surgery, has surpassed heroin to become the deadliest drug on Long Island https://t.co/04cXMuUsgd",Sat Dec 31 05:10:16 +0000 2016,-0.4939,0.0,0.849,0.151
+399,The New York Times,"Long before the Holocaust, Germany killed tens of thousands in Namibia. It will soon recognize this as genocide.… https://t.co/CgDnblRFz8",Sat Dec 31 04:52:38 +0000 2016,-0.6705,0.0,0.8,0.2
+400,Fox News,".@PaulBabeuAZ: ""We are going to finally put #America first, our communities and our safety first, to secure the bor… https://t.co/TYV7OlmAvr",Sat Dec 31 03:56:57 +0000 2016,0.6369,0.224,0.776,0.0
+401,Fox News,".@SebGorka: ""National security was not the priority of this administration currently in power."" #Hannity https://t.co/z5wJ53nKYD",Sat Dec 31 03:56:15 +0000 2016,0.34,0.146,0.854,0.0
+402,Fox News,"Scott: ""All Americans were angry, &amp; that anger showed up at the polls, because we were dissatisfied with the prior… https://t.co/jumEZ1rvUE",Sat Dec 31 03:51:08 +0000 2016,-0.8625,0.0,0.652,0.348
+403,Fox News,Mormon Tabernacle Choir member resigns over inauguration performance  https://t.co/pLLXB7PstA,Sat Dec 31 03:49:48 +0000 2016,-0.3182,0.0,0.777,0.223
+404,Fox News,"Peters: ""Without the least exaggeration, we can say that President Obama has been the worst foreign policy presiden… https://t.co/JbIGCpwKUk",Sat Dec 31 03:32:46 +0000 2016,-0.6249,0.0,0.814,0.186
+405,Fox News,"Trent Franks: ""This administration has weakened America across the eight years of the administration's existence.""… https://t.co/Xp3NJeTf6n",Sat Dec 31 03:21:23 +0000 2016,-0.3182,0.0,0.867,0.133
+406,Fox News,"Would #Obama have sanctioned #Russia if hacking helped #Hillary win? 
+https://t.co/yCul5e2Ir8",Sat Dec 31 03:17:56 +0000 2016,0.5859,0.275,0.725,0.0
+407,Fox News,".@SebGorka: ""There's going to be a new sheriff in town called Donald Trump."" #Hannity https://t.co/BORQPmnXtN",Sat Dec 31 03:14:00 +0000 2016,0.0,0.0,1.0,0.0
+408,Fox News,".@AmbJohnBolton: ""If [@BarackObama] really thinks he can box the new #Trump administration in, he's sadly mistaken.… https://t.co/xXcB1qdU30",Sat Dec 31 03:09:17 +0000 2016,-0.4215,0.0,0.851,0.149
+409,Fox News,SF 49ers honor Colin Kaepernick with team's most prestigious award https://t.co/3Fdcth55XC,Sat Dec 31 03:00:02 +0000 2016,0.7893,0.437,0.563,0.0
+410,Fox News,"Cathy Areu on #Obamacare: ""20 million people are insured. So, what are you going to do? Take it away?"" #KellyFile https://t.co/QVIpxPHHrP",Sat Dec 31 02:56:44 +0000 2016,0.0,0.0,1.0,0.0
+411,Fox News,".@DavidWohl on #Obamacare: ""It doesn't work. It's a poor business model that is collapsing."" #KellyFile https://t.co/y9eVRXb8Cy",Sat Dec 31 02:47:35 +0000 2016,0.3724,0.154,0.846,0.0
+412,Fox News,".@DavidWohl: ""[@BetsyDeVos] believes in school choice. She believes in kids that are suffering from attending overc… https://t.co/yj9NZ67lXp",Sat Dec 31 02:42:02 +0000 2016,-0.4767,0.0,0.838,0.162
+413,Fox News,#Russian embassy mocks President @BarackObama's sanctions with picture of 'lame' duck https://t.co/eO5lMzTgnJ,Sat Dec 31 02:34:15 +0000 2016,-0.4588,0.0,0.786,0.214
+414,Fox News,"Chavous: Russia is not our friend, and I think that [President-elect @realDonaldTrump] should not praise Vladimir P… https://t.co/vXIK0uxkzJ",Sat Dec 31 02:27:48 +0000 2016,-0.6759,0.0,0.73,0.27
+415,Fox News,.@KatrinaPierson: It is in the best interest for the Russians that Putin come to the table with a neutral state wit… https://t.co/Meo7PH3qWd,Sat Dec 31 02:24:21 +0000 2016,0.802,0.275,0.725,0.0
+416,Fox News,Chavous: #America is really uneasy with the coziness that #DonaldTrump has with #Putin. #KellyFile https://t.co/dXUNVng5zQ,Sat Dec 31 02:20:34 +0000 2016,-0.101,0.136,0.707,0.157
+417,Fox News,"Pierson: Of course the Russians are mocking Pres. Obama. He has 21 days left as pres, &amp; all of a sudden it's time t… https://t.co/9A1eihoJGy",Sat Dec 31 02:17:37 +0000 2016,-0.4019,0.0,0.895,0.105
+418,Fox News,".@GovMikeHuckabee: ""[President-elect @realDonaldTrump] isn't looking after Russia's best interests."" #KellyFile https://t.co/dzSWKndbNZ",Sat Dec 31 02:11:36 +0000 2016,0.6369,0.296,0.704,0.0
+419,Fox News,"President-elect #Trump praises Putin over response to US sanctions, calls him 'very smart' https://t.co/rJC0qpFIqn… https://t.co/50noKcpXb5",Sat Dec 31 02:03:35 +0000 2016,0.7501,0.33,0.67,0.0
+420,CNN,A mother died and her two daughters were injured when they fell from a chairlift at a Colorado ski resort… https://t.co/Z2ilX5bxKC,Sat Dec 31 00:17:35 +0000 2016,-0.743,0.0,0.717,0.283
+421,CNN,The global experiment of marijuana legalization https://t.co/wdC4tw6XaX https://t.co/QQxoWezqgC,Sat Dec 31 00:17:01 +0000 2016,0.0,0.0,1.0,0.0
+422,CNN,A meteor streaked right above a volcano in Costa Rica during a mild eruption https://t.co/GybkfuvIjt,Sat Dec 31 00:12:15 +0000 2016,0.0,0.0,1.0,0.0
+423,CNN,"Pan Pan, the oldest male panda in the world, has died at the age of 31. He fathered a quarter of all captive pandas… https://t.co/rjZLtpED30",Sat Dec 31 00:06:54 +0000 2016,-0.5574,0.0,0.865,0.135
+424,CNN,Here's a look back at the week in 33 striking and powerful photos https://t.co/T5SUcYrAkM https://t.co/XyLRWRE7vi,Fri Dec 30 23:41:03 +0000 2016,0.4215,0.177,0.823,0.0
+425,CNN,"Georgia coroner offers free rides to New Year's Eve partiers: ""It's my job to keep people out of body bags""… https://t.co/qO3547J5Y2",Fri Dec 30 23:29:01 +0000 2016,0.6124,0.208,0.792,0.0
+426,CNN,Run-DMC is suing Amazon and Walmart for $50 million https://t.co/mWXB5d3ZbA https://t.co/yJkcShvNr4,Fri Dec 30 23:22:01 +0000 2016,-0.1027,0.133,0.703,0.164
+427,CNN,"The US military is warning against the danger of troops over-consuming energy drinks, saying it could be harmful… https://t.co/aE6KAXkZHA",Fri Dec 30 23:13:28 +0000 2016,-0.5719,0.088,0.669,0.243
+428,CNN,17 things we're looking forward to in 2017 https://t.co/n2xkctOgsv https://t.co/dyKzj1axfO,Fri Dec 30 23:11:28 +0000 2016,0.0,0.0,1.0,0.0
+429,CNN,Chief White House photographer @petesouza has selected the best photos of President Barack Obama from 2016… https://t.co/rTP4CCGoFD,Fri Dec 30 22:54:03 +0000 2016,0.6369,0.208,0.792,0.0
+430,CNN,"Steve Bannon ventured into the spotlight on Friday, taking questions from a pair of pro-Trump journalists https://t.co/yukbb3QSg9",Fri Dec 30 22:47:00 +0000 2016,0.0,0.0,1.0,0.0
+431,CNN,Spies among us: Russia and the US have been expelling operatives for years https://t.co/GZJlk9uzKP https://t.co/ZtUng9yguR,Fri Dec 30 22:42:01 +0000 2016,-0.3818,0.0,0.843,0.157
+432,CNN,"No, 2016 wasn't the worst year for celebrity deaths -- and we'll prove it https://t.co/xeXX4jxI7S https://t.co/fhE7d1wiSL",Fri Dec 30 22:31:01 +0000 2016,0.2718,0.169,0.718,0.113
+433,CNN,How well do you remember some of 2016’s most memorable quotes? https://t.co/g1eQchf85C https://t.co/R5EPbxHJNg,Fri Dec 30 22:16:31 +0000 2016,0.2732,0.149,0.851,0.0
+434,CNN,"A woman discovered a baby boy, umbilical cord still attached, left in a box by a trash bin on the streets of Brazil… https://t.co/AJsGPAJa28",Fri Dec 30 22:02:24 +0000 2016,0.0,0.0,1.0,0.0
+435,CNN,"RT @TheLeadCNN: With more than 100M records sold, @chicagotheband is one of the best-selling bands of all time. See CNN's #HistoryOfChicago…",Fri Dec 30 21:58:42 +0000 2016,0.0,0.0,1.0,0.0
+436,CNN,"In 2017, Britain will have to decide what kind of Brexit it wants: hard, soft or somewhere in-between… https://t.co/b0MGs2lYay",Fri Dec 30 21:41:42 +0000 2016,-0.1027,0.0,0.928,0.072
+437,CNN,"RT @CNNMoney: 2016 has been a sweet one for investors: Dow finishes year up 13.4%, S&amp;P 500 gains 9.6% and Nasdaq jumps 7.5%.  https://t.co/…",Fri Dec 30 21:22:43 +0000 2016,0.6597,0.205,0.795,0.0
+438,CNN,Here's what we know about the two Russian compounds being closed; the Soviet Union purchased them decades ago… https://t.co/5FcZ7JfL4z,Fri Dec 30 21:22:32 +0000 2016,0.0,0.0,1.0,0.0
+439,CNN,"Pan Pan, the world's oldest male panda, has died. He helped father about 25% of the world's captive panda populatio… https://t.co/tavRSxHnJZ",Fri Dec 30 21:06:03 +0000 2016,-0.5574,0.0,0.847,0.153
+440,BBC News (World),"RT @BBCBreaking: Post-mortem examination into cause of George Michael's death ""inconclusive"" and more tests needed, say police https://t.co…",Fri Dec 30 14:48:39 +0000 2016,-0.5994,0.0,0.813,0.187
+441,BBC News (World),Caught in crosshairs https://t.co/xQs59DzWXE,Fri Dec 30 14:39:18 +0000 2016,0.0,0.0,1.0,0.0
+442,BBC News (World),Death by overtime https://t.co/ROxSyeh0FK,Fri Dec 30 14:34:56 +0000 2016,-0.5994,0.0,0.435,0.565
+443,BBC News (World),"The audience gave Alma a standing ovation 👏🏻
+https://t.co/rqexubujMk",Fri Dec 30 14:12:33 +0000 2016,0.0,0.0,1.0,0.0
+444,BBC News (World),Even being run over by trains couldn't separate these siblings. 🐶 ♥ https://t.co/p0MaVkhdE4,Fri Dec 30 13:54:25 +0000 2016,0.0,0.0,1.0,0.0
+445,BBC News (World),RT @BBCIndia: World's oldest male panda Pan Pan dies aged 31 https://t.co/x7V8rlpTFQ,Fri Dec 30 13:38:01 +0000 2016,0.0,0.0,1.0,0.0
+446,BBC News (World),Five years of Kim Jong-un in charge of North Korea https://t.co/NXqLRiOMDu,Fri Dec 30 13:22:40 +0000 2016,0.0,0.0,1.0,0.0
+447,BBC News (World),Mali sends back migrants deported by France https://t.co/gHxKj6VT9L,Fri Dec 30 13:13:35 +0000 2016,0.0,0.0,1.0,0.0
+448,BBC News (World),"RT @BBCBreaking: President Putin says no American diplomats will be expelled in retaliation for US expulsion of Russian envoys
+
+https://t.c…",Fri Dec 30 12:34:35 +0000 2016,-0.4939,0.0,0.811,0.189
+449,BBC News (World),Iceland charity arranges asylum seekers New Year party https://t.co/bzbyVodxct,Fri Dec 30 12:24:19 +0000 2016,0.6705,0.44,0.56,0.0
+450,BBC News (World),Which European city is this? https://t.co/sTnoSRhQs8,Fri Dec 30 12:19:44 +0000 2016,0.0,0.0,1.0,0.0
+451,BBC News (World),British child prodigy's Cinderella opera thrills Vienna https://t.co/z5k46hlT1J,Fri Dec 30 12:12:54 +0000 2016,0.3612,0.263,0.737,0.0
+452,BBC News (World),"In space, no one can hear you #MannequinChallenge 🚀 https://t.co/IpefawArsY",Fri Dec 30 12:00:28 +0000 2016,-0.296,0.0,0.804,0.196
+453,BBC News (World),"RT @BBCSport: Ronaldo is going nowhere...
+
+Despite there being a £250m bid for his services.
+
+➡️ https://t.co/EuojveXBpR https://t.co/MAK3h…",Fri Dec 30 11:43:05 +0000 2016,0.0,0.0,1.0,0.0
+454,BBC News (World),"Nigeria rice 'contaminated, not plastic' - NAFDAC https://t.co/vrIooPB1Lh",Fri Dec 30 11:03:05 +0000 2016,0.0,0.0,1.0,0.0
+455,BBC News (World),"The famous faces who've said their last goodbyes this year, in one comprehensive list
+
+https://t.co/4OyQfg0Jue https://t.co/LvojCZ0R4O",Fri Dec 30 11:00:07 +0000 2016,0.25,0.118,0.882,0.0
+456,BBC News (World),RT @BBCBreaking: Russian foreign ministry calls for President Putin to expel 35 US diplomats in response to expulsions by US https://t.co/S…,Fri Dec 30 10:26:08 +0000 2016,-0.4404,0.0,0.873,0.127
+457,BBC News (World),Astronauts in Mannequin Challenge https://t.co/VlDuRkGatz,Fri Dec 30 09:55:34 +0000 2016,0.0772,0.245,0.755,0.0
+458,BBC News (World),Run-DMC in $50m trademark battle https://t.co/pdwgM360et,Fri Dec 30 09:48:49 +0000 2016,-0.3818,0.0,0.658,0.342
+459,BBC News (World),Siberia Santas sky-dive with tree and wine for New Year https://t.co/fZhEKEj0ut,Fri Dec 30 09:44:18 +0000 2016,0.0,0.0,1.0,0.0
+460,CBS News,"Paul Ryan proposes fining members up to $2,500 for taking photos from House floor - a response to Democratic sit-in… https://t.co/c8xaIWsFGv",Fri Dec 30 18:45:01 +0000 2016,0.0,0.0,1.0,0.0
+461,CBS News,Drug prices will jump by 12 percent in 2017 adding to high medical costs. https://t.co/4HppDvNTro https://t.co/05pec5UnJK,Fri Dec 30 18:32:01 +0000 2016,0.0,0.0,1.0,0.0
+462,CBS News,"Winter storm clobbers northern New England, leaving thousands of homes, businesses without power… https://t.co/0veldLPYyF",Fri Dec 30 17:59:01 +0000 2016,0.0,0.0,1.0,0.0
+463,CBS News,"Americans will continue to feel the pain of high prescription drug prices in 2017, costs projected to jump 12%… https://t.co/2ZYzxUWm9b",Fri Dec 30 17:40:47 +0000 2016,-0.5106,0.0,0.852,0.148
+464,CBS News,"Elderly man angry over promotional mailer beat car salesman with golf club, cops say https://t.co/Kpjkf2KSyE https://t.co/FdAVeOKtGW",Fri Dec 30 17:20:01 +0000 2016,-0.5106,0.0,0.82,0.18
+465,CBS News,"Over-the-counter sleep aids are taken for periods far longer than their intended use, report finds… https://t.co/RKjlsMli2x",Fri Dec 30 17:10:01 +0000 2016,0.0,0.0,1.0,0.0
+466,CBS News,"Miami police officers fired over target practice jokes in WhatsApp chat, newspaper reports https://t.co/HuorvuJcAD https://t.co/WPN3CbBzTu",Fri Dec 30 17:00:02 +0000 2016,-0.3818,0.108,0.699,0.194
+467,CBS News,Mysterious illness tied to marijuana use on the rise in states with legal weed https://t.co/GF104HywC3 https://t.co/zxnQUU8gsM,Fri Dec 30 16:50:00 +0000 2016,-0.296,0.082,0.769,0.148
+468,CBS News,Venomous lionfish sends Florida diver to hospital https://t.co/Rp4zWnpJvW https://t.co/LKJUobLmIl,Fri Dec 30 16:40:01 +0000 2016,0.0,0.0,1.0,0.0
+469,CBS News,"Pete Buttigieg, mayor of South Bend, Indiana, considers a bid to lead the Democratic National Committee… https://t.co/Cp8KKFCWhd",Fri Dec 30 16:30:01 +0000 2016,0.0,0.0,1.0,0.0
+470,CBS News,"After a preliminary investigation, George Michael's cause of death is still unknown. 
+https://t.co/H0NwNdx6xy https://t.co/Y3l1GOI6NO",Fri Dec 30 16:20:01 +0000 2016,-0.5994,0.0,0.755,0.245
+471,CBS News,U.S. intelligence agencies release analysis of Russian cyber espionage https://t.co/ZzkHDxDMuE https://t.co/GD2TLRaIHD,Fri Dec 30 16:10:01 +0000 2016,0.4767,0.237,0.763,0.0
+472,CBS News,"Lindsay Lohan appears to want a ""Mean Girls"" sequel as bad as the fans https://t.co/iFvwJ8rK0w https://t.co/jAmgEFXsRI",Fri Dec 30 16:00:02 +0000 2016,-0.4939,0.073,0.73,0.197
+473,CBS News,Rap group Run-DMC files $50M lawsuit against several retailers alleging they used group's name without permission… https://t.co/NgPgykSM2X,Fri Dec 30 15:50:01 +0000 2016,-0.2263,0.0,0.894,0.106
+474,CBS News,Consider changing your passwords a vital New Year's resolution you can accomplish before the ball even drops… https://t.co/evkqfRlzT5,Fri Dec 30 15:40:01 +0000 2016,0.6124,0.25,0.75,0.0
+475,CBS News,"""It is regrettable the Obama administration ... is ending its term in an anti-Russia agony,"" Russian official says… https://t.co/3AX2aVSvE5",Fri Dec 30 15:30:01 +0000 2016,-0.5106,0.0,0.845,0.155
+476,CBS News,Texas police officer trying to arrest suspect shot by fellow cop https://t.co/JMIVEOREKu https://t.co/3bAvup92qj,Fri Dec 30 15:20:01 +0000 2016,-0.5574,0.0,0.705,0.295
+477,CBS News,"Member of the Kennedy family was arrested after a bar fight in the Aspen area, police say https://t.co/jNGKdCOtEt https://t.co/Aof0hJprE1",Fri Dec 30 15:10:01 +0000 2016,-0.6908,0.0,0.737,0.263
+478,CBS News,"Adnan Syed, whose case gain attention through the podcast ""Serial,"" to remain jailed ahead of new trial… https://t.co/eul0H9vwF8",Fri Dec 30 15:00:02 +0000 2016,0.0516,0.15,0.708,0.142
+479,CBS News,Just an hour a day on social media can affect kids' happiness - and not in a good way https://t.co/m0TYApmiyA https://t.co/Q8YE1c179e,Fri Dec 30 14:50:01 +0000 2016,0.2946,0.164,0.727,0.109
+480,The New York Times,Cheetahs are in danger of extinction https://t.co/bMJXOBDt4Z https://t.co/KDIv6KrtbG,Sat Dec 31 04:36:43 +0000 2016,-0.5267,0.0,0.673,0.327
+481,The New York Times,Why aren’t there more female billionaires? https://t.co/JvjOSqrbnY,Sat Dec 31 04:18:03 +0000 2016,0.0,0.0,1.0,0.0
+482,The New York Times,How Moscow Pays to Play in Other Countries https://t.co/R37xwg0exh,Sat Dec 31 04:00:42 +0000 2016,0.34,0.231,0.769,0.0
+483,The New York Times,"We asked some of this year’s notable authors, actors and showrunners about the TV they enjoyed most in 2016 https://t.co/TXCrcVaHZE",Sat Dec 31 03:51:26 +0000 2016,0.5106,0.148,0.852,0.0
+484,The New York Times,"By walking on 2 legs, Pedals the Bear made us rethink the divide between human and animal https://t.co/c89C3uEs0I",Sat Dec 31 03:35:27 +0000 2016,0.0,0.0,1.0,0.0
+485,The New York Times,The typical American diet includes far too much added sugar. Can you stay under a healthy limit? https://t.co/Zsf2IOKeOg via @nytopinion,Sat Dec 31 03:17:28 +0000 2016,0.4019,0.13,0.87,0.0
+486,The New York Times,"Andrew Cuomo commuted the sentence of Judith Clark, a driver in the deadly 1981 Brink's robbery https://t.co/xRzx1Fh1lB",Sat Dec 31 02:58:01 +0000 2016,0.0772,0.08,0.92,0.0
+487,The New York Times,The Lives They Lived: Remembering those we lost in the past year https://t.co/0GswTNrhIP https://t.co/oCaGEToHUs,Sat Dec 31 02:40:20 +0000 2016,-0.3182,0.0,0.85,0.15
+488,The New York Times,Putin won't expel U.S. diplomats as his foreign minister urged. He is apparently betting on better ties under Trump. https://t.co/deFtUkJJFh,Sat Dec 31 02:22:42 +0000 2016,0.6492,0.228,0.772,0.0
+489,The New York Times,"""It's true, the Germans killed us"" https://t.co/nJM1etw5HS https://t.co/wxICgvCOLd",Sat Dec 31 02:03:08 +0000 2016,-0.4019,0.211,0.451,0.338
+490,The New York Times,Wife and Her Lover Are Arrested in Killing of Greek Envoy in Brazil https://t.co/7jHaOBkwIo,Sat Dec 31 01:43:40 +0000 2016,-0.5719,0.17,0.493,0.336
+491,The New York Times,RT @nytimesbooks: John Grisham: “I still pull for the underdog. I still like the little guy.” https://t.co/eh804WptHe,Sat Dec 31 01:32:22 +0000 2016,0.3612,0.143,0.857,0.0
+492,The New York Times,RT @NYTHealth: You asked: Can psychiatric drugs blunt the mother-baby bond? Here's a short explanation: https://t.co/h129jvTjGV,Sat Dec 31 01:14:23 +0000 2016,0.0,0.0,1.0,0.0
+493,The New York Times,Times journalists reported from more than 150 countries this year. Here are some of their most gripping tales.… https://t.co/zfb3m8dWsM,Sat Dec 31 00:56:12 +0000 2016,0.0,0.0,1.0,0.0
+494,The New York Times,Michael Skakel’s Murder Conviction Has Been Reinstated https://t.co/pnEAlb8PW8,Sat Dec 31 00:38:27 +0000 2016,-0.6908,0.0,0.598,0.402
+495,The New York Times,"Oh, you're you one of the world’s greatest athletes? According to Twitter, you stink. https://t.co/eP0kBzvA7o",Sat Dec 31 00:37:13 +0000 2016,0.3612,0.211,0.653,0.136
+496,The New York Times,"A sleepy New Jersey town is gaining attention as Trump’s ""Camp David North"" https://t.co/K8tXveewVC",Sat Dec 31 00:20:43 +0000 2016,0.4215,0.189,0.811,0.0
+497,The New York Times,Detectives want the audio recorded on an Amazon Echo to investigate a murder in Arkansas — but is it legal? https://t.co/lQ62qDc6wg,Sat Dec 31 00:05:20 +0000 2016,-0.1531,0.184,0.693,0.123
+498,The New York Times,"Your Photos as Princess Leia, a Rebel and Role Model https://t.co/7XegiDfeOu",Fri Dec 30 23:46:38 +0000 2016,-0.1531,0.0,0.849,0.151
+499,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/gCevUjoqqx,Fri Dec 30 23:31:07 +0000 2016,0.0,0.0,1.0,0.0
